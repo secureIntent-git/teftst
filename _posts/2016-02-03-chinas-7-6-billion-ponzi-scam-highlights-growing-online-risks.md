@@ -1,0 +1,34 @@
+---
+ID: 659
+post_title: 'China&#039;s $7.6 billion Ponzi scam highlights growing online risks'
+author: Staff Writer
+post_date: 2016-02-03 02:01:53
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/chinas-7-6-billion-ponzi-scam-highlights-growing-online-risks/
+published: true
+original_cats:
+  - technologyNews
+original_title:
+  - 'China&#039;s $7.6 billion Ponzi scam highlights growing online risks'
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/-WZedGE0zqk/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/-WZedGE0zqk/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="6"><p><span class="articleLocation">BEIJING</span> Once China's biggest peer-to-peer (P2P) lending platform, Ezubao collected 50 billion yuan ($7.6 billion) in less than two years from more than 900,000 investors through savvy marketing and the promise of big returns.</p></span><span id="midArticle_1"/><p>But executives at Ezubao's parent company, Yucheng Group, now say it was "a complete Ponzi scheme", which used investor funds to support a lavish lifestyle, the official Xinhua News Agency reported this week.</p><span id="midArticle_2"/><p>Among gifts that Yucheng Chairman Ding Ning gave his president, Zhang Min, were a $20 million Singapore villa, a $1.8 million pink diamond ring, luxury limousines and watches and more than $83 million in cash, Xinhua stated.</p><span id="midArticle_3"/><p>The alleged scam underscores the risks in China's fast growing and loosely regulated wealth management product industry, with many products peddled through online financial investment platforms and privately run exchanges.</p><span id="midArticle_4"/><p>Products promising annual returns of up to 14 percent have drawn in investors at a time when savings rates are low and property is no longer a guaranteed get-rich-quick bet.</p><span id="midArticle_5"/><p>A report on China's stock market crash authored last year by former senior officials, including former central bank vice governor Wu Xiaoling, said Chinese retail investors are short-sighted, have a weak investment philosophy and a herd mentality.</p><span id="midArticle_6"/><p>China's P2P and the online finance industry also serve as a critical channel for the emerging small business and consumer market, which is often ignored by banks and mainstream financial institutions. iResearch predicts China's unsecured consumer finance market alone will triple in size by 2019, reaching outstanding loans of over $1.7 trillion.</p><span id="midArticle_7"/><span id="midArticle_8"/><p>RISKY BUSINESS</p><span id="midArticle_9"/>
+        
+        <span class="first-article-divide"/><p>By November, there were over 3,600 P2P platforms as the industry raised more than 400 billion yuan, according to the China Banking Regulatory Commission (CBRC). More than 1,000 of those were problematic, it said.</p><span id="midArticle_10"/><p>The consequences when these schemes fail can be devastating, said Yang Dong, vice-dean at Renmin Law School and an expert on finance and securities law. "The harm is obvious. It's going to damage financial reforms, cause social unrest and destabilize the regime to some extent," he told Reuters.</p><span id="midArticle_11"/><p>Yang said there needs to be more supervision at both a national and local level, with more staffing, funding and a central bank-led financial risk monitoring system capable of tracking Internet financial activity and flagging problems.</p><span id="midArticle_12"/><p>Last year, hundreds of angry investors protested on the streets in Beijing and Shanghai, saying they lost $6 billion from the Fanya Metals Exchange, which offered an investment product promising up to 14 percent annual return and the flexibility to deposit and withdraw money at will.</p><span id="midArticle_13"/>
+        
+        <span class="second-article-divide"/><p>The CBRC published draft rules in December to oversee the P2P industry, banning the pooling of investor money, concealing risks of financial program and using fraudulent sales tactics. "Due to the lack of necessary regulation, many P2P platforms play in the area between legal and illegal, using Internet concepts to brand themselves, fraudulent advertising and illegal deposit-taking to hurt public interest," it said.</p><span id="midArticle_14"/><span id="midArticle_15"/><p>WELCOME ABOARD 'TRAIN EZUBAO'            </p><span id="midArticle_0"/><p>At Ezubao, Ding collected a monthly salary of 1 million yuan, and admitted on state television to spending an estimated 1.5 billion yuan in Ezubao funds on himself.</p><span id="midArticle_1"/><p>"We fabricated projects to raise money," he said, adding Ezubao used project companies to re-circulate money back into  accounts linked to his companies, Xinhua reported. Yong Lei, head of risk management at Yucheng's financial leasing company, said 95 percent of projects on Ezubao were fake.</p><span id="midArticle_2"/>
+        
+        <span class="third-article-divide"/><p>Ding asked dozens of his secretaries to dress only in Chanel, Gucci and other luxury branded clothing to make the company appear highly successful. Zhang, the group president who was marketed as "the most beautiful executive in online finance", said on state broadcaster CCTV that Ding asked her to buy up everything from every Louis Vuitton and Hermès store in China, "and go overseas to buy more if that wasn't enough."</p><span id="midArticle_3"/><p>Ezubao investors contacted by Reuters attributed their willingness to hand cash to the company to high-profile commercials on state-owned TV and a high-speed train named after "Ezubao" that ran between Beijing and Shanghai.</p><span id="midArticle_4"/><p>"When you got on the train, there was an announcement saying: 'Welcome aboard Train Ezubao'," said a company employee who said she lost about 100,000 yuan in the scheme.</p><span id="midArticle_5"/><p>When Ezubao's fraud was detected late last year, executives buried 80 bags of documents in a 6 meter (near 20-foot) hole on the outskirts of Hefei in Anhui province, where the company started, Xinhua said.</p><span id="midArticle_6"/><p>"I feel terrible," said another Ezubao investor surnamed Liu who said she invested 800,000 yuan. "I haven't dared tell my husband yet."</p><span id="midArticle_7"/><span id="midArticle_8"/><span id="midArticle_9"/><p> (Reporting by Matthew Miller and Shu Zhang, with additional reporting by the Beijing Newsroom; Editing by <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=ian.geoghegan&amp;">Ian Geoghegan</a>)</p><span id="midArticle_10"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/technologyNews/~3/-WZedGE0zqk/story01.htm">Source </a>

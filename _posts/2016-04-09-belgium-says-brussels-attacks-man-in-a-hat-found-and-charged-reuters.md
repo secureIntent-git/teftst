@@ -1,0 +1,32 @@
+---
+ID: 2615
+post_title: 'Belgium says Brussels attacks &#039;man in a hat&#039; found and charged &#8211; Reuters'
+author: Staff Writer
+post_date: 2016-04-09 18:20:11
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/belgium-says-brussels-attacks-man-in-a-hat-found-and-charged-reuters/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Belgium says Brussels attacks &#039;man in a hat&#039; found and charged - Reuters'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFMmd6WSdo5rtfNXlF0w1l1IQ2BPA&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779077430895&#038;ei=2kcJV9DVPOmywQGUlJ2IDA&#038;url=http://www.reuters.com/article/us-belgium-blast-arrests-idUSKCN0X60HP'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFMmd6WSdo5rtfNXlF0w1l1IQ2BPA&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779077430895&#038;ei=2kcJV9DVPOmywQGUlJ2IDA&#038;url=http://www.reuters.com/article/us-belgium-blast-arrests-idUSKCN0X60HP'
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">BRUSSELS</span> A man held on terrorism charges in Belgium has admitted to being the "man in a hat" seen on security camera footage at Brussels airport alongside two suicide bombers after attacks in the city killed 32 people, public prosecutors said on Saturday.</p></span><span id="midArticle_1"/><p>Prosecutors said that after being confronted with footage prepared by an investigational unit, Belgian Mohamed Abrini said he was the man police had been hunting since the bombings at the airport and on the metro on March 22. </p><span id="midArticle_2"/><p>"He had no other choice," a spokesman for Belgium's public prosecutors said. He had been held since Friday evening.</p><span id="midArticle_3"/><p>Abrini had been on Europe's most wanted list since December, after he was caught by a security camera at a motorway service station with suspected militant Salah Abdeslam while they drove to Paris two days before the attacks there that killed 130 people in November.</p><span id="midArticle_4"/><p>With the arrests and deaths in Brussels since a raid on March 15 put police on the trail of Abdeslam, all of the main known suspects in the Paris and Brussels attacks appear to have been taken off Europe's streets. </p><span id="midArticle_5"/><p>After leaving the airport, Abrini had thrown his light coat in a dust bin and later sold his hat, prosecutors added.</p><span id="midArticle_6"/><p>"He is charged with participation in the activities of a terrorist group and terrorist murder," the Belgian federal prosecutors office said in a statement.</p><span id="midArticle_7"/><p>Prosecutors charged four people, including Abrini, with terrorist activity for their suspected roles in the Brussels bombings and November's Paris attacks.</p><span id="midArticle_8"/>
+        
+        <span class="first-article-divide"/><p>They were arrested on Friday, along with two others who were later released. Belgian police raided a suspected safe house in central Brussels on Saturday but found no weapons or explosives and made no further arrests.</p><span id="midArticle_9"/><p>Prosecutors said they also charged Osama K, who local media said was a Swede named Osama Krayem, adding they were able to identify him as the man present at the time of the attack on the Brussels metro station that same day.</p><span id="midArticle_10"/><p>Osama K was seen buying the bags used in the Brussels attacks in a shopping centre there, prosecutors said.</p><span id="midArticle_11"/><p>The other two were Bilal El Makhoukhi, who had already been convicted for working with jihadist recruiters, and a Rwandan named Herve B.M. on charges of helping Abrini and Osama K. </p><span id="midArticle_12"/><span id="midArticle_13"/>
+        
+        <span class="second-article-divide"/><p>STAYING ALERT</p><span id="midArticle_14"/><p>The arrests were a sign of success for Belgian security services, which have been criticised at home and abroad since Brussels-based militants organised the attacks in Paris and, four months later, those in the Belgian capital.    </p><span id="midArticle_15"/><p>Belgian Prime Minister Charles Michel said his government would continue to be vigilant about the militant threat.</p><span id="midArticle_0"/><p>"We are positive about the recent developments in the investigation. But we know we have to stay alert and cautious," Michel told a news conference in Brussels.</p><span id="midArticle_1"/>
+        
+        <span class="third-article-divide"/><p>El Makhoukhi was convicted in January last year for being involved in Sharia4Belgium, a now disbanded organisation that recruited people to go fight alongside jihadist organisations in Syria and Iraq, Belgium's Justice Minister Koen Geens said.    </p><span id="midArticle_2"/><p>Originally sentenced to five years in prison, with three years suspended, he was allowed to serve his remaining term at home under electronic monitoring and was released last month, Geens told reporters.</p><span id="midArticle_3"/><p>"He was under electronic supervision and his sentence ended on March 15," Geens said at a government news conference.</p><span id="midArticle_4"/><p>El Makhoukhi was convicted last year following his return to Belgium after losing a leg while fighting in Syria.</p><span id="midArticle_5"/><p>Prosecutors said they had charged El Makhouki, who they named as 27-year-old Bilal E.M., with participation in the activities of a terrorist group and terrorist murders.</p><span id="midArticle_6"/><p>"He is suspected of having offered assistance to Mohamed Abrini as well as Osama K," prosecutors said.</p><span id="midArticle_7"/><span id="midArticle_8"/><p> (Reporting by Robert-Jan Bartunek; Editing by Tom Heneghan)</p><span id="midArticle_9"/></div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFMmd6WSdo5rtfNXlF0w1l1IQ2BPA&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779077430895&#038;ei=2kcJV9DVPOmywQGUlJ2IDA&#038;url=http://www.reuters.com/article/us-belgium-blast-arrests-idUSKCN0X60HP">Source </a>

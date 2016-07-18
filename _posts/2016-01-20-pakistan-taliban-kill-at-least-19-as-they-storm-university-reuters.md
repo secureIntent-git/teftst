@@ -1,0 +1,32 @@
+---
+ID: 286
+post_title: 'Pakistan Taliban kill at least 19 as they storm university &#8211; Reuters'
+author: Staff Writer
+post_date: 2016-01-20 10:14:41
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/pakistan-taliban-kill-at-least-19-as-they-storm-university-reuters/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Pakistan Taliban kill at least 19 as they storm university - Reuters'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNEQTlnoFZ5WDn6PEEvrbg_FMgMZ0g&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779032632568&#038;ei=EV6fVvjPAtCphQHN_pf4Dw&#038;url=http://www.reuters.com/article/us-pakistan-attacks-university-idUSKCN0UY0C4'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNEQTlnoFZ5WDn6PEEvrbg_FMgMZ0g&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779032632568&#038;ei=EV6fVvjPAtCphQHN_pf4Dw&#038;url=http://www.reuters.com/article/us-pakistan-attacks-university-idUSKCN0UY0C4'
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="7"><p><span class="articleLocation">PESHAWAR, Pakistan</span> Islamist Taliban militants stormed a university in volatile northwestern Pakistan on Wednesday, killing at least 19 people and wounding dozens as the army hunted for any gunmen still holed up on the campus, officials said.</p></span><span id="midArticle_1"/><p>A security official said the death toll could rise to as high as 40 as army commandos cleared out student hostels and classrooms. A spokesman for the rescue workers, Bilal Ahmad Faizi, said 19 bodies had been recovered including students, guards, policemen and at least one teacher, named by media as chemistry professor Syed Hamid Husain.</p><span id="midArticle_2"/><p>Many of the dead were apparently shot in the head execution-style, TV footage showed.</p><span id="midArticle_3"/><p>Umar Mansoor, a senior Pakistani Taliban commander and the mastermind of a student massacre in December 2014 at a military-run school in nearby Peshawar, claimed responsibility for the assault and said it involved four of his men.</p><span id="midArticle_4"/><p>A senior security officer at the scene told Reuters 90 percent of the campus had been secured after a three-hour gunfight with the militants ended, and that 51 people were wounded. Four gunmen were killed.</p><span id="midArticle_5"/><p>The militants, using the cover of thick, wintry fog, scaled the walls of the Bacha Khan University in Charsadda, northwestern Khyber Pakhtunkhwa province, before entering buildings and opening fire on students and teachers in classrooms and hostels, police said. </p><span id="midArticle_6"/><p>Students told media they saw several young men wielding AK-47 guns storming the university housing where many students were sleeping. </p><span id="midArticle_7"/><p>"They came from behind and there was a big commotion," an unnamed male student told a news channel from a hospital bed in Charsadda's District Hospital. "We were told by teachers to leave immediately. Some people hid in bathrooms."</p><span id="midArticle_8"/>
+        
+        <span class="first-article-divide"/><p>The gunmen attacked as the university prepared to host a poetry recital on Wednesday afternoon to commemorate the death anniversary of Khan Abdul Ghaffar Khan, a popular ethnic Pashtun independence activist after whom the university is named.</p><span id="midArticle_9"/><span id="midArticle_10"/><p>RUMOURS OF ATTACK</p><span id="midArticle_11"/><p>Vice Chancellor Fazal Rahim told reporters that the university teaches over 3,000 students and was hosting an additional 600 visitors on Wednesday for the recital. </p><span id="midArticle_12"/>
+        
+        <span class="second-article-divide"/><p>Police inspector Saeed Wazir said 70 percent of the students had been rescued.       </p><span id="midArticle_13"/><p>"All students have been evacuated from the hostels, but militants are still hiding in different parts of the university and some students and staff are stuck inside," he said before the firing had stopped, adding that it was unclear how many gunmen were involved.</p><span id="midArticle_14"/><p>Television footage showed military vehicles packed with soldiers driving into the campus as helicopters buzzed overhead and ambulances lined up outside the main gate while anxious parents consoled each other.</p><span id="midArticle_15"/><p>Shabir Khan, a lecturer in the English department, said he was about to leave his university housing for the department when firing began. </p><span id="midArticle_0"/>
+        
+        <span class="third-article-divide"/><p>"Most of the students and staff were in classes when the firing began," Khan said. "I have no idea about what's going on but I heard one security official talking on the phone to someone and said many people had been killed and injured."</p><span id="midArticle_1"/><p>Several schools had closed early on the weekend around Peshawar after rumors circulated of a possible attack.</p><span id="midArticle_2"/><p>Pakistan, which has suffered from years of jihadist militant violence, has killed and arrested hundreds of suspected militants under a major crackdown launched after the massacre of school children in December 2014 in Peshawar.</p><span id="midArticle_3"/><p>The school attack by six Pakistani Taliban gunmen hit a raw nerve in Pakistan and was seen as having hardened Pakistan's resolve to fight militants along its lawless border with Afghanistan.</p><span id="midArticle_4"/><p>"We are determined and resolved in our commitment to wipe out the menace of terrorism from our homeland," Prime Minister Nawaz Sharif said in a statement after Wednesday's attack. </p><span id="midArticle_5"/><span id="midArticle_6"/><p> (Writing by Tommy Wilkes and Mehreen Zahra-Malik; Editing by <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=nick.macfie&amp;">Nick Macfie</a>)</p><span id="midArticle_7"/></div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNEQTlnoFZ5WDn6PEEvrbg_FMgMZ0g&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779032632568&#038;ei=EV6fVvjPAtCphQHN_pf4Dw&#038;url=http://www.reuters.com/article/us-pakistan-attacks-university-idUSKCN0UY0C4">Source </a>

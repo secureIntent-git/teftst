@@ -1,0 +1,38 @@
+---
+ID: 982
+post_title: >
+  Turkey shells Syrian Kurds, Russia says
+  will keep bombing anti-Assad rebels
+author: Staff Writer
+post_date: 2016-02-14 14:22:05
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/turkey-shells-syrian-kurds-russia-says-will-keep-bombing-anti-assad-rebels/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    Turkey shells Syrian Kurds, Russia says
+    will keep bombing anti-Assad rebels
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/VS1UsZe5jIU/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/VS1UsZe5jIU/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="6"><p><span class="articleLocation">BEIRUT/MUNICH</span> The Turkish army shelled Kurdish militia in northern Syria for a second day on Sunday, while Russia made clear it would continue bombing Syrian rebel targets, raising doubts that a planned ceasefire would bring much relief.</p></span><span id="midArticle_1"/><p>Major powers agreed on Friday to a limited cessation of hostilities in Syria but the deal does not take effect until the end of this week and was not signed by any warring parties - the Damascus government and numerous rebel factions fighting it.</p><span id="midArticle_2"/><p>Russian bombing raids directed at rebel groups are meanwhile helping the Syrian army to achieve what could be its biggest victory of the war in the battle for Aleppo, the country's largest city and commercial hub before the conflict.</p><span id="midArticle_3"/><p>The situation has been complicated by the involvement of Kurdish-backed combatants in the area north of Aleppo near the Turkish border, which has drawn a swift military response from artillery in Turkey.</p><span id="midArticle_4"/><p>The Kurdish YPG militia, helped by Russian air raids, seized an ex-military air base at Menagh last week, angering Turkey, which sees the YPG as an extension of the PKK, a Kurdish group that waged a bloody insurgent campaign on Turkish soil over most of the past three decades.</p><span id="midArticle_5"/><p>Turkey began shelling while demanding that the YPG militia withdraw from areas it has captured from Syrian rebels in the northern Aleppo region in recent days, including the Menagh air base. The bombardment killed two YPG fighters, according to the Syrian Observatory for Human Rights.</p><span id="midArticle_6"/><p>The Syrian Kurdish PYD party rejected Turkish demands for withdrawal, while the Syrian government said Turkish shelling of northern Syria amounted to direct support for insurgent groups.</p><span id="midArticle_7"/><p>Other fronts were also active on Sunday.</p><span id="midArticle_8"/><p>Kurdish-backed forces were fighting with insurgent groups near Tel Rifaat in the northern Aleppo countryside, while further south, government forces renewed their shelling of rebel positions to the northwest of Aleppo city. </p><span id="midArticle_9"/><p>The Observatory also reported air strikes by jets believed to be Russian in areas east of Damascus, north of Homs, and in the southern province of Deraa.</p><span id="midArticle_10"/><p>Efforts to deliver humantitarian aid were being threatened by the latest escalation of violence. </p><span id="midArticle_11"/>
+        
+        <span class="first-article-divide"/><p>"We must ask again, why wait a week for this urgently needed cessation of hostilities?" says Dalia Al-Awqati, Mercy Corps Director of Programs for North Syria.</p><span id="midArticle_12"/><p>"Each delay places innocent civilians at greater risk and impedes our efforts to support the half a million people who depend on us for food and other essential supplies."</p><span id="midArticle_13"/><span id="midArticle_14"/><p>"POSITIVE VALUATION"</p><span id="midArticle_15"/><p>The Kremlin said Russian President Vladimir Putin and U.S. President Barack Obama had agreed to intensify cooperation to implement the agreement on Syria struck in Munich.</p><span id="midArticle_0"/><p>After a phone call between Putin and Obama, the Kremlin said both gave a "positive valuation" to the Munich meeting.</p><span id="midArticle_1"/>
+        
+        <span class="second-article-divide"/><p>But the Kremlin statement made clear Russia would continue bombing raids against Islamic State and "other terroristic organisations", an indication that it would also be targeting groups in western Syria where jihadists such as al Qaeda are fighting President Bashar al-Assad in close proximity to rebels deemed moderate by the West.</p><span id="midArticle_2"/><p>Reaction from politicians in the West to the Munich deal was less positive.</p><span id="midArticle_3"/><p>A senior ally of German Chancellor Angela Merkel said     Russia had gained the upper hand in Syria and the surrounding region through armed force.</p><span id="midArticle_4"/><p>Norbert Roettgen, head of the foreign affairs committee in the German parliament, was sceptical about how Russia would behave in the days and weeks ahead, despite agreeing to a cessation of hostilities.</p><span id="midArticle_5"/><p>"Russia is determined to create facts on the ground, and when they have accomplished this, then they will invite the West to fight a common enemy, this is ISIS," Roettgen said, referring to Islamic State.</p><span id="midArticle_6"/>
+        
+        <span class="third-article-divide"/><p>Speaking at the same security conference in Munich, U.S. Senator John McCain said he did not view the deal as a breakthrough.</p><span id="midArticle_7"/><p>"Let's be clear about what this agreement does. It allows Russia's assault on Aleppo to continue for another week," he said.</p><span id="midArticle_8"/><p>"Mr Putin is not interested in being our partner. He wants to shore up the Assad regime, he wants to establish Russia as a major power in the Middle East, he wants to use Syria as a live fire exercise for Russia’s modernizing military," McCain said.</p><span id="midArticle_9"/><span id="midArticle_10"/><p>"RECONCILIATION"</p><span id="midArticle_11"/><p>As the fighting continued, the Syrian army urged citizens in Deraa province, the Ghouta area east of Damascus, and in rural districts east of Aleppo to quickly seek out "reconciliation" with the government.</p><span id="midArticle_12"/><p>So-called local reconciliation agreements are often seen as a means for the government to force surrender on insurgents, and have typically followed lengthy blockades of rebel-held areas and the civilians living there.</p><span id="midArticle_13"/><p>Saudi Arabia confirmed it had sent aircraft to Turkey's Incirlik air base to join the fight against Islamic State. But said any move to deploy Saudi special forces into Syria would depend on a decision by the U.S.-led coalition combating the ultra-radical militants.</p><span id="midArticle_14"/><p>U.S. Defense Secretary Ash Carter said on Friday he expected  Saudi Arabia and the United Arab Emirates to send special forces to Syria to help local opposition fighters in their drive to retake the city of Raqqa, Islamic State's de facto capital in Syria.</p><span id="midArticle_15"/><span id="midArticle_16"/><p> (Additional reporting by Shadia Nasralla, Angus McDowall and Katya Golubkova; Writing by Giles Elgood; Editing by Mark Heinrich)</p><span id="midArticle_17"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/VS1UsZe5jIU/story01.htm">Source </a>

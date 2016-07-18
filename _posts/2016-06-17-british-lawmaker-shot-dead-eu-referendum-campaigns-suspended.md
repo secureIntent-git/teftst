@@ -1,0 +1,38 @@
+---
+ID: 4630
+post_title: >
+  British lawmaker shot dead, EU
+  referendum campaigns suspended
+author: Staff Writer
+post_date: 2016-06-17 05:55:17
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/british-lawmaker-shot-dead-eu-referendum-campaigns-suspended/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    British lawmaker shot dead, EU
+    referendum campaigns suspended
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/BKmL8E134TU/us-britain-politics-attack-idUSKCN0Z21LS
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/BKmL8E134TU/us-britain-politics-attack-idUSKCN0Z21LS
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="6"><p><span class="articleLocation">BIRSTALL, England</span> A British member of parliament was shot dead in the street on Thursday, causing deep shock across Britain and the suspension of campaigning for next week's referendum on the country's EU membership.</p></span><span id="midArticle_1"/><p>Jo Cox, 41, a lawmaker for the opposition Labour Party and a vocal advocate for Britain remaining in the European Union, was attacked while preparing to meet constituents in Birstall near Leeds in northern England. </p><span id="midArticle_2"/><p>Media reports said she had been shot and stabbed. West Yorkshire regional police said a 52-year-old man was arrested by officers nearby and weapons including a firearm recovered. "We are not in a position to discuss any motive at this time," said Temporary Chief Constable Dee Collins.</p><span id="midArticle_3"/><p>One witness said a man pulled an old or makeshift gun from a bag and fired twice. "I saw a lady on the floor like on the beach with her arms straight and her knees up and blood all over the face," Hichem Ben-Abdallah told reporters. "She wasn't making any noise, but clearly she was in agony."</p><span id="midArticle_4"/><p>The lawmaker's husband Brendan said: "She would have wanted two things above all else to happen now: one, that our precious children are bathed in love and two, that we all unite to fight against the hatred that killed her."</p><span id="midArticle_5"/><p>The rival referendum campaign groups said they were suspending activities for the day, with the Remain camp saying its activities would also be suspended on Friday. Prime Minister David Cameron said he would pull out of a planned rally in Gibraltar, the British territory on the southern coast of Spain.</p><span id="midArticle_6"/><p>Cameron said the killing of the mother-of-two, who had worked on U.S. President Barack Obama's 2008 election campaign, was a tragedy.</p><span id="midArticle_7"/><p>"We have lost a great star," the Conservative prime minister said. "She was a great campaigning MP with huge compassion, with a big heart. It is dreadful, dreadful news."   </p><span id="midArticle_8"/><p>It was not immediately clear what the impact would be on the June 23 referendum, which has polarized the nation into pro- and anti-EU camps. But some analysts speculated it could boost the  pro-EU "Remain" campaign, which in recent days has fallen behind the "Leave" camp in opinion polls.</p><span id="midArticle_9"/><p>Britain's sterling currency rose against the dollar after news of the attack, adding around two cents.</p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><p>Finance minister George Osborne and Bank of England Governor Mark Carney scrapped major speeches planned for Thursday evening and the International Monetary Fund said it had delayed the publication of a report on the British economy.    </p><span id="midArticle_11"/><span id="midArticle_12"/><p>'HORRIFIC MURDER' </p><span id="midArticle_13"/><p>Media reports, citing witnesses, said the attacker had shouted out "Britain first", which is the name of a right-wing nationalist group that describes itself on its website as "a patriotic political party and street defence organisation". </p><span id="midArticle_14"/><p>But the deputy leader of the group, Jayda Fransen, completely distanced it from the attack, which she described as "absolutely disgusting".</p><span id="midArticle_15"/>
+        
+        <span class="second-article-divide"/><p>West Yorkshire's elected Police and Crime Commissioner said "our information is that this is a localised incident, albeit one that has a much wider impact".</p><span id="midArticle_0"/><p>Gun ownership is highly restricted in Britain, and attacks of any nature on public figures are rare. The last British lawmaker to have been killed in an attack was Ian Gow, who died after a bomb planted by the Irish Republican Army (IRA) exploded under his car at his home in southern England in 1990. </p><span id="midArticle_1"/><p>Britain's Union Jack flag was flying at half-mast over the Houses of Parliament in London, while in Birstall hundreds of people attended a vigil at a local church.</p><span id="midArticle_2"/><p>Colleagues expressed their shock and disbelief at the death of Cox, a Cambridge University graduate who had spent a decade working for aid agency Oxfam in roles including head of humanitarian campaigning and was known for her work on women's issues.</p><span id="midArticle_3"/><p>She won election to parliament for northern England's Batley and Spen district at the 2015 general election, and lived with her husband and children on a traditional Dutch barge moored on the Thames near the Tower of London.</p><span id="midArticle_4"/>
+        
+        <span class="third-article-divide"/><p>"We've lost a wonderful woman, we've lost a wonderful member of parliament, but our democracy will go on," Labour leader Jeremy Corbyn said in a televised statement. "As we mourn her memory, we'll work in her memory to achieve that better world she spent her life trying to achieve."</p><span id="midArticle_5"/><p>Labour lawmaker Sarah Champion said: "She's a tiny woman, five feet nothing and a lion as well - she fights so hard for the things she believes in. I cannot believe anyone would do this to her."</p><span id="midArticle_6"/><p>Police said a 77-year-old man was also assaulted in the incident and suffered injuries that were not life-threatening.</p><span id="midArticle_7"/><p>BBC TV and other media showed a picture of the alleged suspect, a balding white man, being apprehended by police.    Temporary Chief Constable Collins said a "very significant investigation with large numbers of witnesses" was under way.</p><span id="midArticle_8"/><p>"We are not looking for anyone else in connection with this incident," she said.</p><span id="midArticle_9"/><p>The last attack on a British legislator was in 2010, when Labour member and ex-cabinet minister Stephen Timms was stabbed in the stomach at his office in east London by a 21-year-old student who was angry over his backing for the 2003 Iraq war.</p><span id="midArticle_10"/><p>In 2000, a Liberal Democrat local councillor was murdered by a man with a samurai sword at the offices in western England of lawmaker Nigel Jones, who was also seriously hurt in the attack.</p><span id="midArticle_11"/><span id="midArticle_12"/><p> (Reporting by Kylie MacLellan, Michael Holden, Estelle Shirbon, David Milliken and William Schomberg; Writing by Michael Holden; Editing by Pravin Char)</p><span id="midArticle_13"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/BKmL8E134TU/us-britain-politics-attack-idUSKCN0Z21LS">Source </a>

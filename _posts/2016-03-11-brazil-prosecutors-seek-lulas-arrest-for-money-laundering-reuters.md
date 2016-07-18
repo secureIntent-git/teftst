@@ -1,0 +1,32 @@
+---
+ID: 1729
+post_title: 'Brazil prosecutors seek Lula&#039;s arrest for money laundering &#8211; Reuters'
+author: Staff Writer
+post_date: 2016-03-11 01:35:06
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/brazil-prosecutors-seek-lulas-arrest-for-money-laundering-reuters/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Brazil prosecutors seek Lula&#039;s arrest for money laundering - Reuters'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHlQn9B4BkI3q3l4a1Efyj_1h_Y9Q&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779060847663&#038;ei=yR_iVvjgJpPuwAHjqo-wDg&#038;url=http://www.reuters.com/article/us-brazil-corruption-lula-idUSKCN0WC16L'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHlQn9B4BkI3q3l4a1Efyj_1h_Y9Q&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779060847663&#038;ei=yR_iVvjgJpPuwAHjqo-wDg&#038;url=http://www.reuters.com/article/us-brazil-corruption-lula-idUSKCN0WC16L'
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">SAO PAULO</span> State prosecutors in Brazil are seeking the arrest of former President Luiz Inacio Lula da Silva on charges of money laundering and identity fraud for concealing ownership of a beachfront apartment, his foundation said on Thursday.</p></span><span id="midArticle_1"/><p>The effort to arrest the former president raised the stakes dramatically in a crisis threatening to topple his successor, President Dilma Rousseff, and was likely to further polarize protests on Sunday calling for her impeachment.</p><span id="midArticle_2"/><p>Lula's foundation called the motion to arrest the president "more proof of the partiality" of Sao Paulo state prosecutor Cassio Conserino. The motion requires the approval of a judge, which is highly unlikely, according to a presidential aide who asked not to be named given the sensitivity of the case.</p><span id="midArticle_3"/><p>Conserino declined to comment on possible arrests in a news conference regarding the charges earlier in the day, and court officials did not comment on the news.</p><span id="midArticle_4"/><p>Newspaper O Globo quoted court documents in which prosecutors argued that Lula should be jailed preventatively because he could "summon his violent network of supporters to keep the criminal process from proceeding."</p><span id="midArticle_5"/><p>Last week federal police brought Lula in for questioning in a separate investigation, setting off isolated skirmishes in the streets between supporters and critics of the former president as the graft probe inflamed political tensions.</p><span id="midArticle_6"/><p>Earlier on Thursday, Conserino told reporters that two dozen witnesses said Lula was the owner of a luxury condo in the city of Guarujá, using their testimony as proof that he profited from real estate projects financed by a state bankers' cooperative.</p><span id="midArticle_7"/>
+        
+        <span class="first-article-divide"/><p>Lula has disavowed ownership of the apartment and denied any wrongdoing. His attorney has asked the Supreme Court to decide if the case is under the jurisdiction of state prosecutors or the separate federal probe tackling graft at state-run oil company Petrobras.</p><span id="midArticle_8"/><p>That two-year-old federal investigation has already rocked Brazil's political and business establishment with high-profile arrests and convictions, while deepening the worst recession in decades in Latin America's biggest economy. </p><span id="midArticle_9"/><p>The investigations now threaten to tarnish the legacy of Brazil's most powerful politician, whose humble roots and anti-poverty programs made him a folk hero, by putting a spotlight on how members of his left-leaning Workers' Party consolidated wealth and power since he rose to the presidency 13 years ago.</p><span id="midArticle_10"/><span id="midArticle_11"/>
+        
+        <span class="second-article-divide"/><p>LOSING ALLIES</p><span id="midArticle_12"/><p>The scandal has also hurt political support for Rousseff, who is struggling to pass fiscal reforms in Congress and fight impeachment for allegedly breaking budgetary rules.</p><span id="midArticle_13"/><p>The next setback may come on Saturday, when Rousseff's biggest ally in Congress, the fractious center-right Brazilian Democratic Movement Party, is expected to distance itself from her increasingly unpopular government.</p><span id="midArticle_14"/><p>The head of the governing Workers' Party, Rui Falcao, told journalists in Brasilia that there were no grounds to arrest Lula and he was confident a judge would not grant a warrant.</p><span id="midArticle_15"/>
+        
+        <span class="third-article-divide"/><p>Asked if the former president could join the current government as a minister, as some members of Rousseff's cabinet have suggested, Falcao said the decision was up to Lula.</p><span id="midArticle_0"/><p>If appointed, Lula could only be tried in the Supreme Court, placing him out of the reach of the state and federal probes.</p><span id="midArticle_1"/><p>Lula's lawyer, Cristiano Zanin Martins, compared the effort to arrest him to measures taken by Brazil's military government decades ago to suppress political expression with imprisonment. He dismissed the idea that the former president had ever owned the apartment.</p><span id="midArticle_2"/><p>"The owner of a property is the person listed in the registry. It doesn't matter who some people think it belongs to," Martins said in a telephone interview.</p><span id="midArticle_3"/><p>Martins reiterated the former president's account that his family had invested in the real estate project, visited the unfinished apartment and then asked for their money back rather than receiving property.</p><span id="midArticle_4"/><span id="midArticle_5"/><p> (Reporting by Brad Haynes and Eduardo Simoes; Additional reporting by Natalia Scalzaretto and Lisandra Paraguassu; Editing by Andrew Hay)</p><span id="midArticle_6"/></div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHlQn9B4BkI3q3l4a1Efyj_1h_Y9Q&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779060847663&#038;ei=yR_iVvjgJpPuwAHjqo-wDg&#038;url=http://www.reuters.com/article/us-brazil-corruption-lula-idUSKCN0WC16L">Source </a>

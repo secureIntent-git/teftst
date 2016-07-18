@@ -1,0 +1,34 @@
+---
+ID: 2764
+post_title: 'Putin says shares Russians&#039; pain over economic hardship'
+author: Staff Writer
+post_date: 2016-04-14 15:04:20
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/putin-says-shares-russians-pain-over-economic-hardship/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - 'Putin says shares Russians&#039; pain over economic hardship'
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/A0eenE6FUqQ/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/A0eenE6FUqQ/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="4"><p><span class="articleLocation">MOSCOW</span> President Vladimir Putin assured ordinary Russians on Thursday that he was trying to relieve the hardships inflicted on them by the slowing economy and the financial knock-on effects of Russia's stand-off with the West.</p></span><span id="midArticle_1"/><p>Putin used a televised phone-in, an annual event when he fields questions from ordinary citizens around the country, to strike a conciliatory tone on foreign policy, saying Russia wanted friendly relations with the rest of the world.</p><span id="midArticle_2"/><p>Wrapping up the event after three hours and 40 minutes, Putin said he had heard a lot of impassioned questions from worried citizens. Many of the questions were about issues such as high inflation, poor public services and wage arrears. </p><span id="midArticle_3"/><p>"I share your concerns in nearly 100 percent of cases," Putin said. "We'll work together so that your problems are relieved."</p><span id="midArticle_4"/><p>Addressing public concerns over the economy is crucial for the Kremlin because Russians vote in a parliamentary election in September.</p><span id="midArticle_5"/><p>The phone-in did not feature criticism directed personally at Putin. Executives at state television, which is deferential to the Kremlin, controlled who had the chance to pose questions. His critics say the phone-in is a ritual designed to mask the lack of true democracy.</p><span id="midArticle_6"/><p>But the event provided an opportunity for Putin to show he has voters' interests at heart, in part by hauling officials over the coals for failing to protect citizens.</p><span id="midArticle_7"/><p>Putin took questions via video link from two women, Tatiana and Yelena, who said they had not been paid for months of work at a fish processing plant on a Pacific island, and that officials ignored their complaints.</p><span id="midArticle_8"/><p>The issue is a widespread one since Russia's economy slowed, with businesses that are struggling with falling sales often delaying wages.</p><span id="midArticle_9"/><p>The Russian president, live on air, instructed his prosecutor-general to think about firing the local prosecutor for failing to act on the women's complaints.</p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><p>"I want to extend my apologies and assure you we will do everything to resolve the situation," Putin said, addressing the two women. A few minutes later, Russian news agencies reported a criminal investigation had been launched into the fish processing plant.</p><span id="midArticle_11"/><span id="midArticle_12"/><p>EQUAL PARTNER</p><span id="midArticle_13"/><p>On foreign policy, Putin did not deploy the kind of bellicose rhetoric against the United States and its allies that he has in the past few years.</p><span id="midArticle_14"/><p>He denied that Russia was surrounded by adversaries, said he favored a peaceful resolution of the conflict in Syria, and said Russia wanted good ties with Turkey and Ukraine, with which relations have soured.</p><span id="midArticle_15"/>
+        
+        <span class="second-article-divide"/><p>In return, he said, he asked that foreign powers should treat Russia as an equal partner. "They should not act from a position of strength, dictate imperial ambitions," Putin said.</p><span id="midArticle_0"/><p>He said he did not expect that Western countries would in the near future lift the sanctions imposed over Russia's annexation of Crimea and its support for separatists in eastern Ukraine. But he said Russia's economy would adapt. </p><span id="midArticle_1"/><p>Asked by one questioner whom he would save if Turkish President Tayyip Erdogan and Ukraine's pro-Western leader Petro Poroshenko were both drowning in front of him, Putin was uncharacteristically diplomatic.</p><span id="midArticle_2"/><p>"If someone has decided to drown, then it's already impossible to save them. But we are of course ready to extend a helping hand, a hand of friendship, to any partner of ours that itself wants that help," Putin said.</p><span id="midArticle_3"/><span id="midArticle_4"/>
+        
+        <span class="third-article-divide"/><p>POCKETBOOK ISSUES</p><span id="midArticle_5"/><p>Some of the messages submitted to the phone-in were fawning. "I'm proud of my president and of Russia," read one message from a viewer which was flashed up on a screen behind Putin. One questioner wanted to know if Putin ate porridge for breakfast.</p><span id="midArticle_6"/><p>Most of those questions which were allowed on air focused on pocket-book issues preoccupying Russians at a time when inflation has eroded consumers' spending power and forced the government to cut spending.</p><span id="midArticle_7"/><p>Putin was asked why more money was not being spent fixing potholes in the roads of Omsk, a city in Siberia; he was asked why medicines on sale in pharmacies were so expensive; and he reassured farmers worried they would not be able to pay off their bank loans.</p><span id="midArticle_8"/><p>He delivered a spirited defense of his friend Sergei Roldugin, who, according to reports based on the so-called "Panama Papers" leaks, has a business empire involved in offshore transactions that might be linked to Putin.</p><span id="midArticle_9"/><p>He said the leaks were an effort, backed by U.S. interests, to discredit people close to the Kremlin.</p><span id="midArticle_10"/><p>"But they must understand that the issue is not about specific people, individuals, no matter what position they hold in Russia. The issue is about the country, which cannot be manipulated, which cannot be forced to act as someone wants and dance to their tune," Putin said.</p><span id="midArticle_11"/><span id="midArticle_12"/><p> (Additional reporting by Jack Stubbs, Lidia Kelly, Dmitry Solovyov, Maria Kiselyova, Gleb Stolyarov and Anastasia Lyrchikova; Writing by Christian Lowe; Editing by Jason Bush and Raissa Kasolowsky)</p><span id="midArticle_13"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/A0eenE6FUqQ/story01.htm">Source </a>

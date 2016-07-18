@@ -1,0 +1,50 @@
+---
+ID: 1438
+post_title: >
+  The 2016 Oscars Actually Didn’t Suck.
+  Here’s How to Make Them Good
+author: Staff Writer
+post_date: 2016-02-29 23:34:10
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/the-2016-oscars-actually-didnt-suck-heres-how-to-make-them-good/
+published: true
+original_cats:
+  - >
+    Leonardo
+    DiCaprio,hollywood,Culture,Underwire,Movies,Academy
+    Awards,Oscars,Chris Rock,Oscars 2016
+original_title:
+  - >
+    The 2016 Oscars Actually Didn’t Suck.
+    Here’s How to Make Them Good
+original_link:
+  - >
+    http://feeds.wired.com/c/35185/f/661370/s/4defd5a3/sc/15/l/0L0Swired0N0C20A160C0A20Coscars0Efuture0C/story01.htm
+canonical_url:
+  - >
+    http://feeds.wired.com/c/35185/f/661370/s/4defd5a3/sc/15/l/0L0Swired0N0C20A160C0A20Coscars0Efuture0C/story01.htm
+---
+ [ad_1]
+<br><div id=""><p>In the final moments of last night’s Academy Awards telecast—just as the team behind <em>Spotlight</em> was ambling victoriously around the stage, and shortly after Public Enemy’s “Fight the Power” had <a href="https://www.youtube.com/watch?v=U35MvblI4og" target="_blank">Perez-punched</a> its way into the closing credits—a strange thought came to mind: <em>Wait, was that show weirdly not terrible? Was it maybe even</em>…<em>good</em>?</p>
+<p>It was a given, of course, that host Chris Rock—whose opening monologue, about the decades-long history between blacks and Hollywood, was just as raw and flawed as it had to be—would serve as a superior host over recent one-and-doners like Neil Patrick Harris (too hokey) and Seth MacFarlane (too bro-key), and that the <a href="http://www.wired.com/2016/01/pretty-much-only-white-people-got-oscar-nominations-again/" target="_blank">#OscarsSoWhite controversy</a> would add a layer of necessary tension to the show. But it <em>was</em> surprising that this year’s proceedings managed to be at once sincere and urgent <em>and</em> funny, its highlight reel including everything from <a href="https://www.youtube.com/watch?v=ZccLZ3qBYyE" target="_blank">Lady Gaga turning over the stage to sexual assault survivors</a> to Rock coining the term “sorority racist” to Russell Crowe being funny for the first time in, oh, his entire 51-year existence. </p>
+<p>And let’s not forget that between the musical performances and banter, some pretty deserving filmmakers actually won, including the <em>Spotlight</em> crew (for Best Picture) and nearly everyone who worked behind-the-scenes on <em>Mad Max: Fury Road</em>, each of whom hit the stage with a coolness and you-do-do aesthetic that made them look like the staff at an especially funky Australian charter school.</p>
+<p>There were plenty of lowlights, too—let’s hope we never again have to face the snoozy specter of Sam Smith’s awful James Bond song, or the smug mug of Ali G—but for the most part, this year’s awards felt like one of the year’s most overlooked movies, <em>Straight Outta Compton</em>: zippy, essential, and justifiably cocky. In fact, for once, we’re actually <em>excited</em> for next year’s event—provided they follow some of these guidelines:</p>
+<h3>Make Chris Rock permanent host.</h3>
+<p>Granted, <a href="http://deadline.com/2016/02/oscars-tv-ratings-2106-viewers-chris-rock-abc-1201711309/" target="_blank">the ratings were down this year</a>, but to quote the late Maurice White—one of the many pop titans whom the Oscar orchestra added to their playlist last night—that’s just the way of the world. With so many screens available nowadays, the Oscars will likely never be as seismic as it once was (who has time to actually <em>watch</em> the show, when there’s so much to kvetch about it online?). And besides, whenever the Academy fishes around for some new, ratings-rattling host, we wind up with James Franco looking like he’s just fallen off the apple-bong cart. So let’s just give Rock the job. As he proved last night, he’s one of the few performers who can take a room full of sweaty narcissists to task for their systemic shortcomings, and then prove charming enough to sell them Girl Scout cookies. Plus, it gives the comedian—who hasn’t recorded a stand-up special <a href="http://www.chrisrock.com/discography/stand-specials" target="_blank">in seven years</a>—a yearly outlet to riff to his heart’s content, and, while he’s at it, bring Tracy Morgan along to make some <a href="http://oscar.go.com/news/oscar-news/tracy-morgan-stars-as-the-danish-girl-in-2016-oscars-spoof" target="_blank">goofy puns</a>. Speaking of which…</p>
+<h3>Replace all those sincere actor-presenters with semi-sincere comedian-presenters.</h3>
+<p>Remember when Chris Evans and Chadwick Boseman presented last night? No? Well, that’s OK—they probably don’t remember, either, and are instead spending the day chilling at Downey’s superfood-vineyard in Malibu. But you no doubt recall Louis C.K. <a href="https://www.youtube.com/watch?v=GDxNm31smiE" target="_blank">gently ribbing</a> all of those Honda Civic-driving Best Documentary Short Film nominees, or Sarah Silverman <a href="https://www.youtube.com/watch?v=pKNGCcgp4-c" target="_blank">not-so-gently riffing</a> on James Bond’s sex life, or Steve Carrell pointing out that “Tina [Fey] has been drinking.” The easiest way to get rid of all the stuffy banter that makes everyone (including the presenters) tune out is to ditch the well-intentioned actors and instead turn to our country’s greatest natural resource—our dark-hearted, Oscar-ignored comedians. These are the people who regularly earn big laughs while grappling with difficult questions; surely, they can find a way to illuminate the differences between sound design and sound editing.</p>
+<h3>Oh, and while you’re at it, make Lady Gaga a creative director.</h3>
+<p>Though she may have lost last night in the Best Original Song category, Gaga’s performance of “Til It Happens to You”—a deft merger of musical performance and political statement—was her second show-stealing Oscar appearance in a row: Last year, she woke up a slumbering ceremony (and the pop-culture commentariat) with <a href="https://www.youtube.com/watch?v=vdqYmSf6tiE" target="_blank">her divisive medley from <em>The Sound of Music</em></a>. And while Gaga’s recent forays into <a href="https://www.youtube.com/watch?v=bPQWG4mGdAc" target="_blank">dad-jazz</a> and <a href="http://www.nfl.com/videos/nfl-super-bowl/0ap3000000634472/Lady-Gaga-sings-the-National-Anthem" target="_blank">televised sports</a> have prompted cries of “Make Gaga Weird Again” from die-hard fans, her ability to subtly inject her very Gaganess into a mass audience yields the kind of Oscar moments people talk about for days, or weeks, afterward. Giving her an expanded creative role in the show would not only make for a certain amount of “how cuckoo will this get?” intrigue, it will allow Gaga to indulge in all of her talents—from music to fashion to <a href="https://www.youtube.com/watch?v=xl0N7JM3wZk" target="_blank">space-egg management</a>—and guarantee her the kind of global platform (and audience) that the music industry often struggles to provide nowadays.</p>
+<h3>Keep the thank-you crawl…</h3>
+<p>This year, the producers allowed nominees to submit their shout-outs ahead of time, resulting in a way-too-quick jumble of names along the bottom of the screen that looked like a CNN ticker, circa 2002. While the tech itself needs to be fine-tuned, unburdening the nominees from the usual agent-manager-publicist kudos no doubt helped make last night’s speeches more memorable than usual: Best Documentary Short Subject winner Sharmeen Obaid Chinoy (<em>A Girl in the River: The Price of Forgiveness</em>) memorably noted her victory was “what happens when determined women get together” (who knows if she practiced it in her Honda Civic on the way over). Leonardo DiCaprio pleaded, <a href="https://www.youtube.com/watch?v=8HTWt2l_tlk" target="_blank">sincerely if a bit stiffly</a>, for climate-change awareness. And <em>Inside Out’</em>s Pete Docter encouraged kids to “make stuff,” even though most of them probably had already been lulled to sleep by Sam Smith’s performance. For the most part, the winners avoided the spell-like incantation of agency names and acronyms that often made even the smartest winners sound like needy desperados.</p>
+<h3>…but lose the on-screen trivia.</h3>
+<p>The Oscar producers have always insisted on stuffing the broadcast with semi-pertinent bits of information about the nominees; last night, such factoids were presented in on-screen box that looked like it came from an especially sober <em>Pop-Up Video</em> episode, and which peddled out the kind of info most people either already knew or could easily look up online (Emily Blunt was in <em>The Devil Wears Prada</em>? Ooh, <em>do</em> tell me more!). As a result, all of the actually intriguing bits of information wound up on Twitter: Did you know, for example, that Kira Roessler—one of the members of the <em>Mad Max: Fury Road</em> sound editing crew—was <a href="https://en.wikipedia.org/wiki/Kira_Roessler" target="_blank">a former member of Black Flag</a>? Or that once-scrappy studio A24—which launched in 2013—won three Oscars for three different movies last night (<em>Room</em>, <em>Amy</em>, <em>Ex Machina</em>), more than any other indie company? Or that Russell Crowe, for all his phone-throwingness, just likes to yuck it up with his pal Ryan Gosling, so long as it’s a controlled environment with a rehearsed speech, and there’s no one in his sightline? The things you learn!</p>
+
+			<a class="visually-hidden skip-to-text-link focusable bg-white" href="#start-of-content">Go Back to Top. Skip To: Start of Article.</a>
+
+			
+</div>
+<br>[ad_2]
+<br><a href="http://feeds.wired.com/c/35185/f/661370/s/4defd5a3/sc/15/l/0L0Swired0N0C20A160C0A20Coscars0Efuture0C/story01.htm">Source </a>

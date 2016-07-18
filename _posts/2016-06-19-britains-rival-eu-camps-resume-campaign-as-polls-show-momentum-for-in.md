@@ -1,0 +1,34 @@
+---
+ID: 4704
+post_title: 'Britain&#039;s rival EU camps resume campaign as polls show momentum for &#039;In&#039;'
+author: Staff Writer
+post_date: 2016-06-19 19:12:18
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/britains-rival-eu-camps-resume-campaign-as-polls-show-momentum-for-in/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - 'Britain&#039;s rival EU camps resume campaign as polls show momentum for &#039;In&#039;'
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/L5_dvMW7qm8/us-britain-eu-idUSKCN0Z508B
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/L5_dvMW7qm8/us-britain-eu-idUSKCN0Z508B
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">LONDON</span> Campaigning for Britain's vote on EU membership resumed on Sunday after a three-day hiatus prompted by the killing of a pro-EU lawmaker, but pledges of a more respectful tone were quickly tested by a fresh row over immigration.</p></span><span id="midArticle_1"/><p>Three opinion polls ahead of Thursday's vote showed the 'Remain' camp recovering some momentum although the overall picture remained one of an evenly split electorate.</p><span id="midArticle_2"/><p>The murder of Jo Cox, a 41-year-old mother of two young children, shocked Britain, raised questions about the tone of campaigning and could yet prove a defining moment in what is Britain's biggest political decision for decades.</p><span id="midArticle_3"/><p>Both sides sought to adopt a more measured style on Sunday, paying their respects to Cox but sticking closely to the immigration versus economy debate that has defined the campaign.</p><span id="midArticle_4"/><p>"I hope, because of the tragic death of Jo, we can have a less divisive political debate in our country," finance minister George Osborne, a leading conservative 'Remain' campaigner, told ITV's Peston on Sunday show.</p><span id="midArticle_5"/><p>"Particularly in the last few days of this referendum we’re going to have less baseless assertion and inflammatory rhetoric and more reasoned argument and facts," he said.</p><span id="midArticle_6"/><p>Cox, a Labour Party lawmaker and ardent supporter of EU membership, was shot and stabbed in the street in her electoral district in northern England on Thursday. A 52-year-old man appeared in a London magistrate's court on Saturday, charged with her murder.</p><span id="midArticle_7"/><p>Both 'Remain' and 'Leave' halted their campaigns until Sunday morning.</p><span id="midArticle_8"/><p>But the heated nature of the debate, which has so far seen 'In' campaigners accused of scaremongering on the economy and the 'Out' campaign's immigration focus criticized as divisive, soon resurfaced after the temporary truce.</p><span id="midArticle_9"/>
+        
+        <span class="first-article-divide"/><p>Osborne criticized as "disgusting and vile" a poster unveiled by 'Leave' campaigners last week showing a line of refugees under the slogan 'Breaking Point', saying it was reminiscent of literature used in the 1930s.</p><span id="midArticle_10"/><p>Prime Minister David Cameron said the poster was an attempt to scare voters and divide the electorate.</p><span id="midArticle_11"/><p>UK Independence Party (UKIP) leader Nigel Farage, who was pictured in front of the poster, said the EU had failed to control immigration properly and had compromised safety in Europe by allowing in religious extremists who wanted to attack Western states.</p><span id="midArticle_12"/><p>"Something that is true can't be a scare, can it?," Farage told BBC radio when asked about the poster. "It was a comment about us being part of a European Union that is failing."</p><span id="midArticle_13"/><p>The official 'Vote Leave' campaign sought to distance itself from the poster but defended its focus on immigration - an issue that has resonated with many voters.</p><span id="midArticle_14"/>
+        
+        <span class="second-article-divide"/><p>"The debate in this referendum is about our lack of control over economic migration from parts of Europe whose economies are being destroyed by the euro," said Vote Leave chairwoman Gisela Stuart. "This is now affecting families in Britain."</p><span id="midArticle_15"/><span id="midArticle_0"/><p>ECONOMIC WARNINGS</p><span id="midArticle_1"/><p>Anger at Cameron's strategy of warning about the economic impact of a vote to leave the bloc also bubbled to the surface during a live debate shown on BBC television in which he was repeatedly quizzed over the claims by members of the public.</p><span id="midArticle_2"/><p>"Why Prime Minister did you then say a short time ago that Britain outside the EU would be prosper and be OK? Now you're threatening a massive budget (cut)," asked one audience member on the Question Time show.</p><span id="midArticle_3"/>
+        
+        <span class="third-article-divide"/><p>Cameron responded by saying that he believed Britain could find a way to survive outside the EU, "but it's my very very clear view that it would be less good..... We would suffer economically."</p><span id="midArticle_4"/><p>Earlier in the day Farage appeared to indicate he thought Cox's killing had had an adverse effect on the 'Out' campaign.</p><span id="midArticle_5"/><p>"It has an impact on the campaign for everybody," he told Peston on Sunday when asked whether it would affect the referendum outcome. "We did have momentum until this terrible tragedy." </p><span id="midArticle_6"/><p>The only poll fully carried out since the killing showed support for "In" at 45 percent ahead of "Out" on 42 percent - a reversal of the three-point lead that the pollster, Survation, showed for 'Out' in a poll conducted on Wednesday.</p><span id="midArticle_7"/><p>Two other polls published on Saturday showed the 'Remain' campaign had regained its lead over 'Leave', while another showed the two camps running neck-and-neck.</p><span id="midArticle_8"/><p>However, pollsters said most of these surveys were carried out before Thursday's attack and thus did not reflect the full impact of the event.</p><span id="midArticle_9"/><p>"We are now in the final week of the referendum campaign and the swing back towards the status quo appears to be in full force," Anthony Wells, a director with polling firm YouGov, said.</p><span id="midArticle_10"/><span id="midArticle_11"/><p> (Additional reporting by Sarah Young; Editing by Jon Boyle)</p><span id="midArticle_12"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/L5_dvMW7qm8/us-britain-eu-idUSKCN0Z508B">Source </a>

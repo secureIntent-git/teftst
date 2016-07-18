@@ -1,0 +1,71 @@
+---
+ID: 2833
+post_title: >
+  How an Army of Deadheads (And Their LSD)
+  Invented Silicon Valley
+author: Staff Writer
+post_date: 2016-04-17 06:26:03
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/how-an-army-of-deadheads-and-their-lsd-invented-silicon-valley/
+published: true
+original_cats:
+  - >
+    Culture,apple,Grateful Dead,silicon
+    valley culture,steve jobs,Stewart Brand
+original_title:
+  - >
+    How an Army of Deadheads (And Their LSD)
+    Invented Silicon Valley
+original_link:
+  - >
+    http://www.wired.com/2016/04/heads-jesse-jarnow-excerpt/
+canonical_url:
+  - >
+    http://www.wired.com/2016/04/heads-jesse-jarnow-excerpt/
+---
+ [ad_1]
+<br><div id=""><p>Daniel Kottke is a regular among familiar eucalyptus groves outside Stanford University’s Frost Amphitheater, seeing the Dead there whenever he gets the chance. Into the ’80s, the venue remains a picnic ground for Stanford research scientists and Silicon Valley characters old and new, conspiring on various levels of future building.</p>
+<p data-js="fader" class="pullquote carve fader">
+	Apple founder Steve Jobs accepts the acid from Daniel Kottke, and they go their separate ways.	<span class="attribution"/>
+</p>
+A computer industry veteran himself, at one show in the late ’80s, Daniel Kottke runs into an old friend who is visiting Deadland with a new lady. Daniel and his friend have been on the outs for years. The band is playing and they don’t have much time to talk, but their interaction is cordial.
+<p>Spontaneously, Daniel offers his old friend a few hits of Windowpane he has in his pocket. “An old-times gesture,” Daniel says. They used to do a lot of acid together in the meditation room they built in the attic of their college home. They’d hung out at a commune and picked apples. They’d gone to India together, started a company together. They were bros, at least until Steve freaked out and/or went straight and/or met his psychedelic destiny as the creator of user-friendly personal computers. Apple founder Steve Jobs accepts the acid from Daniel Kottke, and they go their separate ways.</p>
+<p>Later, Daniel hears that Jobs tells his girlfriend, “Oh, I can’t take this, it’s probably poison.”</p>
+<p>“I just feel bad for Steve if that’s what he thought,” says Kottke, the first of Apple’s many Deadhead employees. (Though, to be fair to the late Steve Jobs, sometimes if one doesn’t want to commit to a half-dozen hours in the Beyond, the first excuse is sometimes the snarkiest.)</p>
+<figure attachment_2002450="" class="wp-caption landscape alignnone  relative" data-js="fader"><a href="http://www.wired.com/wp-content/uploads/2016/04/GratefulDead-98495481.jpg"><img src="http://www.whenitson.com/wp-content/uploads/2016/04/How-an-Army-of-Deadheads-And-Their-LSD-Invented-Silicon-Valley.jpg" alt="The Grateful Dead performing at Stanford's Frost Theater on October 9, 1982." width="582" height="388" class="size-default-top-art wp-image-2002450"/></a><figcaption class="wp-caption-text link-underline">The Grateful Dead performing at Stanford’s Frost Theater on October 9, 1982.<span class="credit link-underline-sm"><span aria-hidden="true" class="ui ui ui-photo inline-block ui-credit relative opacity-6 marg-r-sm marg-l-sm"/>Clayton Call/Getty Images</span></figcaption></figure><p>Even without Steve Jobs tripping at the Frost, the linkage between the rainbow underground and the burgeoning computer culture grows more robust and high-speed by the day. Kottke remains active on the circuit of Deadhead cybergeeks going strong since (and still including) the SAILers and MIT Media Labbers of a decade ago.</p>
+
+<p>The Internet is a far-off unsettled place in the ’80s, more a collection of various text-based technologies that don’t add up to much in most places. But, yet, here are these Deadheads, new kinds of citizens.</p>
+<p>Take, for example, Gumby. Gumby is an appropriately heady figure among the early Deadhead digerati. “He basically bounced between MIT and the AI lab at Stanford,” remembers dead.dis@sail mailing list founder Paul Martin. “He was just a good hacker who hadn’t actually had any training in any of the AI stuff, but would really work hard at swinging code and making something work.”</p>
+
+Gumby is connected and on the go, reaching for a new form of digital harmony. “Gumby was the kind of person who was back and forth, you couldn’t just call him on the phone,” Paul Martin says. “You just had no idea where he was going to be that week, and email was a way around that problem.” Once, when working in Austin in the mid-1980s, Gumby departs for Dead tour, the whole tour.
+<p>In each city, Gumby connects with a head at a local computer lab. Never a partier, Gumby’s postshow routine involves going immediately to a terminal and posting a set list. The tour happens to end in Austin, where he’s living at the time, and he happens to go into work that day, where he encounters his boss.</p>
+<p>“We haven’t seen you much,” the boss man says. “Well, I’ve been thinking,” he half bluffs.</p>
+<p>“Thinking about what?” and Gumby spells it out on the whiteboard. Without really working at it, he’d untangled the whole problem in his head over the previous weeks, following the Dead, listening to the Dead, breathing the Dead. The Dead’s long jams, either experienced live or on tape, are good for thinking, Garcia’s solos unfolding with crystal themes and unexpected variations.</p>
+<p>“There was a culture of people that believed in sharing,” Gumby says of the computing world he finds himself helping to define in the mid-1980s. “It’s always been around. It’s just the people doing the cool stuff. It’s how the network happened. We all passed patches around, different ideas. There weren’t clear boundaries in my life between being a Deadhead, going to shows, working on computers. We’d arrange consulting jobs around the tour.”</p>
+<figure attachment_2002454="" class="wp-caption landscape alignnone  relative" data-js="fader"><a href="http://www.wired.com/wp-content/uploads/2016/04/PaulMartin.jpg"><img src="http://www.whenitson.com/wp-content/uploads/2016/04/1460874363_824_How-an-Army-of-Deadheads-And-Their-LSD-Invented-Silicon-Valley.jpg" alt="&quot;Paul Martin, founder of early Deadhead e-mail list dead.dis@SAIL, at the Stanford Artificial Intelligence Lab, 1974&quot;." width="582" height="395" class="size-default-top-art wp-image-2002454"/></a><figcaption class="wp-caption-text link-underline">“Paul Martin, founder of early Deadhead e-mail list dead.dis@SAIL, at the Stanford Artificial Intelligence Lab, 1974”.<span class="credit link-underline-sm"><span aria-hidden="true" class="ui ui ui-photo inline-block ui-credit relative opacity-6 marg-r-sm marg-l-sm"/>David Wilkins/Courtesy of Jesse Jarnow</span></figcaption></figure>
+<p>There is something new afoot in the computer industry, the deep merging of the New Age and the new economics. Observed David Byrne, via actor Spalding Grey, in 1986’s <em>True Stories</em>, “They don’t work for money anymore, or to earn a place in heaven, which was a big motivating factor once upon a time, believe you me. They’re working and inventing because they like it. Economics has become a spiritual thing. I must admit it frightens me a little bit. They don’t see the difference between working and not working. It’s all become a part of one’s life … there’s no concept of weekends anymore!”</p>
+<p data-js="fader" class="pullquote carve fader">
+	At first, it merely seems like they've collectively hit rainbow oil.	<span class="attribution"/>
+</p>
+That’s not all. In 1989, D.V. (Gumby) Henkel-Wallace, as his email reply-to sometimes reads, cofounds a new Palo Alto venture: Cygnus Solutions. It is the world’s first free software company, building on the shareware/freeware concepts that have been circulating for some time. Free. Free! Free, free, free! It’s built on GNU, the world’s first free operating system. John Gilmore, another founding Cygnus partner, is an equally libertarian Silicon Valley Dead freak and employee number five at Sun Microsystems. He comes with his own legendary maxims: “The Net interprets censorship as damage and routes around it.” It’s not that trading Dead tapes (or eating acid) inspired Cygnus, but the shared idea of FREE birthed from the American alchemical ooze.
+<p>At first, it merely seems like they’ve collectively hit rainbow oil. The Merry Prankster and Whole Earth founder Stewart Brand is one of the first to notice. He quietly establishes the Global Business Network (not as catchy as “Whole Earth”) and, over the next years, stages learning conferences at the Esalen Institute in Big Sur and Biosphere 2 out in the Arizona desert. Every month, subscribers receive books handpicked by Brand. It feels much like Whole Earth endeavors of the past, but this venture is underwritten by Shell, AT&amp;T, and Volvo, with clients like Xerox, IBM, Bellsouth, Arco, Texaco, and—by the Clinton years—the Joint Chiefs of Staff and the Defense Department. Its subscription fee is much higher than the <em>Whole Earth Quarterly</em>.</p>
+<p>Something is being built, a massive modern work, both intellectual and physical, and many people have many different kinds of stakes in it. No one is quite sure what it looks like, but there’s no question that the San Francisco Peninsula is once again the locus. “There were Deadheads everywhere,” says Gumby of Silicon Valley in the late 1980s.</p>
+<figure attachment_2002451="" class="wp-caption landscape alignnone  relative" data-js="fader"><a href="http://www.wired.com/wp-content/uploads/2016/04/GratefulDead1-462296074.jpg"><img src="http://www.whenitson.com/wp-content/uploads/2016/04/1460874363_197_How-an-Army-of-Deadheads-And-Their-LSD-Invented-Silicon-Valley.jpg" alt="Jerry Garcia alongside guest performer John Cipollina with the Grateful Dead at the Greek Theater in Berkeley in May, 1983." width="582" height="418" class="size-default-top-art wp-image-2002451"/></a><figcaption class="wp-caption-text link-underline">Jerry Garcia alongside guest performer John Cipollina with the Grateful Dead at the Greek Theater in Berkeley in May, 1983.<span class="credit link-underline-sm"><span aria-hidden="true" class="ui ui ui-photo inline-block ui-credit relative opacity-6 marg-r-sm marg-l-sm"/>Ed Perlstein/Getty Images</span></figcaption></figure><p>“Megatest was full of Deadheads,” he says. “They made semiconductor equipment. Lots of pot was smoked. There were tons of Deadheads there all through the organization. You’d see the guys from Cisco and Apple and Sun and Stanford at Frost [Amphitheater] and the Greek [Theatre], just around, at shows.” And, built into the Grateful Dead’s psychedelic two-set, street-to-space framework is another handy feature: a set break, perfect for a good schmooze.</p>
+<p>At a show at the Greek Theatre in Berkeley, early Apple employee Daniel Kottke is summoned backstage. “Barlow wants to see you,” someone tells him and hands him a laminate to go see the Grateful Dead lyricist.</p>
+<p>“I was thrilled, I had no idea why,” Kottke says. “So I got backstage, first time ever for me, and I was a little starstruck. I didn’t even know what Barlow looked like. But I found him, and he wanted to thank me.”</p>
+<figure attachment_2002453="" class="wp-caption landscape alignnone  relative" data-js="fader"><a href="http://www.wired.com/wp-content/uploads/2016/04/Paul-David-Spring-1974.jpg"><img src="http://www.whenitson.com/wp-content/uploads/2016/04/1460874363_208_How-an-Army-of-Deadheads-And-Their-LSD-Invented-Silicon-Valley.jpg" alt="&quot;David Wilkins and Paul Martin of the Stanford Artificial Intelligence Lab following the Grateful Dead, 1974&quot;." width="582" height="490" class="size-default-top-art wp-image-2002453"/></a><figcaption class="wp-caption-text link-underline">“David Wilkins and Paul Martin of the Stanford Artificial Intelligence Lab following the Grateful Dead, 1974”.<span class="credit link-underline-sm"><span aria-hidden="true" class="ui ui ui-photo inline-block ui-credit relative opacity-6 marg-r-sm marg-l-sm"/>Courtesy of David Wilkins/Jesse Jarnow</span></figcaption></figure><p>Recently, Kottke had been the recipient of a massive file of Grateful Dead lyrics, a descendent of the original lyric collection created by Stanford’s Dave Wilkins and Paul Martin back in 1973, passed from server to server until Kottke had split them into 120 searchable Microsoft Word documents on three Macintosh floppy discs that somehow made it to John Perry Barlow. It is the first time Barlow has ever held a complete compendium of his own work.</p>
+
+
+
+<p>One part of that transaction’s magic is the achievement of sharing useful content through the network. But another even more astonishing fact is the resilience of the data, that it held from machine to machine with some kind of life force of its own. Something inside of it made it self-replicating and alive, something begging to be copied and shared and listened to and sung.</p>
+<p>Barlow and Kottke become pals, one more bit of Deadhead networking, at which Barlow is as adept as anyone. Established as a user on the WELL, the San Francisco dial-up message board, John Perry Barlow jumps full force into the new digital universe and uncorks a public personality previously unseen anywhere in the network, either offline or online. Eloquent and funny, Barlow emerges as a star on the WELL amid a community of tech journalists, science fiction writers, programmers, and Deadheads, the social and economic glue of the entire system.</p>
+<p>There are regular WELL gatherings at the network’s home office in Sausalito next to the houseboats that bob in the pleasant Marin weather. It is networking par excellence, the rich community of WELL beings. But John Perry Barlow keeps climbing.</p>
+
+			<a class="visually-hidden skip-to-text-link focusable bg-white" href="#start-of-content">Go Back to Top. Skip To: Start of Article.</a>
+
+			
+</div>
+<br>[ad_2]
+<br><a href="http://www.wired.com/2016/04/heads-jesse-jarnow-excerpt/">Source </a>

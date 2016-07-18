@@ -1,0 +1,38 @@
+---
+ID: 2462
+post_title: >
+  Oil hits one-month low; dollar steadies
+  after U.S. jobs data
+author: Staff Writer
+post_date: 2016-04-04 11:07:05
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/oil-hits-one-month-low-dollar-steadies-after-u-s-jobs-data/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    Oil hits one-month low; dollar steadies
+    after U.S. jobs data
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/elL1m-4TbQQ/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/elL1m-4TbQQ/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="4"><p><span class="articleLocation">TOKYO</span> Asian share prices held firm on Monday after solid U.S. payroll data underpinned investor risk sentiment while last week's dovish comments from Federal Reserve Chair Janet Yellen kept the U.S. dollar in check.</p></span><span id="midArticle_1"/><p>Oil prices showed signs of fatigue after last quarter's rebound, extending their decline on Friday following comments from a powerful Saudi prince that raised doubts about the chance of any output freeze deal later this month.</p><span id="midArticle_2"/><p>MSCI's broadest index of Asia-Pacific shares outside Japan .MIAPJ0000PUS rose 0.2 percent, although the many of its  component parts were not traded because of a market holiday in Greater China.</p><span id="midArticle_3"/><p>Japan's Nikkei <a href="http://www.reuters.com/finance/markets/index?symbol=jp%21n225">.N225</a> fell 0.3 percent, led by fall in automakers .ITEQP.T following poor U.S. sales figures.</p><span id="midArticle_4"/><p>European shares were expected to rise, with Germany's DAX <a href="http://www.reuters.com/finance/markets/index?symbol=de%21daxx">.GDAXI</a> seen rising by up to 0.4 percent, France's CAC <a href="http://www.reuters.com/finance/markets/index?symbol=fr%21CAC">.FCHI</a> 0.3 percent and Britain's FTSE <a href="http://www.reuters.com/finance/markets/index?symbol=gb%21ftse">.FTSE</a> 0.1 percent.</p><span id="midArticle_5"/><p>U.S. stocks rose on Friday, with the S&amp;P 500 <a href="http://www.reuters.com/finance/markets/index?symbol=us%21spx">.SPX</a> gaining 0.63 percent to a three-month high, after better-than-expected U.S. jobs and factory numbers.</p><span id="midArticle_6"/><p>Nonfarm payrolls increased 215,000 in March, beating expectations while average hourly earnings rose seven cents, recovering from a slip in February.</p><span id="midArticle_7"/><p>The unemployment rate rose to 5.0 percent from an eight-year low of 4.9 percent, though that was due to more people seeking work, a sign of more confidence in the jobs market.</p><span id="midArticle_8"/><p>Manufacturing data from the U.S. and China also eased concerns about slump in the global manufacturing activity.</p><span id="midArticle_9"/><p>Yet the cautious rate-hike view expressed by Fed Chair Janet Yellen last week resonated among investors, limiting expectations of a near-term rate hike by the Fed.</p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><p>"U.S. labour markets are firm, with the pool of labour  expanding but pressure on wages is hardly rising. We have been seeing this for a long time and unless it changes, markets will focus more on Yellen's stance," said Koichi Yoshikawa, executive director of financial markets at Standard Chartered Bank.</p><span id="midArticle_11"/><p>Two-year Treasury yield US2YT=RR was 0.744 percent, not far from a one-month low of 0.725 percent touched on Thursday while the 10-year U.S. Treasury yield dipped to 1.753 percent US10YT=RR, hitting a one-month low.</p><span id="midArticle_12"/><p>"The fall in oil prices is making it easier for investors to buy bonds. Japanese investors' buying in foreign bonds is also helping to depress U.S. long-date bond yields," said a derivatives trader at a Japanese brokerage.</p><span id="midArticle_13"/><p>Low U.S. yields undermined the U.S. dollar in the currency market.</p><span id="midArticle_14"/><p>The euro <a href="http://www.reuters.com/finance/currencies/quote?srcCurr=EUR&amp;destCurr=USD">EUR=</a> was at $1.1391, not far from its 5 1/2-month high of $1.1438 touched on Friday.</p><span id="midArticle_15"/>
+        
+        <span class="second-article-divide"/><p>It has not shown any reaction so far to new tensions among Greece and its lenders over a leaked transcript suggesting that IMF staff may threaten to leave the bailout to force European lenders to offer more debt relief.</p><span id="midArticle_0"/><p>Against the yen, the dollar fell to 111.43 yen <a href="http://www.reuters.com/finance/currencies/quote?srcCurr=JPY&amp;destCurr=USD">JPY=</a>, having dropped to a two-week low of 111.32 early on Monday.</p><span id="midArticle_1"/><p>The dollar was also weaker against a number of currencies in emerging markets.</p><span id="midArticle_2"/><p>Hedge funds are buying back emerging currencies they had sold heavily last year. The Malaysian ringgit <a href="http://www.reuters.com/finance/currencies/quote?srcCurr=MYR&amp;destCurr=USD">MYR=</a> rose to eight-month high while the Indian rupee <a href="http://www.reuters.com/finance/currencies/quote?srcCurr=INR&amp;destCurr=USD">INR=IN</a> stood near three-month high.</p><span id="midArticle_3"/><p>The Brazilian real stood at seven-month high <a href="http://www.reuters.com/finance/currencies/quote?srcCurr=BRL&amp;destCurr=USD">BRL=</a> while the South African rand <a href="http://www.reuters.com/finance/currencies/quote?srcCurr=ZAR&amp;destCurr=USD">ZAR=</a> was at a four-month high as the presidents of both countries face possible impeachment for alleged misconduct, strengthening perceptions that due process is still intact.   </p><span id="midArticle_4"/>
+        
+        <span class="third-article-divide"/><p>Oil markets are losing momentum after their recovery from mid-February to March as doubts return over the ability of big oil producing countries to agree an output freeze when they  meet on April 17.</p><span id="midArticle_5"/><p>Saudi Deputy Crown Prince Mohammed bin Salman said on Thursday that OPEC's traditional swing producer will not join the output freeze without the participation of Iran and other major exporters, Bloomberg reported.</p><span id="midArticle_6"/><p>Iran has maintained that it will not participate in any freeze until its oil exports return to pre-sanctions levels.</p><span id="midArticle_7"/><p>Adding to concerns of a global glut which has pulled down prices by as much as 70 percent since 2014, U.S. production has remained high despite steep cuts in drilling for new reserves as well as a jump in oil sector bankruptcies.</p><span id="midArticle_8"/><p>Brent crude futures LCOc1 fell to as low as $38.19 per barrel, its lowest in a month, on Monday and last stood at $38.34 per barrel, down 0.9 percent.</p><span id="midArticle_9"/><p>U.S. crude futures CLc1 dropped 1.3 percent to $36.33, hovering near their lowest level in three weeks.</p><span id="midArticle_10"/><p>Copper CMCU3, seen as a gauge of the global economic strength because of its extensive industrial use, also dropped to one-month low of $4,791.50 a tonne.</p><span id="midArticle_11"/><span id="midArticle_12"/><p> (Reporting by Hideyuki Sano; Editing by Eric Meijer)</p><span id="midArticle_13"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/elL1m-4TbQQ/story01.htm">Source </a>

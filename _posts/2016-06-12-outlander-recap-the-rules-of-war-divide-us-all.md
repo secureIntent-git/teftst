@@ -1,0 +1,41 @@
+---
+ID: 4477
+post_title: 'Outlander Recap: The Rules Of War Divide Us All'
+author: Staff Writer
+post_date: 2016-06-12 03:56:06
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/outlander-recap-the-rules-of-war-divide-us-all/
+published: true
+original_cats:
+  - Culture,Outlander,Starz,TV Recaps
+original_title:
+  - 'Outlander Recap: The Rules Of War Divide Us All'
+original_link:
+  - >
+    http://www.wired.com/2016/06/outlander-recap-s2e10/
+canonical_url:
+  - >
+    http://www.wired.com/2016/06/outlander-recap-s2e10/
+---
+ [ad_1]
+<br><div id=""><p>In last week’s episode of <em>Outlander</em>, when Jamie was trying to rouse his volunteer army, he talked about how silly the British army seemed with their well-mannered rituals. They were brave Scots, after all—“no need to strut and ponce about like the Redcoats.” Jamie goes on to say how pretty it all is, the Redcoats marching as one, music playing, banners flying. But then the pageantry becomes deadly: rifles, cannons, bayonets, disciplined killing.</p>
+<p>War is a savage thing. Men destroying other men for power, money, control, dominion; whatever the motive, it is always a bloody affair. Throughout history, though, most civilizations have tried to establish rules for war: the protection of officers, the protection of women and children, fighting with honor. Mostly, these rules have been, and continue to be, an attempt to establish a veneer of civility in uncivil endeavors.</p>
+<p>In “Prestonpans,” Prince Charles Stuart finally has his army, 2,000 strong. Like any child with a new toy, he’s ready to put that army in play. But how to attack the British? There are no easy answers; his quartermaster and lord general disagree on how to proceed. The quartermaster wants to forge across a meadow directly into the British camp, while the lord general wants to proceed with caution and hold the high ground (literally, not figuratively). Jamie is all wisdom and diplomacy throughout the episode, and so he interrupts the arguing as the voice of reason, reminding the senior officers that the meadow is a boggy mess the infantry might not be able to cross.</p>
+<p>This episode serves, mostly, as a reminder of the costs of war—and who pays the price for the whims of the warmongers. The prince, the quartermaster, and lord general spend most of their time bickering and jockeying for position and taking for granted the lives of the men who will do their bidding. War, to them, is an abstraction. At one point, Stuart pulls Jamie aside and tells him to make sure Claire, who has set up a field hospital for the wounded, treats British soldiers before the Highlanders who have joined his army. Those British soldiers are going to be his subjects, you see, and that’s what this war is really about—power and prestige, at any cost.</p>
+<p>In a fireside chat, Jamie and Murtagh lament that the battle upon which they are about to embark is on a much different scale than what they’re used to, that a single death won’t matter, that it will take hundreds of men dying to make a mark. It’s a sobering moment and a sobering reminder of the vast loss of life war brings about, and for what?</p>
+<figure attachment_2042917="" class="wp-caption landscape alignnone fader relative" data-js="fader"><a href="https://www.wired.com/wp-content/uploads/2016/06/CaitrionaBalfeasClaireRandallFraser-Episode2103.jpg"><img class="size-default-top-art wp-image-2042917" src="http://www.whenitson.com/wp-content/uploads/2016/06/Outlander-Recap-The-Rules-Of-War-Divide-Us-All.jpg" alt="Outlander Season 2 2016" width="582" height="388"/></a><figcaption class="wp-caption-text link-underline"><span class="credit link-underline-sm"><span aria-hidden="true" class="ui ui ui-photo inline-block ui-credit relative opacity-6 marg-r-sm marg-l-sm no-caption"/>Starz</span></figcaption></figure><p>Before Charles Stuart can ascend to the throne, there is still the problem of that boggy meadow. Dougal, eager as ever to be the alpha male, braves British bullets to report that the meadow is indeed too risky to cross. Of course, a solution isn’t far off. A young man, one Richard Anderson, reveals that he knows of a hidden trail that will bypass the bog and allow the army to “catch the English unawares.” It’s all a bit implausible and overly convenient, but the Jacobites need all the help they can get.</p>
+<p>Just before the battle begins, Jamie tasks the quartermaster and lord general with looking after Prince Charles. Charles, delusional as ever, wants to lead the men himself, as if he knows anything of war. (Those of us watching know that Charles couldn’t lead an ass to a toilet, let alone an army, and that he’ll cause the least trouble if he’s kept out of the way.) Once again, Jamie uses his diplomacy and silver tongue to convince the prince that the rebellion cannot succeed without him—his life needs to be protected at all costs.</p>
+<p>Meanwhile, Dougal works his way through the battlefield, stabbing the injured British soldiers lying about. Whatever rules there may be in war, Dougal has no interest in obeying. When he returns to the hospital. covered in blood and gore, he crows of the victory—and then flies into a rage when he sees that the women are treating wounded British soldiers. Prince Charles, who happens to be hanging around, is none too pleased at Dougal’s display. He’s a royal first, after all, and doesn’t want to be reminded of what actually happens in this war he leads. Stuart excoriates Dougal for being a “bloodthirsty barbarian” (though it must be said that Dougal, however uncomfortable he might make us, is the most honest about the nature of war).</p>
+<p>The prince wants to banish Dougal from his army. Jamie, quick on his feet, suggests that Dougal be given a promotion to “captain of the newly formed Highland dragoons,” a special unit that can follow the British troops and do reconnaissance. It’s a twofer—Dougal gets to save face and Jamie no longer has to deal with his troublesome presence. The prince agrees.</p>
+<figure attachment_2042918="" class="wp-caption landscape alignnone fader relative" data-js="fader"><a href="https://www.wired.com/wp-content/uploads/2016/06/CaitrionaBalfeasClaireRandallFraser-Episode2104.jpg"><img class="size-default-top-art wp-image-2042918" src="http://www.whenitson.com/wp-content/uploads/2016/06/1465703766_295_Outlander-Recap-The-Rules-Of-War-Divide-Us-All.jpg" alt="Outlander Season 2 2016" width="582" height="388"/></a><figcaption class="wp-caption-text link-underline"><span class="credit link-underline-sm"><span aria-hidden="true" class="ui ui ui-photo inline-block ui-credit relative opacity-6 marg-r-sm marg-l-sm no-caption"/>Starz</span></figcaption></figure><p>But before anyone can celebrate Dougal’s rise and demise, Angus begins coughing up blood. While everyone was worried about Rupert’s gnarly sword wound, it was Angus who was truly injured when he absorbed a cannon blast. His abdomen is riddled in black and blue—internal bleeding, Claire diagnoses.</p>
+<p>It’s heart-wrenching to watch as Angus dies, and is truly one of the most affecting and haunting moments of the show. Though Angus was a secondary character, he was memorable in his loyalty, his charm, his shameless flirtation with Claire, his vulgarity, his honesty. And, as with all the other Highlanders who lost their lives during this episode, his death is a reminder of who truly pays the price in war, and how little those who fight benefit from victory.</p>
+<p>“War tastes bitter, no matter the outcome,” as Jamie says. By the end of the episode, Jamie and Murtagh acknowledge that Claire’s knowledge of history is true—the Jacobites did win the battle at Prestonpans. This, however, is a sober realization, because if Claire is right about that battle, she is also right about what is to come at Culloden and the fate that will befall the Highlanders. We will have to brace ourselves for more senseless death while swallowing a bitter reality: the leaders who send those men to their deaths will sleep soundly. After all, they’re playing by the rules.</p>
+
+			<a class="visually-hidden skip-to-text-link focusable bg-white" href="#start-of-content">Go Back to Top. Skip To: Start of Article.</a>
+
+			
+</div>
+<br>[ad_2]
+<br><a href="http://www.wired.com/2016/06/outlander-recap-s2e10/">Source </a>

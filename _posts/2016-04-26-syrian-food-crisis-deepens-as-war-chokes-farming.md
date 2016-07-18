@@ -1,0 +1,38 @@
+---
+ID: 3087
+post_title: >
+  Syrian food crisis deepens as war chokes
+  farming
+author: Staff Writer
+post_date: 2016-04-26 06:27:03
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/syrian-food-crisis-deepens-as-war-chokes-farming/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    Syrian food crisis deepens as war chokes
+    farming
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/LHygscHMAdk/us-mideast-crisis-syria-wheat-idUSKCN0XN0G0
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/LHygscHMAdk/us-mideast-crisis-syria-wheat-idUSKCN0XN0G0
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="6"><p><span class="articleLocation">ABU DHABI/HASAKA, Syria</span> Syria's war has destroyed agricultural infrastructure and fractured the state system that provides farmers with seeds and buys their crops, deepening a humanitarian crisis in a country struggling to produce enough grain to feed its people.</p></span><span id="midArticle_1"/><p>The country's shortage of its main staple wheat is worsening. The area of land sown with the cereal - used to make bread - and with barley has fallen again this year, the U.N. Food and Agriculture Organization (FAO) told Reuters. </p><span id="midArticle_2"/><p>The northeast province of Hasaka, which accounts for almost half the country's wheat production has seen heavy fighting between the Kurdish YPG militia, backed by the U.S.-led air strikes, and Islamic State militants. </p><span id="midArticle_3"/><p>Farming infrastructure, including irrigation canals and grain depots, has been destroyed, according to the FAO. It said the storage facilities of the state seeds body across the country had also been damaged, so it had distributed just a tenth of the 450,000 tonnes of seeds that farmers needed to cultivate their land this season.</p><span id="midArticle_4"/><p>Farmers are also struggling to get their produce to market so it can be sold and distributed to the population. </p><span id="midArticle_5"/><p>The conflict has led to the number of state collection centers falling to 22 in 2015, from 31 the year before and about 140 before civil war broke out between government forces and rebels five years ago, according to the General Organisation for Cereal Processing and Trade (Hoboob), the state agency that runs them. Many of those lost have been damaged or destroyed.</p><span id="midArticle_6"/><p>The breakdown of the agricultural system means Syria could struggle to feed itself for many years after any end to the fighting, and need a significant level of international aid, the FAO says. </p><span id="midArticle_7"/><p>It has had a major impact on plantings; the area of land sown with wheat and barley for the 2015-2016 season stood at 2.16 million hectares, down from 2.38 million hectares the previous season and 3.125 million in 2010 before the war, and only around two-thirds of the area targeted by the government, said the FAO. </p><span id="midArticle_8"/><p>The U.N. organization said its planting information came from the Syrian government. The government itself has not made public the figures for 2015/16 plantings. </p><span id="midArticle_9"/><p>The agriculture ministry could not be reached for comment. A government source told Reuters that information on the 2015/16 crop area was still not ready for publication.</p><span id="midArticle_10"/><p>"What concerns us is not the fluctuations from one year to the other, it is the worrying overall downward trend," said Eriko Hibi, the FAO's main representative for Syria. </p><span id="midArticle_11"/>
+        
+        <span class="first-article-divide"/><span id="midArticle_12"/><p>DEPENDING ON RAIN</p><span id="midArticle_13"/><p>The worsening wheat shortage is another hammer blow to a country where the population numbered around 22 million before the civil war but more than 250,000 have been killed in the fighting and millions have become refugees. </p><span id="midArticle_14"/><p>Last year, farmers sold just over 450,000 tonnes of wheat, a fraction of the 1-1.5 million tonnes that is needed to provide enough bread to government-held areas of the country alone, government sources and traders said. </p><span id="midArticle_15"/><p>Before the conflict, by contrast, Syria could produce 4 million tonnes of wheat in a good year, with around 2.5 million tonnes going to the state and the surplus exported.  </p><span id="midArticle_0"/>
+        
+        <span class="second-article-divide"/><p>The United Nations said in January that some Syrians were starving in besieged areas under the control of rebel forces or Islamic State, which it said were home to at least 400,000 people.    </p><span id="midArticle_1"/><p>Faisal Hejji, a farmer in Ras al-Ain in Hasaka, said he had devoted 200 donnams (20 hectares) of land to wheat this season, down from 300 donnams before the conflict.</p><span id="midArticle_2"/><p>"War has made us lose a lot of the necessary inputs we need and when we do find them they are pricey," Hejji said. "We used to support one donnam of wheat with 50 kg of fertilizer but now this is missing," he added. </p><span id="midArticle_3"/><p>"Also, we are now depending more on rain rather than other irrigation methods."  </p><span id="midArticle_4"/><span id="midArticle_5"/><p>NO SECURITY</p><span id="midArticle_6"/>
+        
+        <span class="third-article-divide"/><p>His plight is typical of farmers across the country, according to the FAO, which estimated last year that Syria's wheat deficit for 2015 stood at around 800,000 tonnes. That deficit could widen every year should farmers continue to lack access to agricultural inputs and markets, it said. </p><span id="midArticle_7"/><p>"Many farmers don't want to be displaced or give up their land, they want to stay as long as they can and in order to do that they have to be able to produce their food and make ends meet," Hibi said.</p><span id="midArticle_8"/><p>She said it was still too early to tell what this year's wheat crop would be, as it depended on the weather. "So far it has been a bit drier but that may change," she said.</p><span id="midArticle_9"/><p>Syrian farmers benefited from the best rainfall in a decade last year and harvested around 2.4 million tonnes of wheat, significantly better than the drought-stricken year before but still around 40 percent lower than the pre-war average.          </p><span id="midArticle_10"/><p>Hejji's land is located in a part of Syria where Kurdish groups declared their own government two years ago known as the self-administration. Yet he still sells his wheat to the state-run Hoboob, which he says is the only group capable of buying it at suitable prices.</p><span id="midArticle_11"/><p>"I go to the Hoboob agency in Hasaka or Qamishli to sell my wheat and I store small quantities for me and my family. Some farmers sell their wheat to middlemen but these traders also sell them ultimately to Hoboob," he said. </p><span id="midArticle_12"/><p>It is difficult to transfer wheat and other food from one province to another because of lack of security, Hibi said. </p><span id="midArticle_13"/><p>"I've seen a lot of fresh fruit wasted in some areas where just nearby people haven't seen fresh fruit for years."</p><span id="midArticle_14"/><span id="midArticle_15"/><p> (Reporting By Maha El Dahan in Abu Dhabi; Additional reporting by Rodi Said in Hasaka, Syria; Editing by Pravin Char)</p><span id="midArticle_16"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/LHygscHMAdk/us-mideast-crisis-syria-wheat-idUSKCN0XN0G0">Source </a>

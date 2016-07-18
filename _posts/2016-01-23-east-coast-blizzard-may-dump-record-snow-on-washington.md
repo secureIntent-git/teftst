@@ -1,0 +1,38 @@
+---
+ID: 362
+post_title: >
+  East Coast blizzard may dump record snow
+  on Washington
+author: Staff Writer
+post_date: 2016-01-23 06:08:23
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/east-coast-blizzard-may-dump-record-snow-on-washington/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    East Coast blizzard may dump record snow
+    on Washington
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/U2pygl48TQc/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/U2pygl48TQc/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">WASHINGTON</span> A winter storm that could bury parts of the U.S. Middle Atlantic region under 3 feet (90 cm) of snow slammed into Washington on Friday, threatening the nation's capital with record accumulations as it barreled up the East Coast.</p></span><span id="midArticle_1"/><p>The blizzard started to blanket the Washington area during the early afternoon. Six people had died in car crashes as a wintry mix spread across Arkansas, Tennessee and Kentucky.</p><span id="midArticle_2"/><p>The storm could dump 2 to 3 feet of snow on Baltimore and the capital and bring winds of 30 to 50 miles per hour (48 to 80 km per hour) before winding down on Saturday afternoon, according to the National Weather Service. </p><span id="midArticle_3"/><p>Philadelphia and New York were expected to get 12 to 18 inches (30 to 46 cm) of snow before the storm abates. </p><span id="midArticle_4"/><p>In Falls Church, Virginia, about 8 miles (13 km) west of the capital, a thick curtain of snow was already piling up on deserted streets on Friday evening, creating a peaceful tableau that disguised dangerous driving conditions.</p><span id="midArticle_5"/><p>"I want to be very clear with everybody. This is a major storm," Washington Mayor Muriel Bowser said as the city braced for what could turn out to be one of the worst storms in its history. "This has life-and-death implications and all the residents of the District of Columbia should treat it that way."</p><span id="midArticle_6"/><p>The Weather Channel said more than 85 million people in at least 20 states were covered by a winter weather warning, watch or advisory and residents up and down the East Coast scrambled to stock up on supplies.</p><span id="midArticle_7"/><p>Airlines canceled more than 7,100 flights in the U.S. for Friday and Saturday, according to flight tracking website FlightAware.com. An additional 7,000 flights were delayed on Friday alone, reverberating to airports across the country.</p><span id="midArticle_8"/><p>Washington's snowfall could eclipse the "Snowmageddon" storm of 2010 that dropped 17.8 inches (45.2 cm), AccuWeather senior meteorologist Alex Sosnowski said. If forecasts prove accurate, the storm could rival the 1922 Knickerbocker storm, which dumped a record 28 inches (71 cm) on the city.</p><span id="midArticle_9"/>
+        
+        <span class="first-article-divide"/><span id="midArticle_10"/><p>'IT'S GOING TO BE A NIGHTMARE'</p><span id="midArticle_11"/><p>"I think it’s going to be a nightmare, the rates of snow we’re talking about," said Marisa Kritikson, 27, a George Washington University nursing student who bought a snow shovel to dig out from her basement apartment.</p><span id="midArticle_12"/><p>Southeastern Pennsylvania, including Philadelphia, was expecting 10 to 18 inches (25 to 46 cm)</p><span id="midArticle_13"/><p>The approaching storm led New Jersey Governor Chris Christie to return home from New Hampshire, where he was campaigning for the Republican presidential nomination. Christie declared a state of emergency as well.</p><span id="midArticle_14"/>
+        
+        <span class="second-article-divide"/><p>"The smartest thing for you all to do is stay home, stay where you are," Christie told an evening press conference.</p><span id="midArticle_15"/><p>New Jersey Transit said all bus, rail and light rail service would be shut down at 2 a.m. local time on Saturday. Service would be restored as "conditions permit," the agency said.</p><span id="midArticle_0"/><p>Residents along New Jersey's coast prepared for potential flooding during high tides on Saturday and Sunday. In Ocean City, emergency management officials warned of forecasts calling for the highest flood levels since Superstorm Sandy brought heavy damage in 2012.</p><span id="midArticle_1"/><p>High winds and a full moon could combine to create a high tide of nearly 8 feet (2.4 meters) in Atlantic City, officials said, still shy of the 10 feet (3 meters) Sandy caused in Ocean City.</p><span id="midArticle_2"/><p>In New York City, the National Weather Service issued coastal flood warnings for the boroughs of Staten Island, Brooklyn and Queens. Officials prepared for possible evacuations from low-lying areas.</p><span id="midArticle_3"/>
+        
+        <span class="third-article-divide"/><p>Post-Sandy reconstruction has put the area in a stronger position to face the storm, New York Governor Andrew Cuomo said. </p><span id="midArticle_4"/><p>The storm arrived in the Washington area, home to about 6 million people, after dropping 5 inches (13 cm) of snow in Arkansas and spreading a wintry mess of snow, sleet and freezing rain in parts of Tennessee and Kentucky.</p><span id="midArticle_5"/><p>Duke Energy reported that more than 112,000 people were without power in North and South Carolina on Friday evening. In addition to snow, the Charlotte, North Carolina, area could get up to a half inch (1.3 cm) of ice, making roads dangerous.</p><span id="midArticle_6"/><p>Federal offices in the Washington area closed at noon to allow employees to get home ahead of the storm. </p><span id="midArticle_7"/><p>"I have nine cases of wine, half and half and coffee, firewood and all my devices are charged. All I need now is a wing and a prayer,” said Liz Scherer, 54, of Silver Spring, Maryland.</p><span id="midArticle_8"/><p>The Washington Metropolitan Area Transit Authority, which includes the second-busiest U.S. subway system, took the rare step of suspending operations from late Friday through Sunday.</p><span id="midArticle_9"/><p>The forecast prompted the Virginia National Guard to ready 400 troops to deal with emergencies. In New York, 600 National Guard personnel were on standby.</p><span id="midArticle_10"/><span id="midArticle_11"/><p> (Additional reporting by Colleen Jenkins in Winston-Salem, North Carolina; Suzannah Gonzales in Chicago, Barbara Goldberg and Joseph Ax in New York, Susan Heavey in Washington; Lacey Johnson in Silver Spring, Maryland; Steve Barnes in Little Rock, Arkansas; Harriet McLeod in Charleston, South Carolina and Dan Whitcomb in Los Angeles; Writing by Frank McGurty; Editing by <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=diane.craft&amp;">Diane Craft</a>, <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=james.dalgleish&amp;">James Dalgleish</a>, <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=david.gregorio&amp;">David Gregorio</a> and <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=lisa.shumaker&amp;">Lisa Shumaker</a>)</p><span id="midArticle_12"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/U2pygl48TQc/story01.htm">Source </a>

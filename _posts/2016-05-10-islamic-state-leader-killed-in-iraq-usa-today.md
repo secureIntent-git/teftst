@@ -1,0 +1,23 @@
+---
+ID: 3498
+post_title: 'Islamic State leader killed in Iraq &#8211; USA TODAY'
+author: Staff Writer
+post_date: 2016-05-10 06:15:13
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/islamic-state-leader-killed-in-iraq-usa-today/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Islamic State leader killed in Iraq - USA TODAY'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNEJM_oo49XvSnZujwPkvWOTOI90PA&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779101322910&#038;ei=anwxV-iGKtKBhQHYhq6IBg&#038;url=http://www.usatoday.com/story/news/world/2016/05/10/islamic-state-leader-killed-iraq-anbar-province/84171754/'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNEJM_oo49XvSnZujwPkvWOTOI90PA&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779101322910&#038;ei=anwxV-iGKtKBhQHYhq6IBg&#038;url=http://www.usatoday.com/story/news/world/2016/05/10/islamic-state-leader-killed-iraq-anbar-province/84171754/'
+---
+ [ad_1]
+<br><div role="main" itemprop="articleBody" readability="39.565377532228"><!-- cxenseparse_start --><div id="module-position-PBa1rDB8AeM" class="story-asset story-metadata-asset"><div class="article-metadata-wrap"><section id="module-position-PBa1rCqrEZk" class="storymetadata-bucket expandable-photo-module story-expandable-photo-module" readability="5.5"><aside itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="single-photo expandable-collapsed" readability="11"><div class="image-wrap"><img class="expand-img-horiz" itemprop="url" src="http://www.gannett-cdn.com/-mm-/c39215ee13cf08786702ecdeebb5104b84731d49/c=1-0-799-600&amp;r=x404&amp;c=534x401/local/-/media/2016/05/10/USATODAY/USATODAY/635984405563219578-AFP-551711784.jpg" alt="AFP 551711784 I CFG IRQ" data-mycapture-src="http://www.gannett-cdn.com/media/2016/05/10/USATODAY/USATODAY/635984405563219578-AFP-551711784.jpg" data-mycapture-sm-src="http://www.whenitson.com/wp-content/uploads/2016/05/Islamic-State-leader-killed-in-Iraq-USA-TODAY.jpg"/><span class="toggle"/><meta itemprop="name" content="AFP 551711784 I CFG IRQ"/></div><p class="image-credit-wrap"><span class="js-caption-wrapper"><span class="cutline js-caption">This file photo taken on January 08, 2014 shows an image uploaded to an Islamic website on January 8, 2014, allegedly showing Shakir Wahib (L), and Abu Wahib, a leader of the Islamic State of Iraq and the Levant (ISIL) standing next to burning cars, at an undisclosed location in Iraq.</span><meta itemprop="copyrightHolder" content=""/><span class="credit">(Photo: AFP/Getty Images)</span></span></p></aside></section></div></div><p>A top Islamic State leader in Iraq's Anbar province has been killed by a coalition airstrike, the Pentagon said Monday.</p><p>Pentagon press secretary Peter Cook said Abu Wahib and three others were killed when their vehicle was struck on May 6 in Rutba, according to the Associated Press. Cook said Wahib's death is "another blow" to the group's leadership "that will further degrade its ability to operate especially in Anbar province."</p><p>"I think it is fair to say that ISIL leadership has been hit hard by coalition efforts and this is another example of that," Cook told reporters. “It is dangerous to be an ISIL leader in Iraq and Syria these days and for good reason.”</p><p>A senior U.S. official, who was not authorized to discuss the matter publicly, said it was an American airstrike, according to the AP.</p><p>Cook says Wahib was a former member of al-Qaida in Iraq and has appeared in Islamic State execution videos.</p><p>There was a false report earlier this year that said Wahib was targeted by airstrikes near the town of Hit and killed, <a href="https://www.washingtonpost.com/news/checkpoint/wp/2016/05/09/notorious-islamic-state-leader-killed-in-airstrike-pentagon-says/">according to the </a><em><a href="https://www.washingtonpost.com/news/checkpoint/wp/2016/05/09/notorious-islamic-state-leader-killed-in-airstrike-pentagon-says/">Washington Post</a>.</em></p><p>This is the first time the Pentagon said Wahib, considered to be one of the most brutal commanders, was dead, the <em>Post</em> reported.</p><!-- cxenseparse_end --><p>Read or Share this story: http://usat.ly/1T8dRzE</p></div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNEJM_oo49XvSnZujwPkvWOTOI90PA&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779101322910&#038;ei=anwxV-iGKtKBhQHYhq6IBg&#038;url=http://www.usatoday.com/story/news/world/2016/05/10/islamic-state-leader-killed-iraq-anbar-province/84171754/">Source </a>

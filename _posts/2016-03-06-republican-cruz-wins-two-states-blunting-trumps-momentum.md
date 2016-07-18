@@ -1,0 +1,34 @@
+---
+ID: 1589
+post_title: 'Republican Cruz wins two states, blunting Trump&#039;s momentum'
+author: Staff Writer
+post_date: 2016-03-06 03:11:05
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/republican-cruz-wins-two-states-blunting-trumps-momentum/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - 'Republican Cruz wins two states, blunting Trump&#039;s momentum'
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/s95QrNHjP5E/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/s95QrNHjP5E/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">WASHINGTON</span> Republican presidential candidate Ted Cruz won nominating contests in Kansas and Maine on Saturday, denting front-runner Donald Trump's momentum and bolstering Cruz's case that he is the best alternative for those bent on stopping Trump.</p></span><span id="midArticle_1"/><p>On the Democratic side, front-runner Hillary Clinton won in Louisiana, while her rival Bernie Sanders, a U.S. senator from Vermont, won in Kansas and Nebraska.</p><span id="midArticle_2"/><p>Five states were holding nominating contests on Saturday as Trump and Clinton looked to strengthen their leads in the battle to pick nominees for the Nov. 8 presidential election to succeed President Barack Obama.</p><span id="midArticle_3"/><p>Trump won in Louisiana and was leading in Kentucky. The results were bad news for the remaining two Republican candidates, Marco Rubio, a U.S. senator from Florida, and Ohio Governor John Kasich, who trailed in all four contests.</p><span id="midArticle_4"/><p>"The scream you hear, the howl that comes from Washington, D.C., is utter terror at what 'We the People' are doing together," Cruz told supporters in Coeur d'Alene, Idaho, after his win in Kansas.</p><span id="midArticle_5"/><p>Cruz, a U.S. senator from Texas who has promoted himself to voters as a true conservative, in contrast to Trump, also won a non-binding "straw poll" of activists at the Conservative Political Action Conference near Washington, D.C.</p><span id="midArticle_6"/><p>"What we saw in Kansas is a manifestation of a real shift in momentum," Cruz told reporters in Idaho.</p><span id="midArticle_7"/><p>Trump has a substantial lead in the delegates needed to secure the nomination at the Republican National Convention, but has come under a barrage of blistering attacks from his party's establishment.</p><span id="midArticle_8"/><p>The four Republican contests on Saturday together account for just 155 delegates. The results in Maine gave Cruz 12 delegates and Trump nine. In Kansas, Cruz picked up 24 delegates while Trump gained nine.</p><span id="midArticle_9"/>
+        
+        <span class="first-article-divide"/><p>The races on Saturday were open only to registered Republicans, excluding the independent and disaffected Democratic voters who have helped Trump's surge to the lead.</p><span id="midArticle_10"/><p>Saturday's contests were the first since retired neurosurgeon Ben Carson dropped from the race, after polling in the single-digits in most of the nominating contests. Carson had drawn support from evangelical voters, a group that has also been a stronghold of Cruz.</p><span id="midArticle_11"/><p>Since winning seven of 11 contests on Super Tuesday, Trump has come under withering fire from a Republican establishment worried he will lead the party to a resounding defeat in November's election.</p><span id="midArticle_12"/><p>Mainstream Republicans have blanched at Trump's calls to build a wall on the border with Mexico, round up and deport 11 million undocumented immigrants and temporarily bar all Muslims from entering the United States.</p><span id="midArticle_13"/><p>Mitt Romney, the 2012 Republican presidential nominee, called Trump a phony and a fraud who was playing American voters for suckers, and 2008 nominee John McCain, a U.S. senator from Arizona, said Trump's foreign policy views were uninformed and dangerous.</p><span id="midArticle_14"/>
+        
+        <span class="second-article-divide"/><span id="midArticle_15"/><p>RUBIO CRITICIZES MEDIA FOR AIDING TRUMP</p><span id="midArticle_0"/><p>At the Conservative Political Action Conference on  Saturday, Rubio criticized the media for fueling Trump's rise.</p><span id="midArticle_1"/><p>“I’ve been sitting here for five minutes and two of the three questions you’ve asked have been about Donald Trump,” Rubio said during a question-and-answer session.</p><span id="midArticle_2"/><p>Rubio, a frequent target of Trump's attacks, also said he "didn't get into this race to beat up on other candidates." But, he added, "If someone keeps punching people in the face, eventually someone's going to have to stand up and punch him back."</p><span id="midArticle_3"/>
+        
+        <span class="third-article-divide"/><p>At a rally in Rubio's home state on Saturday, Trump criticized his opponent, using a favorite nickname - "little Marco."</p><span id="midArticle_4"/><p>"He's a nasty guy, said nasty things, and you know? We hit him hard. Little nasty guy," Trump told the cheering crowd.</p><span id="midArticle_5"/><p>The anti-Trump forces have a short window to stop the caustic businessman, who ahead of Saturday had accumulated 319 of the 1,237 delegates needed to win the nomination at July's Republican national convention, outpacing Cruz, who had 226 delegates.</p><span id="midArticle_6"/><p>On March 15, the delegate-rich states of Florida, Illinois, Ohio, Missouri and North Carolina will vote. Both Florida and Ohio use the winner-take-all method to allocate Republican delegates, making the stakes in those two states particularly high.</p><span id="midArticle_7"/><p>If Trump takes Florida and Ohio he would be nearly impossible to stop. There are a total of 358 delegates at stake in the five states voting March 15, including 99 in Florida and 66 in Ohio. </p><span id="midArticle_8"/><p>On the Democratic side, Clinton has opened up a big delegate lead and Sanders might have a tough time making up the difference. All states in the Democratic race award their delegates proportionally, meaning Clinton can keep piling up delegates even in states she loses.</p><span id="midArticle_9"/><p>The three states holding Democratic contests on Saturday have a total of 109 delegates at stake.</p><span id="midArticle_10"/><span id="midArticle_11"/><p> (Additional reporting by Emily Flitter, Jonathan Allen and Alana Wise; Editing by Richard Valdmanis and Leslie Adler)</p><span id="midArticle_12"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/s95QrNHjP5E/story01.htm">Source </a>

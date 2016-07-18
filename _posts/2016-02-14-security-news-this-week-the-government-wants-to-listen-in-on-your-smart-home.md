@@ -1,0 +1,51 @@
+---
+ID: 992
+post_title: 'Security News This Week: The Government Wants to Listen In on Your Smart Home'
+author: Staff Writer
+post_date: 2016-02-14 22:46:09
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/security-news-this-week-the-government-wants-to-listen-in-on-your-smart-home/
+published: true
+original_cats:
+  - Security
+original_title:
+  - 'Security News This Week: The Government Wants to Listen In on Your Smart Home'
+original_link:
+  - >
+    http://feeds.wired.com/c/35185/f/661370/s/4d93530d/sc/21/l/0L0Swired0N0C20A160C0A20Csecurity0Enews0Ethis0Eweek0Ethe0Egovernment0Ewants0Eto0Elisten0Ein0Eon0Eyour0Esmart0Ehome0C/story01.htm
+canonical_url:
+  - >
+    http://feeds.wired.com/c/35185/f/661370/s/4d93530d/sc/21/l/0L0Swired0N0C20A160C0A20Csecurity0Enews0Ethis0Eweek0Ethe0Egovernment0Ewants0Eto0Elisten0Ein0Eon0Eyour0Esmart0Ehome0C/story01.htm
+---
+ [ad_1]
+<br><div id=""><p>This week was jam-packed with security news. A new worldwide survey of crypto products shows that <a href="http://www.wired.com/2016/02/encryption-is-worldwide-yet-another-reason-why-a-us-ban-makes-no-sense/">encryption is international</a>, so a ban makes no sense. Researchers <a href="http://www.wired.com/2016/02/how-to-hack-the-power-grid-through-home-air-conditioners/">found a way to hack power grids</a> by remotely manipulating air conditioners. Obama <a href="http://www.wired.com/2016/02/obamas-new-cybersecurity-plan-sticks-to-the-most-basic-basics/">covered the basics in a new cybersecurity plan</a>, perhaps in an attempt <a href="http://www.wired.com/2016/02/obamas-cybersecurity-plan-is-meant-to-secure-his-legacy/">to secure his legacy</a>. <a href="http://www.wired.com/2016/02/hack-brief-fbi-and-dhs-are-targets-in-employee-info-hack/">FBI and DHS employees got hacked</a>. Google <a href="http://www.wired.com/2016/02/google-flash-adwords-doubleclick/">announced the phasing out of Flash</a> in banner ads. <a href="http://www.wired.com/2016/02/facebooks-free-basics-app-is-now-banned-in-india/">India banned Facebook’s Basics app</a> to support net neutrality. We <a href="http://www.wired.com/2016/02/its-been-20-years-since-this-man-declared-cyberspace-independence/">celebrated the 20-year anniversary</a> of John Perry Barlow’s “Declaration of Independence of Cyberspace” manifesto, and looked at <a href="http://www.wired.com/2016/02/donate-your-old-usb-drives-to-fight-north-korean-brainwashing/">how you can donate your old USB drive</a> to fight North Korean brainwashing. A new <a href="http://www.wired.com/2016/02/take-a-trip-to-a-time-when-viruses-still-called-you-names/">Malware Museum</a> was born. And <a href="http://www.wired.com/2016/02/encrypt-act-2016/">someone finally wrote a good encryption bill</a> to preempt states from trying to implement their own anti-crypto policies at a state level.</p>
+<p>But that’s not all. Each Saturday we round up the news stories that we didn’t break or cover in depth at WIRED, but which deserve your attention nonetheless. As always, click on the headlines to read the full story in each link posted. And stay safe out there!</p>
+<p><a href="http://www.theguardian.com/technology/2016/feb/09/internet-of-things-smart-home-devices-government-surveillance-james-clapper"><br/><h3>US Intelligence Chief James Clapper: The Government Could Use the Internet of Things to Spy on You</h3>
+</a><br/>US Director of National Intelligence James Clapper said in a congressional testimony that intelligence services could use the increasingly interconnected smart household devices for surveillance. “In the future, intelligence services might use the [internet of things] for identification, surveillance, monitoring, location tracking, and targeting for recruitment, or to gain access to networks or user credentials,” he said.</p>
+<p><a href="http://www.theatlantic.com/technology/archive/2016/02/the-research-pirates-of-the-dark-web/461829/"><br/><h3>After Losing Copyright Lawsuit, Site Offering Access to Academic Papers For Free Emerges on the Deep Web</h3>
+</a><br/>Alexandra Elbakyan, a university student in Kazakhstan, developed the Sci-Hub website to allow users to download paywalled academic papers for free by tapping into university networks to access the subscription-only papers. Unfortunately, the site was shut down after a copyright lawsuit on behalf of Elsevier, and its domain was shut down. But Sci-Hub popped back up again<a href="http://sci-hub.io/">under a different domain</a>, and is also available on the deep web. (Just download the Tor browser and head over to <a href="http://scihub22266oqcxt.onion/">here</a> for that.)</p>
+<p><a href="http://www.theguardian.com/us-news/2016/feb/07/leaked-police-files-contain-guarantees-disciplinary-records-will-be-kept-secret"><br/><h3>More Than A Third of Leaked Police Contracts Contain Guarantees To Keep Disciplinary Records Secret, Destroy Civilian Complaint Records</h3>
+</a><br/>How’s this for accountability? Leaked police contracts contain guarantees blocking public access to disciplinary records, formal complaints against officers, and internal investigation documents. Some contracts even had clauses allowing for complaints and disciplinary records to be destroyed after a negotiated amount of time. The documents became publicly accessible when hackers breached the Fraternal Order of Police website and posted its files online.</p>
+<p><a href="http://arstechnica.com/tech-policy/2016/02/proposed-utah-law-would-make-doxing-a-six-month-jail-crime/"><br/><h3>Proposed Utah Law Punishes Doxing With Up to Six Months in Jail—But its Language is Overly Broad</h3>
+</a><br/>Utah State Representative David Lifferth has written a bill that would make doxing a crime punishable by up to six months in jail. However, the bill’s language is overly broad, to the point where it could make holding public officials accountable for their actions a crime. “The bill as drafted is clearly unconstitutional,” Electronic Frontier Foundation staff attorney Nate Cardozo told Ars Technica, pointing out that publishing a person’s name “with the intent to annoy” could be a crime under the proposal draft. Lifferth told Ars Technica that he is revising the bill to address these concerns.</p>
+<p><a href="https://motherboard.vice.com/read/hacked-toy-company-vtech-tos-now-says-its-not-liable-for-hacks"><br/><h3>Hacked Toy Company Updates Terms of Service to Shunt Responsibility for Future Hacks</h3>
+</a><br/>VTech, the toy company that reopened last week after a data breach exposed the personal data of more than 6 million children, is now back online. The bad news is that its terms and conditions include a new statement requiring users to acknowledge that any information they send or receive while using the site could be insecure or at risk of unauthorized interception. Although the clause may not be valid legally, it could be an attempt by the site to restrict liability for future hacks.</p>
+<p><a href="http://arstechnica.com/security/2016/02/huge-number-of-mac-apps-vulnerable-to-hijacking-and-a-fix-is-elusive/"><br/><h3>Many Mac Apps Vulnerable to Hijacking</h3>
+</a><br/>A large number of apps using a third party updater over HTTP are vulnerable to man-in-the-middle attacks, due to a bug in the third-party software framework Sparkle, which apps including Camtasia, uTorrent, and others use to receive updates.</p>
+<p>Although Sparkle has provided a fix for two vulnerabilities found, developers need to update the Sparkle framework inside their apps, which can be a difficult process. In addition, it isn’t easy for users to know which of their apps are vulnerable.</p>
+<p><a href="http://www.latimes.com/nation/la-na-san-bernardino-phone-locked-20160209-story.html"><br/><h3>FBI Can’t Unlock Encrypted Phone Used by San Bernardino Killers</h3>
+</a><br/>FBI Director James Comey told the Senate Intelligence Committee that FBI technicians have been unable to unlock encrypted data on the phone belonging to either Syed Rizwan Farook or Tashfeen Malik, the terrorists who killed 14 people in San Bernardino in December. Comey didn’t specify the cellphone model, nor did he indicate whether it belonged to Farook or Malik.</p>
+<p><a href="http://www.dailydot.com/politics/cryptobin-fbi-dhs-breach-offline/"><br/><h3>Site Hosting Hacked FBI Database Went Dark</h3>
+</a><br/>Cryptobin, an anonymous site that hosts text files submitted by users, was taken offline this week two days after a hacker used it to publish the personal details of 22,000 FBI employees. The site is still available by its IP address, however, and the data has since been mirrored by at least two websites.</p>
+<p><a href="http://gmailblog.blogspot.com/2016/02/making-email-safer-for-you-posted-by.html"><br/><h3>Google Improves Gmail Security</h3>
+</a><br/>On Safer Internet Day this past Tuesday, Google announced that Gmail messages sent to or from a service that doesn’t support TLS encryption will be flagged with a broken lock icon in the message. Emails that can’t be authenticated will also be flagged with a question mark in place of the sender’s avatar (or logo, or photo). This update will allow users to take extra care before responding to these messages–or clicking on links.</p>
+<p><a href="http://www.nyclu.org/news/nypd-has-used-stingrays-more-1000-times-2008"><br/><h3>NYPD Has Used Stingrays More Than 1,000 Times Since 2008</h3>
+</a><br/>In response to a public records request submitted by the NYCLU, the NYPD has disclosed that it not only owns and operates Stingrays, but that it’s done so more than a thousand times between May 2008 and May 2015. Further, it does so without any sort of written policy, and primarily through the use of pen register, a lower standard than an actual warrant, which would require probable cause. Last year, the Department of Justice began using warrants rather than pen registers for using the cell site simulators barring exceptional/emergency circumstances.</p>
+
+			<a class="visually-hidden skip-to-text-link focusable bg-white" href="#start-of-content">Go Back to Top. Skip To: Start of Article.</a>
+
+					</div>
+<br>[ad_2]
+<br><a href="http://feeds.wired.com/c/35185/f/661370/s/4d93530d/sc/21/l/0L0Swired0N0C20A160C0A20Csecurity0Enews0Ethis0Eweek0Ethe0Egovernment0Ewants0Eto0Elisten0Ein0Eon0Eyour0Esmart0Ehome0C/story01.htm">Source </a>

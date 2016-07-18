@@ -1,0 +1,38 @@
+---
+ID: 1938
+post_title: >
+  Congress urges resignations of Michigan
+  governor, EPA chief over Flint
+author: Staff Writer
+post_date: 2016-03-18 00:02:07
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/congress-urges-resignations-of-michigan-governor-epa-chief-over-flint/
+published: true
+original_cats:
+  - domesticNews
+original_title:
+  - >
+    Congress urges resignations of Michigan
+    governor, EPA chief over Flint
+original_link:
+  - >
+    http://feeds.reuters.com/~r/Reuters/domesticNews/~3/BUxNj1k3_h8/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/Reuters/domesticNews/~3/BUxNj1k3_h8/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="4"><p><span class="articleLocation">WASHINGTON</span> U.S. lawmakers on Thursday called for the resignations of Michigan Governor Rick Snyder and Environmental Protection Agency Administrator Gina McCarthy on the grounds that they failed to quickly intervene in the city of Flint's contaminated drinking water crisis.</p></span><span id="midArticle_1"/><p>Snyder, a Republican, and McCarthy, a presidential appointee, sat side by side before the House Oversight Committee as lawmakers from both parties grilled them on their response to the crisis, which has turned into a full-blown health emergency. It also has led to several lawsuits in state and federal courts, and federal and state investigations.</p><span id="midArticle_2"/><p>Republicans on the committee pinned much of the blame on the EPA, which many party members want to eliminate because they feel it is too powerful. Democrats pointed fingers at Snyder and Michigan officials, suggesting that cost cutting came at the expense of public health. </p><span id="midArticle_3"/><p>Several Republicans called on McCarthy to resign, but the White House said it had full confidence in her.</p><span id="midArticle_4"/><p>The committee's top Democrat, Maryland's Elijah Cummings, and other Democrats said Snyder's administration was to blame for its mishandling of the crisis and called on the governor to resign. </p><span id="midArticle_5"/><p>Members of the committee chastised McCarthy and Snyder.    "You don’t get it, You still don’t get it. You just don’t get it," Committee chair Jason Chaffetz, a Utah Republican, told McCarthy as he criticized her failure to accept blame for the crisis.</p><span id="midArticle_6"/><p>Snyder did not escape unscathed. "There is no doubt in my mind that if a corporate CEO did what Governor Snyder’s administration has done, he would be hauled up on criminal charges," Cummings said in his opening remarks. "The board of directors would throw him out. And the shareholders would revolt." </p><span id="midArticle_7"/><p>Snyder said the state has started the process of replacing the corroded pipes and has set aside tens of millions of dollars to help the recovery of Flint citizens injured or harmed by lead poisoning.</p><span id="midArticle_8"/><p>Snyder has said he has no plans to resign, despite efforts in his state and nationally to recall him. U.S. President Barack Obama has said he supports McCarthy and the EPA despite calls for her resignation. </p><span id="midArticle_9"/><p>Chaffetz said he would continue to investigate the cause of the Flint crisis and the response to it but that no other hearings are scheduled at present.</p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><span id="midArticle_11"/><p>FAILURE ADMITTED</p><span id="midArticle_12"/><p>    Under the direction of a state-appointed emergency manager, Flint, a mostly African-American city of 100,000 northwest of Detroit, switched water supplies to the Flint River from Detroit's water system in 2014, to save money.</p><span id="midArticle_13"/><p>The corrosive river water leached lead from the city's water pipes. Lead is toxic and can damage the nervous system. Blood samples taken from children in Flint contained high levels of lead.</p><span id="midArticle_14"/><p>The city switched back to the Detroit system last October.</p><span id="midArticle_15"/>
+        
+        <span class="second-article-divide"/><p>Over 200 residents from Flint traveled by bus to Washington to attend Thursday's hearing, including 10-year-old Jaylon Terry, who fidgeted in his chair in the committee room.</p><span id="midArticle_0"/><p>    "I've been getting constant calls every day from his teachers," said his mother, Lewenna Terry, who said the lead in his system has affected Jaylon's attention span and grades. "The teachers have noticed it's not just my son but other kids. The whole city has been poisoned."</p><span id="midArticle_1"/><p>Virginia Williams, a Michigan resident who wore a T-shirt with an image of corroded pipes, said both the state and federal governments should be held accountable and that the blame game should stop now. "Replacing the pipes should be their main priority now," she told Reuters.</p><span id="midArticle_2"/><p>Snyder again apologized for the state’s poor response to the crisis, but said the blame can be shared at all levels of government.</p><span id="midArticle_3"/><p>    "Let me be blunt," he said in his testimony. "We all failed the families of Flint." </p><span id="midArticle_4"/>
+        
+        <span class="third-article-divide"/><p>McCarthy also said the EPA was part of a wider system failure in response to the crisis, but said the agency could have caught the problem faster if the state had shared information and cooperated more. She accused the state's Department of Environmental Quality of "slow walking" its response, which prevented the agency from being able to "come to the rescue."</p><span id="midArticle_5"/><p>    "We were strong-armed. We were misled. We were kept at arm's length," she said, referring to state officials.</p><span id="midArticle_6"/><p>    However, Snyder said federal bureaucrats could have responded sooner if they had used common sense.</p><span id="midArticle_7"/><p>Representative Matt Cartwright, a Pennsylvania Democrat, accused Snyder of apologizing too late and called on him to resign.</p><span id="midArticle_8"/><p>“Plausible deniability only works when it's plausible and I'm not buying that you didn't know about any of this until October 2015," he said. "You were not in a medically induced coma for a year and I've had about enough of your false contrition and your phony apologies.”      </p><span id="midArticle_9"/><p>In the Senate, lawmakers have so far failed to reach an agreement on a $220 million funding bill to help Flint and other cities replace and repair lead pipes. Senator Debbie Stabenow, a Michigan Democrat, said she was disappointed this was not resolved before a two-week congressional recess that starts on Friday.</p><span id="midArticle_10"/><p>"The children of Flint are waiting," she said. "We need a vote. We have a bipartisan bill," she said on the Senate floor.</p><span id="midArticle_11"/><p>On Thursday, ratings agency Standard &amp; Poor's lowered the outlook on Michigan's credit rating to stable from positive, citing burgeoning costs associated with Flint's water crisis and the cash-strapped Detroit Public Schools.</p><span id="midArticle_12"/><span id="midArticle_13"/><p> (Additional reporting by Ben Klayman in Detroit, David Shepardson and Doina Chiacu in Washington and Karen Pierog in Chicago; Editing by Matthew Lewis)</p><span id="midArticle_14"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/Reuters/domesticNews/~3/BUxNj1k3_h8/story01.htm">Source </a>

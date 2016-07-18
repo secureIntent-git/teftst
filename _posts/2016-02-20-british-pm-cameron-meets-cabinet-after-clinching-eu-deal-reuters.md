@@ -1,0 +1,32 @@
+---
+ID: 1158
+post_title: 'British PM Cameron meets cabinet after clinching EU deal &#8211; Reuters'
+author: Staff Writer
+post_date: 2016-02-20 11:39:10
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/british-pm-cameron-meets-cabinet-after-clinching-eu-deal-reuters/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'British PM Cameron meets cabinet after clinching EU deal - Reuters'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNEt2Fd9WSbb86DMqqh2PNMMsvs69Q&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779046373115&#038;ei=XlDIVrDYB9DChAHspIy4CA&#038;url=http://www.reuters.com/article/us-britain-eu-idUSKCN0VT09I'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNEt2Fd9WSbb86DMqqh2PNMMsvs69Q&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779046373115&#038;ei=XlDIVrDYB9DChAHspIy4CA&#038;url=http://www.reuters.com/article/us-britain-eu-idUSKCN0VT09I'
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="4"><p><span class="articleLocation">LONDON</span> Prime Minister David Cameron met senior ministers on Saturday to win endorsement of an EU deal he hopes will persuade voters to ratify Britain's membership of the world's largest trading bloc at a referendum likely to be held in June.</p></span><span id="midArticle_1"/><p>Cameron hailed a deal clinched with other European Union leaders at a summit in Brussels as granting Britain special status, and said he would campaign hard now to convince voters to stay in the bloc that Britain joined in 1973.</p><span id="midArticle_2"/><p>"I will be campaigning with all my heart and soul to persuade the British people to remain in the reformed European Union," Cameron said after securing the deal that was approved by all the other 27 EU leaders.</p><span id="midArticle_3"/><p>"We are stronger, safer and better off inside this reformed European Union," Cameron said. He updated senior ministers at a  meeting of the cabinet which began at 1000 GMT (0500 ET) and said he would announce the referendum date soon afterwards.</p><span id="midArticle_4"/><p>While one of Cameron's closest political allies, Justice Secretary Michael Gove, will campaign to leave the EU, finance minister George Osborne and interior minister Theresa May backed Cameron.</p><span id="midArticle_5"/><p>London Mayor Boris Johnson, who has charmed voters with a buffoonish persona that masks fierce ambition to succeed Cameron, has yet to make his position clear.</p><span id="midArticle_6"/><p>The legally-binding agreement reached in Brussels granted Britain an explicit exemption from the founding goal of "ever closer union", offered concessions on the welfare rights of migrant workers and safeguards for the City of London.</p><span id="midArticle_7"/><p>Though British voters are split over membership, betting odds have moved further in favor of Britain remaining in the EU after Cameron's deal, according to bookmaker Ladbrokes.</p><span id="midArticle_8"/>
+        
+        <span class="first-article-divide"/><p>A British exit from the EU would rock the Union - already shaken by differences over migration and the future of the euro zone - by ripping away its second-largest economy, one of its top two military powers and by far its richest financial center.</p><span id="midArticle_9"/><p>Pro-Europeans warn an exit could also trigger the break-up of the United Kingdom by prompting another Scottish independence vote. The $2.9 trillion British economy would face years of uncertain negotiations over the terms of a divorce.</p><span id="midArticle_10"/><p>Opponents of EU membership say Britain would prosper outside what they say is a doomed Germany-dominated bloc that punches way below its weight on the world stage.</p><span id="midArticle_11"/><span id="midArticle_12"/>
+        
+        <span class="second-article-divide"/><p>CONSERVATIVES DIVIDED</p><span id="midArticle_13"/><p>The issue of Europe has divided the Conservatives for three decades and played a major part in the downfall of Cameron's two Conservative predecessors, Margaret Thatcher and John Major.</p><span id="midArticle_14"/><p>Opinion polls show that a significant number of Britons have yet to make up their mind, though perceptions that the EU has failed to deal with the migrant crisis may be turning some towards a 'Brexit'.</p><span id="midArticle_15"/><p>Bookmaker Ladbrokes said however that betting odds indicated there was now a 69 percent chance of Britain remaining in the EU with a 31 percent chance of Britain leaving.</p><span id="midArticle_0"/>
+        
+        <span class="third-article-divide"/><p>Cameron is due to make a statement to parliament on Monday, triggering the start of the campaign for the referendum.</p><span id="midArticle_1"/><p>The cabinet meeting, the first to be held on a Saturday since the 1982 Falklands War, will formalize government support for staying in the EU and Cameron has said ministers will then be free to campaign on whichever side they want.</p><span id="midArticle_2"/><p>Cameron acknowledged that Gove would campaign to leave, saying he was disappointed but not surprised. He suggested other Conservatives may also join the "out" camp.</p><span id="midArticle_3"/><p>Media tycoon Rupert Murdoch, an influential figure in Britain through his ownership of a clutch of U.K. newspapers, congratulated Gove.</p><span id="midArticle_4"/><p>"Congratulations Michael Gove," Murdoch said on Twitter.  "Friends always knew his principles would overcome his personal friendships."</p><span id="midArticle_5"/><p>The message from the 84-year-old executive chairman of News Corp and 21st Century Fox Inc raises the prospect of some of the media tycoon's British newspapers possibly campaigning for an EU exit.</p><span id="midArticle_6"/><span id="midArticle_7"/><p> (Additional reporting by Kate Holton; Writing by Guy Faulconbridge; editing by Richard Balmforth)</p><span id="midArticle_8"/></div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNEt2Fd9WSbb86DMqqh2PNMMsvs69Q&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779046373115&#038;ei=XlDIVrDYB9DChAHspIy4CA&#038;url=http://www.reuters.com/article/us-britain-eu-idUSKCN0VT09I">Source </a>

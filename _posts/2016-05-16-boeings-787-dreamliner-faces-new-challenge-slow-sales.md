@@ -1,0 +1,34 @@
+---
+ID: 3673
+post_title: 'Boeing&#039;s 787 Dreamliner faces new challenge: slow sales'
+author: Staff Writer
+post_date: 2016-05-16 05:29:10
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/boeings-787-dreamliner-faces-new-challenge-slow-sales/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - 'Boeing&#039;s 787 Dreamliner faces new challenge: slow sales'
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/UpM1CYfuoLI/us-boeing-787-sales-analysis-idUSKCN0Y70E8
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/UpM1CYfuoLI/us-boeing-787-sales-analysis-idUSKCN0Y70E8
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">SEATTLE</span> Boeing Co's (<span id="symbol_BA.N_0">BA.N</span>) high-tech 787 Dreamliner has had its share of trouble, from early production delays to batteries that smoked and burned, grounding the worldwide fleet for months in 2013. </p></span><span id="midArticle_1"/><p>Now the company's flagship plane is facing a new challenge: slowing sales. Boeing needs to sell dozens of 787s to help recover nearly $30 billion it has spent on production and not yet accounted for in its earnings. But the industry is in a sales slump. Sales of Boeing and Airbus wide body jets have fallen 51 percent since 2013, and some analysts and investors predict that without more 787 sales in the near term, Boeing will have to take a sizable charge to write off some of the 787's deferred costs. (Graphic: <a href="http://tmsnrt.rs/24RUBiz">tmsnrt.rs/24RUBiz</a>)</p><span id="midArticle_2"/><p>The 787 remains popular. Its lightweight composite airframe and new engines cut airline fuel costs as much as 20 percent compared to a conventional, aluminum plane. It can fly longer routes than previous jets its size, and offers passengers large windows, less noise and a more comfortable cabin environment.</p><span id="midArticle_3"/><p>Boeing has sold 1,154 so far, making it the fastest-selling wide body plane when it came to market. However, the tally falls short of the 1,300 planes Boeing is using as the basis of deferring the charges in its accounting. </p><span id="midArticle_4"/><p>Many airlines stocked up on 787s before the 2008-2009 financial crisis and do not need to order more now. Airbus's cheaper A330 has also chipped away at 787 sales and low fuel prices have allowed airlines to keep flying older, less efficient planes.</p><span id="midArticle_5"/><p>"Airlines are coming back to us and saying they would like to extend their leases for two or three years" on older planes, said Aengus Kelly, chief executive of AerCap Holdings (<span id="symbol_AER.N_1">AER.N</span>), which has the world's largest leased wide body fleet. "That's a direct result of low oil," he told Reuters.</p><span id="midArticle_6"/><p>Boeing has not commented on a report earlier this year that the Securities and Exchange Commission is looking into its accounting for 787 costs, but says it stands behind its numbers. </p><span id="midArticle_7"/><p>"Our accounting is compliant with GAAP," Chief Financial Officer Greg Smith said last month, referring to generally accepted accounting principles.</p><span id="midArticle_8"/>
+        
+        <span class="first-article-divide"/><span id="midArticle_9"/><p>WARY INVESTORS </p><span id="midArticle_10"/><p>The 787 conundrum has made some investors wary of Boeing stock, which has fallen more than 8 percent this year while the aerospace and defense index climbed more than 5 percent. Short sales of Boeing are at a record high. The stock closed down 1.7 percent at $132.09 on Friday.</p><span id="midArticle_11"/><p>Boeing needs to book orders for about 120 this year to hit its target of selling roughly as many as it builds. So far it has sold a net total of 12, including a recent order from China Eastern Airlines (<span id="symbol_600115.SS_2">600115.SS</span>).</p><span id="midArticle_12"/>
+        
+        <span class="second-article-divide"/><p>"Would we ever order the 787 again? Sure," said an executive with a leasing company that has 787s in its portfolio. "Will we order it this year? Not a chance." There are simply too many wide body jets for the demand right now, he said.</p><span id="midArticle_13"/><p>AerCap had more than 80 Dreamliners to lease and has placed all but a handful. It would buy more "if the price is right," Kelly said. "But if it isn't right, I wouldn't bother."</p><span id="midArticle_14"/><p>Boeing spokesman Paul Bergman said that the company had "a healthy sales pipeline this year." It also expects to "recover 787 deferred costs in the current accounting quantity of 1,300 planes," Bergman said.</p><span id="midArticle_15"/><p>Another big order still could arrive from China or elsewhere. Kelly met with China's four largest airlines recently and said low oil prices had not dented their long-term interest in the 787. Chinese airlines have so far ordered 56 of the jets.</p><span id="midArticle_0"/>
+        
+        <span class="third-article-divide"/><p>While its sales force tries to defend the 787's prices in the market, Boeing is working to make the aircraft less expensive to build. It has worked on taking out expensive materials such as titanium and is cutting its overall airplane division workforce by about 10 percent this year.</p><span id="midArticle_1"/><p>Those moves would help improve the return on each 787, which reached break even late last year, Boeing said. It also gives scope to discount the jet to win sales.</p><span id="midArticle_2"/><p>Boeing says it is not cutting prices significantly to sell more aircraft, since that would undercut the company's goal of lifting profit margins to "mid-teens" by the end of the decade from about 10 percent this year.</p><span id="midArticle_3"/><p>"We are not going to chase market share for market share's sake," Chief Executive Dennis Muilenburg told Boeing's annual analyst conference on Wednesday.</p><span id="midArticle_4"/><p>But industry experts said the company is being more aggressive in sales. Ken Raff, executive director at the Seabury Group consulting firm said that if an airline wanted to buy 787s, "this would not be a bad time to try and do a deal."</p><span id="midArticle_5"/><span id="midArticle_6"/><p> (Additional reporting by Tim Hepher and Siva Govindasamy; Editing by Tomasz Janowski)</p><span id="midArticle_7"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/UpM1CYfuoLI/us-boeing-787-sales-analysis-idUSKCN0Y70E8">Source </a>

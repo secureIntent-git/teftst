@@ -1,0 +1,50 @@
+---
+ID: 1130
+post_title: 'Absurd Creature of the Week: The Huge, Bee-Decapitating Hornet That Can’t Survive Group Hugs'
+author: Staff Writer
+post_date: 2016-02-19 14:12:10
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/absurd-creature-of-the-week-the-huge-bee-decapitating-hornet-that-cant-survive-group-hugs/
+published: true
+original_cats:
+  - >
+    Asian giant hornet,Biology,Absurd
+    Creature of the Week,Vespa
+    mandarinia,Science
+original_title:
+  - 'Absurd Creature of the Week: The Huge, Bee-Decapitating Hornet That Can’t Survive Group Hugs'
+original_link:
+  - >
+    http://feeds.wired.com/c/35185/f/661370/s/4db5315b/sc/13/l/0L0Swired0N0C20A160C0A20Cabsurd0Ecreature0Eof0Ethe0Eweek0Ethe0Ehuge0Ebee0Edecapitating0Ethat0Ehornet0Ecant0Esurvive0Egroup0Ehugs0C/story01.htm
+canonical_url:
+  - >
+    http://feeds.wired.com/c/35185/f/661370/s/4db5315b/sc/13/l/0L0Swired0N0C20A160C0A20Cabsurd0Ecreature0Eof0Ethe0Eweek0Ethe0Ehuge0Ebee0Edecapitating0Ethat0Ehornet0Ecant0Esurvive0Egroup0Ehugs0C/story01.htm
+---
+ [ad_1]
+<br><div id="start-of-content"><p>Thirty Asian giant hornets, following a scent laid by their scout, descend on a hive of honey bees and get straight to the decapitations. The hornets snag the tiny bees and pop their heads right off using their enormous mandibles. Here a head, there a head. Desperately, the bees try to sting the hornets, yet they can’t puncture the giants’ armor.</p>
+<p>Here a head, there a head—<em>pop pop pop</em>. One by one the bees fall, a single hornet taking down as many as 20 victims a minute. At that rate, the tiny band of marauders can wipe out a colony of 30,000 bees in a few hours, a glut of beheadings that makes the French Revolution look like <a href="https://www.youtube.com/watch?v=3l-mRWtBGsA" target="_blank">Dance Dance Revolution</a>.</p>
+
+<p>The remarkable Asian giant hornet, <em>Vespa mandarinia</em>, grows to almost two inches in length and can sting through a rain jacket. And unlike a honey bee, it can sting repeatedly, its venom breaking down flesh and overloading kidneys. The hornet is formidable, to say the least, but the native honey bees it menaces have an ingenious defense: They form a ball around the scout hornet and vibrate to cook the invader to death, keeping the colony’s coordinates out of the hands of the scout’s soldiers back at base.</p>
+<p>The Asian giant hornet is in many ways a modern winged <em>T. rex</em>. It’s an apex predator, capable of taking down any other insect and incapacitating any mammal dumb or unfortunate enough to disturb it. Should you come across one, don’t move, as the good doctor Grant <a href="https://www.youtube.com/watch?v=NOs116aoyo0" target="_blank">always said</a> (OK fine, maybe he was <a href="http://gizmodo.com/jurassic-park-lied-to-you-t-rex-had-great-eyesight-rea-1577352103" target="_blank">wrong about that</a>).</p>
+<p>Just ask actual doctor <a href="http://www.salford.ac.uk/environment-life-sciences/els-academics/steven-martin" target="_blank">Stephen Martin</a>, an entomologist at the University of Salford. Once while observing a nest, he and a colleague—sans suits—displeased the hornets and got themselves attacked. “You close your eyes, you close your mouth, you grit your teeth, because it’s quite frightening,” he says. “The other guy just couldn’t cope and he ran away, and he got stung several times. I was fine.” If the hornets don’t take you to be a threat, they’ll leave you alone. No sense in wasting venom and risk getting squashed, after all.</p>
+<p>Get stung, though, and you’ll want to go ahead and start considering a trip to the hospital. The hornet’s venom breaks down flesh cells, leaving you with a divot, while neurotoxins glitch nerves, resulting in an intense, searing pain that <a href="http://www.vespa-crabro.de/vespa-mandarinia.htm" target="_blank">one victim</a> described as having a hot nail hammered into you. (Had he actually ever had a hot nail hammered into him? Seems like a really specific comparison.) Because of its size, the hornet can inject a whole lot of venom—you can end up with a teaspoon of the stuff in your system if a swarm jabs you 30 or 40 times. Catch enough stings and your kidneys will shut down, or even your heart if you have a weak ticker. If you happen to be allergic, it’ll be anaphylactic shock instead.</p>
+<p>What makes the Asian giant hornet particularly problematic is its size. Because this thing is so huge, so is its nest, which can weigh more than 20 pounds. That would snap a tree branch, so instead the hornet holes up in, well, holes in the ground—where unsuspecting humans can stroll too close. If you do, don’t bother running. These things can fly at up to 15 miles per hour, and even faster if they’ve got a good tailwind.</p>
+<figure attachment_1976995="" class="wp-caption landscape alignnone fader relative" data-js="fader"><a href="http://www.wired.com/wp-content/uploads/2016/02/Hornet1.jpg"><img class="size-default-top-art wp-image-1976995" src="http://www.whenitson.com/wp-content/uploads/2016/02/Absurd-Creature-of-the-Week-The-Huge-Bee-Decapitating-Hornet-That-Cant-Survive-Group-Hugs.jpg" alt="Hornet1.jpg" width="582" height="437"/></a><figcaption class="wp-caption-text link-underline">This is a lot like a stork delivering a baby except it’s the exact opposite. <span class="credit link-underline-sm"><span aria-hidden="true" class="ui ui ui-photo inline-block ui-credit relative opacity-5 marg-r-micro"/> Satoshi Kuribayashi/Minden Pictures</span></figcaption></figure><p>While an Asian giant hornet can ruin your day, it can ruin a honey bee’s life. But the native bee it menaces has evolved a rather unconventional way to fight back: group hugs.</p>
+<p>Should a hornet scout find itself a beehive, the occupants won’t rush out to intercept it. Instead, the bees will let the scout in to mark the location with pheromones for its comrades to follow. <a href="https://www.youtube.com/watch?v=4F4qzPbcFiA" target="_blank">It’s a trap</a>: On cue the workers swarm, forming a frantic, living ball around the intruder. The bees vibrate, revving up their body temperatures to begin cooking the hornet to death. All the while, carbon dioxide builds up inside the ball.</p>
+<p>The bees also exploit a unique bit of insect anatomy: The hornet doesn’t have a heart—literally and I suppose kind of figuratively when you think about it—and instead pumps blood with contractions of its body. “The bees just crowd it and crowd it and crowd it like a boa constrictor, so they prevent the hornet from being able to pump blood around its body,” Martin says. This further raises the hornet’s body temperature.</p>
+<p>“So it’s this combination of heating them, building up the carbon dioxide in the middle of it, and then restricting their blood flow by effectively squeezing them,” Martin adds. The hornet scout eventually dies, taking with it the coordinates of the hive. It may have picked off a bee here and there in the struggle, and some of the workers themselves may have been crushed or asphyxiated, but the hive is saved.</p>
+<p>It’s a remarkable countermeasure that has evolved over millennia. That’s time the introduced European honey bee ain’t got. It hasn’t stumbled upon the swarm countermeasure, so the hornet scout inevitably marks a European bee nest and returns with its friends. The marauders slaughter every adult, yet don’t bother eating their relatively calorie-poor bodies. Instead, the hornets take the bee larvae back to their nest to feed to their own larvae, shuttling back and forth. The hornets will even post guards at the hive entrance to protect their booty overnight if they haven’t finished looting in one day.</p>
+<p>Beekeepers tending the European variety in China and Japan don’t so much appreciate all this. Some attach <a href="https://www.youtube.com/watch?v=uTFeJa3o47E" target="_blank">special guards</a> to their hives to keep the hornets out, while others take a rather more active approach, hiring people to volley the things with tennis or badminton rackets. (At least one overachieving beekeeper in Japan employs the enviable <a href="https://www.youtube.com/watch?v=xBqooP22S7s" target="_blank">trap-<em>plus</em>-badminton-racket technique</a>.) In wealthier Japan, beekeepers actually pay some brave soul to remove nearby hornet nests—apparently they’ve got solid health care over there or something.</p>
+<p>The hornet’s apparent attitude problem isn’t exactly great for PR. “With hornets, people ask us often what use are they, they just sting us, they hurt us, we should just get rid of them all,” Martin says. “We’ve got the bees, they make honey, they work really hard, they’re really good.”</p>
+<p>In reality, though, the Asian giant hornet serves a pivotal function in the ecosystem. When it isn’t terrorizing honey bees, it attacks things like caterpillars that can devastate crops. It’s nature’s very own high-powered pest controller.</p>
+<p>And yes, that means if you throw rocks at their nests, you are indeed a pest and will be controlled. So don’t do that. Unless you’ve got solid health care or something.</p>
+<p><em>Browse the full Absurd Creature of the Week archive <a href="http://www.wired.com/tag/absurd-creature-of-the-week/" target="_blank">here</a>. Know of an animal you want me to write about? Are you a scientist studying a bizarre creature? Email matthew_simon@wired.com or ping me on Twitter at <a href="https://twitter.com/mrMattSimon" target="_blank">@mrMattSimon</a>.</em></p>
+
+			<a class="visually-hidden skip-to-text-link focusable bg-white" href="#start-of-content">Go Back to Top. Skip To: Start of Article.</a>
+
+			
+</div>
+<br>[ad_2]
+<br><a href="http://feeds.wired.com/c/35185/f/661370/s/4db5315b/sc/13/l/0L0Swired0N0C20A160C0A20Cabsurd0Ecreature0Eof0Ethe0Eweek0Ethe0Ehuge0Ebee0Edecapitating0Ethat0Ehornet0Ecant0Esurvive0Egroup0Ehugs0C/story01.htm">Source </a>

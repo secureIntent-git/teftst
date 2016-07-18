@@ -1,0 +1,38 @@
+---
+ID: 1440
+post_title: 'Federal judge rules Apple cannot be forced to aid in NY iPhone unlocking, cites &#039;unreasonable burden&#039; &#8211; Apple Insider'
+author: Staff Writer
+post_date: 2016-03-01 00:35:12
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/federal-judge-rules-apple-cannot-be-forced-to-aid-in-ny-iphone-unlocking-cites-unreasonable-burden-apple-insider/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Federal judge rules Apple cannot be forced to aid in NY iPhone unlocking, cites &#039;unreasonable burden&#039; - Apple Insider'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNGZadakhCkXhQHWpVjPUbqFYJIphQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779055487210&#038;ei=O-PUVtjiG5CmwQGt4buoDA&#038;url=http://appleinsider.com/articles/16/02/29/federal-judge-rules-apple-cannot-be-forced-to-aid-in-ny-iphone-unlocking-cites-unreasonable-burden'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNGZadakhCkXhQHWpVjPUbqFYJIphQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779055487210&#038;ei=O-PUVtjiG5CmwQGt4buoDA&#038;url=http://appleinsider.com/articles/16/02/29/federal-judge-rules-apple-cannot-be-forced-to-aid-in-ny-iphone-unlocking-cites-unreasonable-burden'
+---
+ [ad_1]
+<br><div itemscope="" itemtype="http://schema.org/Article" readability="63.368923418424">
+		<!-- font size selector, BEGIN -->
+		<span class="cfix"> </span>
+		
+
+		
+		
+
+		<p class="gray small byline">
+			By <a href="mailto:mikeycampbell@gmail.com">Mikey Campbell</a>			<br /><span class="gray" itemprop="datePublished" content="2016-02-29T18:52:00-05:00">Monday, February 29, 2016, 03:52 pm PT (06:52 pm ET)</span>
+		</p>
+
+		<span itemprop="articleBody" readability="59.166859523259"><span class="article-leader">Apple was handed a crucial win in its fight for encryption on Monday, as a New York federal judge denied a government All Writs Act-based motion to compel Apple's assistance in bypassing the encryption safeguards of an iPhone linked to a years-old drug case. <br /></span><br /><div align="center"><div class="article-img"><img src="http://www.whenitson.com/wp-content/uploads/2016/03/Federal-judge-rules-Apple-cannot-be-forced-to-aid-in-NY-iPhone-unlocking-cites-039unreasonable-burden039-Apple-Insider.jpg" alt="" height="328" class="lazy" data-original="http://www.whenitson.com/wp-content/uploads/2016/03/1456792512_594_Federal-judge-rules-Apple-cannot-be-forced-to-aid-in-NY-iPhone-unlocking-cites-039unreasonable-burden039-Apple-Insider.jpg" /><noscript><img src="http://www.whenitson.com/wp-content/uploads/2016/03/1456792512_594_Federal-judge-rules-Apple-cannot-be-forced-to-aid-in-NY-iPhone-unlocking-cites-039unreasonable-burden039-Apple-Insider.jpg" /></noscript></div><br /><span class="minor2 small gray"></span></div><p>In <a href="https://www.scribd.com/doc/301289918/Government-Motion-to-Compel-Denied-in-NY-Drug-Case">his ruling</a>, New York Magistrate Judge James Orenstein decided the government lacks legal authority to force Apple, or indeed any company, to break its own digital security protocols. Echoing Apple's arguments against Department of Justice overtures in the high-profile San Bernardino attack investigation, today's decision noted the "unreasonable burden" in inventing, coding and distributing a purposely vulnerable operating system in hopes of cracking existing device security. </p><p>The New York case dates back to June 2014, when warrants were issued to search the residences of suspected drug trafficker Jun Feng and his associates. The Drug Enforcement Agency subsequently recovered several mobile devices connected to the criminal investigation, including Feng's iPhone 5s running iOS 7. </p><p>As noted by Judge Orenstein, the DEA did not attempt to glean information from the iPhone in question until July 2015 despite months of case prosecution. Acting on a warrant to search, the DEA was unable to thwart the iPhone's passcode protection, prompting a call for assistance to the Federal Bureau of Investigation. Also unable to crack Apple's iOS encryption, the FBI filed a data retrieval request to Apple itself. As it did at least 70 times previously, Apple said it could and would help obtain as much information as possible short of breaking the phone's installed security measures. </p><p>In October, the government filed a motion to compel Apple's assistance in bypassing Feng's passcode to examine data stored directly on the device. The filing relied exclusively on the All Writs Act of 1789, today's decision says. </p><p>Judge Orenstein offers a scathing critique of the FBI's use of All Writs, as well as other judicial instruments, to effect its decryption operations. </p><blockquote>It is also clear that the government has made the considered decision that it is better off securing such crypto-legislative authority from the courts (in proceedings that had always been, at the time it filed the instant Application, shielded from public scrutiny) rather than taking the chance that open legislative debate might produce a result less to its liking.</blockquote><br />&#13;
+The FBI dispensed with behind-closed-doors tactics in the San Bernardino case, however, making outright public pleas to curry favor in an investigation involving a locked iPhone 5c used by terrorist Syed Rizwan Farook. As it did in New York, Apple is fighting the Justice Department's AWA demands, but the sensitive nature of the San Bernardino attack has attached an immediacy to the government's case not seen in other data request filings. <p>The All Writs Act, or rather a reading of the law, sits at the heart of government assertions to compel Apple's aid. However, some question the validity of such arguments, saying that a successful invocation of AWA could lead to sweeping, unchecked authority over strong encryption systems and the firms produce them. Taking a purely judicial route without involving Congress is particularly worrisome, especially for a society so reliant on high technology. Judge Orenstein agrees. </p><blockquote>Its preferred reading of the law - which allows a court to confer on the executive branch any investigative authority Congress has decided to withhold, so long as it has not affirmatively outlawed it - would transform the AWA from a limited gap-filing statute that ensures the smooth functioning of the judiciary itself into a mechanism for upending the separation of powers by delegating to the judiciary a legislative power bounded only by Congress's superior ability to prohibit or preempt.</blockquote><p>Apple's vocal opposition to unlocking Farook's iPhone sparked debate over how best to balance civil rights and national security. CEO Tim Cook, for example, said on multiple occasions that giving in to government demands sets a dangerous precedent both domestically and in the international arena. </p><p>For its part, the government maintains that its motion to compel relates to one iPhone — Farook's — and does not in any way represent a "master key" to iOS.</p></span>
+		
+			</div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNGZadakhCkXhQHWpVjPUbqFYJIphQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779055487210&#038;ei=O-PUVtjiG5CmwQGt4buoDA&#038;url=http://appleinsider.com/articles/16/02/29/federal-judge-rules-apple-cannot-be-forced-to-aid-in-ny-iphone-unlocking-cites-unreasonable-burden">Source </a>

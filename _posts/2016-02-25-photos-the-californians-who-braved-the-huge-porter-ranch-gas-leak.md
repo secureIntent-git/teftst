@@ -1,0 +1,47 @@
+---
+ID: 1291
+post_title: 'Photos: The Californians Who Braved the Huge Porter Ranch Gas Leak'
+author: Staff Writer
+post_date: 2016-02-25 02:58:10
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/photos-the-californians-who-braved-the-huge-porter-ranch-gas-leak/
+published: true
+original_cats:
+  - >
+    photography,gallery,Photo,documentary
+    photography
+original_title:
+  - 'Photos: The Californians Who Braved the Huge Porter Ranch Gas Leak'
+original_link:
+  - >
+    http://feeds.wired.com/c/35185/f/661370/s/4dd497bf/sc/31/l/0L0Swired0N0C20A160C0A20Csocal0Egas0Eleak0C/story01.htm
+canonical_url:
+  - >
+    http://feeds.wired.com/c/35185/f/661370/s/4dd497bf/sc/31/l/0L0Swired0N0C20A160C0A20Csocal0Egas0Eleak0C/story01.htm
+---
+ [ad_1]
+<br><div id="start-of-content"><p>In the four months before Southern California Gas Co. finally capped a leak in a well at the Aliso Canyon Gas Storage Field, at least 96,000 tons of methane spewed into the air. It settled like a cloud over Porter Ranch, making many areas smell like rotten eggs and upending people’s lives.</p>
+<p>Photographer <a href="http://www.jessicapons.com" target="_blank">Jessica Pons</a> spent two weeks in this suburb just north of Los Angeles, photographing some of the 30,000 or so people who live there and talking to them about their experiences. Her images perfectly capture the unease and uncertainty endured by residents, thousands of whom packed up and left town. She wanted to understand what people felt, and feared. “It humbles me to be involved with what other people are going through,” she says.</p>
+<p>No one expected things to come to that when <a href="http://www.wired.com/2015/12/massive-gas-leak-california/" target="_blank">a leak opened in a 60-year-old well</a> on October 23. Workers did what they usually do in such cases, but flushing fluid down the well and adjusting the wellhead did nothing. They made five more attempts in the weeks that followed, to no avail. So on December 4, SoCal Gas began drilling a relief well. The idea was to intercept the original seven-inch steel pipe, which was leaking about 1.5 miles below the surface, then pour mud, and then concrete, into the relief well to seal the leaking one. It wasn’t easy, but after weeks of work, crews finally reached the leaking pipe on February 11. State officials announced last Thursday that the well was finally permanently capped.</p>
+<p>Residents, local lawmakers and environmentalists have sharply criticized regulators and Southern California Gas, for not responding more quickly, or for not having a risk management plan in place. “A facility this size—the nation’s fifth largest natural gas storage field—should have in place mechanisms to prevent a catastrophe like this from happening,” says Timothy O’Connor, director of the Environmental Defense Fund’s oil and gas program in California. “The fact that it went on for 112 days is a de facto answer to the fact that they were not prepared.”</p>
+<p>Southern California Gas claims it began developing a well assessment program around 2012. Agency spokesperson Tammy Taylor says it created the Storage Integrity Management Program, a series of measures to identify and replace faulty infrastructure. Since the leak, it has been hurrying to implement SIMP at Aliso Canyon—which has 115 wells—starting with 18 wells that also date from the 1950s. Taylor says the program “<span>exceeds traditional industry practices and regulatory requirements.”</span></p>
+<p>Whatever the level of preparation, the leak had an immense impact on Porter Ranch, which is just a few miles away. Although methane is an odorless gas, gas companies typically add other chemicals, such as tertiary butyl mercaptan and tetrahydrothiophen, so you can smell a leak. The sulfurous stink wafted over the Santa Susana mountains through town. It often was accompanied by an oily black residue and lots of dust from the drilling. It coated everything.</p>
+<p>Then people started getting sick. Several hundred <a href="http://bigstory.ap.org/article/d74618f5a62f4344bd77d9529b844c51/los-angeles-sues-gas-company-over-6-week-old-leak" target="_blank">people complained of ailments</a> ranging from headaches to nosebleeds to nausea. SoCal Gas and the LA Public Health department insisted the methane levels weren’t high enough to cause long-term damage, but not everyone bought it. (Researchers at the University of Southern California <a href="https://news.usc.edu/91098/usc-researchers-to-study-long-term-health-effects-of-porter-ranch-gas-leak/" target="_blank">said</a> the odorous additives might pose risks). Rumors of dead pets and birds started going around, and it soon became hard to distinguish fact from fiction. It seemed the leak and what it might be doing to people was all anyone could talk about.</p>
+<p>It wasn’t long before people started leaving. In some cases, SoCal Gas had to cover the cost, and county board of education said it would transfer kids to other schools. Families hunkered down in hotels, with friends, or simply moved on.</p>
+<p>Pons lives in LA and had been following the news with growing interest. On January 6, the same day California Governor Jerry Brown declared a state of emergency, she took a drive to see first-hand what was happening. There wasn’t a lot to see. The weather, rainy and ominous, kept many people indoors. Schools stood empty, and flashing road signs on one of the main streets warned people about criminal activity because so many houses were unoccupied. Pons was struck by how pristine and beautiful the city was, and how construction continued despite the disaster. “It was kind of surreal,” she says.</p>
+<p>Pons spent two weeks in town. She attended a school orientation, a public hearing, and an early morning rally where about 100 concerned residents demanded that SoCal Gas shut the facility down. She met Gabriel Khanlian, who owns a vaporizer business and says the leak has ruined his life. It sickened his family, he says, and threw his finances into turmoil after a tenant demanded a 40 percent cut in rent because of the leak. “This leak is a disaster,” he says. “[It] leaves more uncertainties for us residents. Are we going to lose our house? Are we going to get cancer or lung disease 20 years from now and die? How is it going to affect our children’s future and health?”</p>
+<p>He is hardly alone in asking these questions. David Balen, who lives in the same gated community as Khanlian, says his 8-year-old daughter suffers from nosebleeds, and that it took SoCal Gas six weeks to relocate his family. “I’m very upset at SoCal for putting my family in harm’s way for such a long period of time,” he says.</p>
+<p>Still, most people opted to wait it out. Sean O’Rourke, of the Porter Ranch Neighborhood Council, says he stayed behind because nothing he read made him worry about his family’s safety. But he laments how the disaster divided the town. “There are so many different viewpoints, and that’s been the biggest impact after everyone’s safety and health, is that we’ve been divided over this issue of what we think is safe or not safe,” he says. “That’s the most unfortunate thing.”</p>
+<p>Southern California Gas says it did its best to respond to the crisis. Once the leak was detected, we immediately took action to secure the area and implement proper safety precautions, and we began notifying regulatory officials that day,” Taylor says. “Prior to the Department of Public Health’s relocation directive on November 19, we were voluntarily offering relocation to families on a per-request basis. After the directive, we formalized the relocation process.”</p>
+<p>Though the worst appears to be over, many residents are still afraid to return to their homes, fearful there may be another leak. But O’Connor finds it unlikely that will happen, given the intense scrutiny the company is under. “The state is not going to allow them to open up this facility and open up wells that have not undergone a very rigorous review,” he says.</p>
+<p>The Porter Ranch leak raises questions about the state of US energy infrastructure. More than 400 natural gas reservoirs nationwide store trillions of cubic feet of natural gas, yet there are relatively few regulations governing them. “Regrettably, there’s a broader theme than Aliso Canyon,” Energy Secretary Ernest Moniz said during a visit to the site on February 16, <a href="http://bigstory.ap.org/article/36d79a2e0fb14eafa96af71eb3b003f9/energy-secretary-says-california-gas-leak-symptom-age" target="_blank">according to the Associated Press</a>. “We have a lot of very old infrastructure in energy that we have to address for the 21st century.”</p>
+<p>Pons hopes her images help people realize that what happened in Porter Ranch could happen anywhere.  “You don’t really deal with it unless it happens to you, and I think it’s really interesting that humans think that way, that the only way we react to anything is if it happens to us,” she says. “And I don’t know if that’s the smartest way to go about things, because there’s no prevention that goes on.”</p>
+
+			<a class="visually-hidden skip-to-text-link focusable bg-white" href="#start-of-content">Go Back to Top. Skip To: Start of Article.</a>
+
+			
+</div>
+<br>[ad_2]
+<br><a href="http://feeds.wired.com/c/35185/f/661370/s/4dd497bf/sc/31/l/0L0Swired0N0C20A160C0A20Csocal0Egas0Eleak0C/story01.htm">Source </a>

@@ -1,0 +1,38 @@
+---
+ID: 4969
+post_title: >
+  Volkswagen agrees to buy back diesel
+  vehicles, fund clean air efforts
+author: Staff Writer
+post_date: 2016-06-28 17:20:26
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/volkswagen-agrees-to-buy-back-diesel-vehicles-fund-clean-air-efforts/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    Volkswagen agrees to buy back diesel
+    vehicles, fund clean air efforts
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/vOFjs7Byc78/us-volkswagen-emissions-settlement-idUSKCN0ZD2S5
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/vOFjs7Byc78/us-volkswagen-emissions-settlement-idUSKCN0ZD2S5
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">WASHINGTON</span> German automaker Volkswagen AG (<span id="symbol_VOWG_p.DE_0">VOWG_p.DE</span>) will pay as much as $15.3 billion after admitting it cheated on U.S. diesel emissions tests for years, agreeing to buy back vehicles from consumers and provide funding that could benefit makers of cleaner technologies.</p></span><span id="midArticle_1"/><p>A deal formally filed by the Justice Department on Tuesday will provide the largest-ever automotive buyback offer in the United States. The proposed consent decree confirmed that VW will set aside $10.033 billion to cover buybacks or potential fixes for diesel cars and sport utility vehicles that used illegal software to defeat government emissions tests.</p><span id="midArticle_2"/><p>VW still may face criminal charges and oversight by an independent monitor, similar to settlements of cases involving General Motors Co and Toyota Motor Corp for auto safety issues, a person briefed on the matter said. A criminal settlement, which could happen in the coming months, would also include specific measures to ensure that the company would not engage in further cheating.</p><span id="midArticle_3"/><p>Shares of VW closed up 1.7 percent at 107.85 euros after rising as much as 5 percent earlier in the day. </p><span id="midArticle_4"/><p>"We didn't follow a multi-year, grind-it-out litigation strategy, which would have been counterproductive for Volkswagen," said Robert Giuffra Jr., the company's lead lawyer.  "We moved with lightning speed to settle with our federal and state regulators and the private plaintiffs."   </p><span id="midArticle_5"/><p>Under the Justice Department deal, VW will provide $2 billion over 10 years to fund programs directed by the state of California and the U.S. Environmental Protection Agency to promote construction of electric vehicle charging infrastructure, development of zero-emission ride-sharing fleets and other efforts to boost sales of cars that do not burn petroleum.</p><span id="midArticle_6"/><p>VW also agreed to put up $2.7 billion over three years that government and tribal agencies would use to replace old buses or to fund new infrastructure at ports to reduce diesel emissions.</p><span id="midArticle_7"/><p>The settlement covers 475,000 2.0-liter diesel Jetta, Beetle, Audi A3, Golf, and Passat vehicles from the 2009-2015 model years.</p><span id="midArticle_8"/><p>Also on Tuesday, VW announced a separate settlement with at least 44 U.S. states, the District of Columbia and Puerto Rico that will cost at least $600 million, bringing the total to as much as $15.3 billion.</p><span id="midArticle_9"/><p>Deputy U.S. Attorney General Sally Yates said a criminal investigation remained active. "We're looking at multiple companies and multiple individuals," she said.</p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><p>"By duping regulators, Volkswagen turned nearly half a million American drivers into unwitting accomplices in an unprecedented assault on our environment," she added.</p><span id="midArticle_11"/><p>VW still faces criminal investigations in Germany and other countries, as well as a raft of lawsuits from investors around the world for what they describe as losses incurred after the scandal erupted.</p><span id="midArticle_12"/><p>In addition, European governments and consumer lobby groups are calling for the automaker to provide compensation similar to what is being offered in the United States. To date, VW has rejected such claims, saying its vehicles in Europe will not lose their value because of technical fixes already approved by regulators.</p><span id="midArticle_13"/><p>The company  is planning a multi-billion-euro investment program for the introduction of more than 30 fully-electric cars by 2025.</p><span id="midArticle_14"/><span id="midArticle_15"/>
+        
+        <span class="second-article-divide"/><p>FIX OR SELL</p><span id="midArticle_0"/><p>The company will not be fully past the scandal for years. Owners of its vehicles will have until late 2018 to decide whether to sell them back to VW. </p><span id="midArticle_1"/><p>VW is also barred from making deceptive claims in the future, according to a settlement with the U.S. Federal Trade Commission announced on Tuesday.</p><span id="midArticle_2"/><p>The settlements stem from VW's admission in September that it installed secret software that allowed U.S. vehicles to emit up to 40 times legally allowable pollution.</p><span id="midArticle_3"/><p>The deals would move the company close to the 16.2 billion euros ($18 billion) it has set aside to cover the costs of the scandal.</p><span id="midArticle_4"/>
+        
+        <span class="third-article-divide"/><p>The actual amount VW will spend on buybacks could be significantly less if regulators approve fixes and owners opt to get vehicles repaired. Most owners will get $5,100 to $10,000 in compensation, including the pre-scandal value of the cars, documents filed on Tuesday said.</p><span id="midArticle_5"/><p>The company expects to begin buying back vehicles in October, when a U.S. judge is expected to give final approval to the settlement, and is to start proposing fixes in November. Some vehicles will require significant mechanical work.</p><span id="midArticle_6"/><p>VW cannot resell or export the vehicles it buys back unless the EPA approves a fix, the documents said. Volkswagen must repair or buy back 85 percent of the 475,000 vehicles by June 2019 or face penalties of $100 million for every percentage point it falls below that figure.</p><span id="midArticle_7"/><p>The agreement does not lift a ban placed in September on sales by VW of its U.S. 2016 diesel vehicles. </p><span id="midArticle_8"/><p>Nor does the settlement cover fees for the lawyers of owners suing the company or address 80,000 larger polluting 3.0 liter Porsche, Audi and VW diesel cars. </p><span id="midArticle_9"/><p>Also to be decided later is the amount of any civil fine VW faces under the U.S. Clean Air Act for emissions violations.</p><span id="midArticle_10"/><p>The settlement does not resolve civil lawsuits filed by owners against German auto supplier Robert Bosch GmbH, which was sued last year and accused of conspiring with Volkswagen to evade diesel emissions standards.</p><span id="midArticle_11"/><span id="midArticle_12"/><p> (Reporting by David Shepardson and Andreas Cremer; Editing by Lisa Von Ahn)</p><span id="midArticle_13"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/vOFjs7Byc78/us-volkswagen-emissions-settlement-idUSKCN0ZD2S5">Source </a>

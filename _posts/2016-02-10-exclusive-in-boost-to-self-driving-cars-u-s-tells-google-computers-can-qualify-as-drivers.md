@@ -1,0 +1,34 @@
+---
+ID: 857
+post_title: 'Exclusive: In boost to self-driving cars, U.S. tells Google computers can qualify as drivers'
+author: Staff Writer
+post_date: 2016-02-10 03:43:17
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/exclusive-in-boost-to-self-driving-cars-u-s-tells-google-computers-can-qualify-as-drivers/
+published: true
+original_cats:
+  - technologyNews
+original_title:
+  - 'Exclusive: In boost to self-driving cars, U.S. tells Google computers can qualify as drivers'
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/zUfs6KGwr44/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/zUfs6KGwr44/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">WASHINGTON/DETROIT</span> U.S. vehicle safety regulators have said the artificial intelligence system piloting a self-driving Google car could be considered the driver under federal law, a major step toward ultimately winning approval for autonomous vehicles on the roads.</p></span><span id="midArticle_1"/><p>The National Highway Traffic Safety Administration told Google, a unit of Alphabet Inc (<span id="symbol_GOOGL.O_0">GOOGL.O</span>), of its decision in a previously unreported Feb. 4 letter to the company posted on the agency's website this week. </p><span id="midArticle_2"/><p>Google's self-driving car unit on Nov. 12 submitted a proposed design for a self-driving car that has "no need for a human driver," the letter to Google from National Highway Traffic Safety Administration Chief Counsel Paul Hemmersbaugh said.</p><span id="midArticle_3"/><p>"NHTSA will interpret 'driver' in the context of Google's described motor vehicle design as referring to the (self-driving system), and not to any of the vehicle occupants," NHTSA's letter said.  </p><span id="midArticle_4"/><p>"We agree with Google its (self-driving car) will not have a 'driver' in the traditional sense that vehicles have had drivers during the last more than one hundred years." </p><span id="midArticle_5"/><p>Major automakers and technology companies such as Google are racing to develop and sell vehicles that can drive themselves at least part of the time. </p><span id="midArticle_6"/><p>All participants in the autonomous driving race complain that state and federal safety rules are impeding testing and eventual deployment of such vehicles. California has proposed draft rules requiring steering wheels and a licensed driver in all self-driving cars.</p><span id="midArticle_7"/><p>Karl Brauer, senior analyst for the Kelley Blue Book automotive research firm, said there were still significant legal questions surrounding autonomous vehicles.</p><span id="midArticle_8"/>
+        
+        <span class="first-article-divide"/><p>But if "NHTSA is prepared to name artificial intelligence as a viable alternative to human-controlled vehicles, it could substantially streamline the process of putting autonomous vehicles on the road," he said.</p><span id="midArticle_9"/><p>If the car's computer is the driver for legal purposes, then it clears the way for Google or automakers to design vehicle systems that communicate directly with the vehicle's artificial pilot. </p><span id="midArticle_10"/><p>In its response to Google, the federal agency offered its most comprehensive map yet of the legal obstacles to putting fully autonomous vehicles on the road. It noted existing regulations requiring some auto safety equipment can not be waived immediately, including requirements for braking systems activated by foot control.</p><span id="midArticle_11"/><p>"The next question is whether and how Google could certify that the (self-driving system) meets a standard developed and designed to apply to a vehicle with a human driver," NHTSA said.</p><span id="midArticle_12"/>
+        
+        <span class="second-article-divide"/><p>Google is "still evaluating" NHTSA's lengthy response, a company spokesperson said on Tuesday. Google executives have said they would likely partner with established automakers to build self-driving cars.</p><span id="midArticle_13"/><span id="midArticle_14"/><p>WORRIES ABOUT PEOPLE UNDERMINING SAFETY</p><span id="midArticle_15"/><p>Google told NHTSA that the real danger is having auto safety features that could tempt humans to try to take control.</p><span id="midArticle_0"/>
+        
+        <span class="third-article-divide"/><p>Google "expresses concern that providing human occupants of the vehicle with mechanisms to control things like steering, acceleration, braking... could be detrimental to safety because the human occupants could attempt to override the (self-driving system's) decisions," the NHTSA letter stated.</p><span id="midArticle_1"/><p>NHTSA's Hemmersbaugh said federal regulations requiring equipment like steering wheels and brake pedals would have to be formally rewritten before Google could offer cars without those features.</p><span id="midArticle_2"/><p>For example, current federal rules require alerts on dashboards if tire pressure runs low. NHTSA said a test would need to be created that shows the vehicle computer is informed of the problem. NHTSA raised the question of whether humans in the vehicles should also be made aware.</p><span id="midArticle_3"/><p>In January, NHTSA said it may waive some vehicle safety rules to allow more driverless cars to operate on U.S. roads as part of a broader effort to speed up development of self-driving vehicles.</p><span id="midArticle_4"/><p>NHTSA said then it would write guidelines for self-driving cars within six months. Transportation Secretary Anthony Foxx said the administration may seek new legal authority to allow deployment of autonomous vehicles "in large numbers," when they are deemed safe, the department said.</p><span id="midArticle_5"/><p>The process of rewriting federal regulations governing the design, placement and operation of vehicle controls could take months or years. The NHTSA counsel said Google could consider applying for exemptions for certain regulations, providing NHTSA with supporting documents.</p><span id="midArticle_6"/><span id="midArticle_7"/><p> (Reporting by Paul Lienert in Detroit and David Shepardson in Washington; Editing by <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=cynthia.osterman&amp;">Cynthia Osterman</a>)</p><span id="midArticle_8"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/technologyNews/~3/zUfs6KGwr44/story01.htm">Source </a>

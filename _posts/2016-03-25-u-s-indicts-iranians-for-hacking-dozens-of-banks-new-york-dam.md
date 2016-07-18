@@ -1,0 +1,38 @@
+---
+ID: 2170
+post_title: >
+  U.S. indicts Iranians for hacking dozens
+  of banks, New York dam
+author: Staff Writer
+post_date: 2016-03-25 18:59:11
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/u-s-indicts-iranians-for-hacking-dozens-of-banks-new-york-dam/
+published: true
+original_cats:
+  - technologyNews
+original_title:
+  - >
+    U.S. indicts Iranians for hacking dozens
+    of banks, New York dam
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/7NmI4rCPc8c/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/7NmI4rCPc8c/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="8"><p><span class="articleLocation">WASHINGTON/BOSTON</span> Seven Iranian hackers conducted a coordinated cyber attack on dozens of U.S. banks, causing millions of dollars in lost business, and tried to shut down a New York dam, the U.S. government said on Thursday in an indictment that for the first time accused individuals tied to another country of trying to disrupt critical infrastructure.</p></span><span id="midArticle_1"/><p>It said the seven accused were believed to have been working on behalf of Iran's government and the Islamic Revolutionary Guard. Those named live in Iran and the Iranian government is not expected to extradite them. There was no immediate comment from Tehran.</p><span id="midArticle_2"/><p>At least 46 major financial institutions and financial sector companies were targeted, including JPMorgan Chase (<span id="symbol_JPM.N_0">JPM.N</span>), Wells Fargo (<span id="symbol_WFC.N_1">WFC.N</span>) and American Express (<span id="symbol_AXP.N_2">AXP.N</span>), the indictment said. AT&amp;T (<span id="symbol_T.N_3">T.N</span>) also was targeted.</p><span id="midArticle_3"/><p>The hackers are accused of hitting the banks with distributed-denial-of-service attacks on a near-weekly basis, a relatively unsophisticated way of knocking computer networks offline by overwhelming them with a flood of spammed traffic.</p><span id="midArticle_4"/><p>“These attacks were relentless, they were systematic, and they were widespread,” U.S. Attorney General Loretta Lynch told a Washington news conference.</p><span id="midArticle_5"/><p>The indictment from a federal grand jury in New York City said the attacks occurred from 2011 to 2013. Washington has previously accused military officers from China and the North Korean government of cyber attacks against U.S. businesses. </p><span id="midArticle_6"/><p>The attack on the Bowman Avenue Dam in Rye Brook, New York, was especially alarming, Lynch said, because it represented a known intrusion on critical infrastructure. A stroke of good fortune prevented the hackers from obtaining operational control of the flood gates because the dam had been manually disconnected for routine maintenance, she said.</p><span id="midArticle_7"/><p>The Bowman hack was a "game-changing event" for the U.S. government that prompted investigators to uncover other systems vulnerable to similar attacks, said Andre McGregor, a former FBI agent and a lead case investigator on the dam intrusion.</p><span id="midArticle_8"/><p>"The investigation's discovery of many more exposed computer systems with vulnerable management consoles is a constant reminder that basic cyber hygiene remains at the forefront of the battle against cyber attacks," said McGregor, now director of security at Tanium, a Silicon Valley cyber security firm.</p><span id="midArticle_9"/><p>"We must step up our counter-hacking game ASAP to deal with threats from places like Iran and would be terrorists," said New York Senator Chuck Schumer in a statement.</p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><p>Cyber security experts and U.S. intelligence officials have grown more alarmed in recent months by the possibility of destructive hacks of critical infrastructure such as dams, power plants and factories. Some have said a December cyber attack on the Ukraine's energy grid that caused a temporary blackout of 225,000 should serve as a wake-up call.</p><span id="midArticle_11"/><span id="midArticle_12"/><p>LONG MEMORIES</p><span id="midArticle_13"/><p>The defendants were identified as Ahmad Fathi, Hamid Firoozi, Amin Shokohi, Sadegh Ahmadzadegan, Omid Ghaffarinia, Sina Keissar and Nader Seidi, all citizens and residents of Iran. They are accused of conspiracy to commit computer hacking while employed by two Iran-based computer companies, ITSecTeam and Mersad Company.</p><span id="midArticle_14"/><p>Firoozi also is charged with obtaining and abetting unauthorized access to a protected computer.</p><span id="midArticle_15"/>
+        
+        <span class="second-article-divide"/><p>The indictments are the latest attempt by the Obama administration to more publicly confront cyber attacks carried out by other countries against the United States.</p><span id="midArticle_0"/><p>The campaign began two years ago when the Justice Department accused five members of China's People’s Liberation Army with hacking several Pennsylvania-based companies in an alleged effort to steal trade secrets. It continued with President Obama's vow to "respond proportionally" against North Korea for the destructive hack against Sony Pictures.  </p><span id="midArticle_1"/><p>“An important part of our cyber security practice is to identify the actors and to attribute them publicly when we can," Lynch said Thursday. "We do this so that they know they cannot hide.”</p><span id="midArticle_2"/><p>U.S. officials largely completed the investigation more than a year ago, according to two sources familiar with the matter, but held off releasing the indictment so as to not jeopardize the landmark 2015 nuclear deal with Iran or a January prisoner swap.</p><span id="midArticle_3"/><p>Even though Iran is not expected to extradite the suspects, FBI Director James Comey vowed to pursue justice.</p><span id="midArticle_4"/>
+        
+        <span class="third-article-divide"/><p>"The world is small and our memory is long," he said at the news conference with Lynch.</p><span id="midArticle_5"/><p>Dmitri Alperovitch, chief technology officer with cyber security firm CrowdStrike, said, “This sends an important message to Iran and other governments that these people cannot operate anonymously.”</p><span id="midArticle_6"/><p>The U.S. and Israel launched a cyber attack against Iran in 2010, now famously known as the Stuxnet worm, in order to disable Iran's nuclear centrifuges. Some security researchers and officials have long suspected the attacks against U.S. banks and the dam were done in part as retaliation.</p><span id="midArticle_7"/><p>Separately, the U.S. Treasury Department blacklisted two Iranian companies on Thursday for supporting Iran's ballistic missile program and also sanctioned two British businessmen it said were helping an airline used by Iran's Revolutionary Guards.</p><span id="midArticle_8"/><span id="midArticle_9"/><p>(Corrects paragraph 1 to say hackers did not break into computers.)</p><span id="midArticle_10"/><span id="midArticle_11"/><span id="midArticle_12"/><p> (Additional reporting by Jonathan Stempel in New York, Susan Heavey, Megan Cassella and Julia Edwards in Washington; Editing by James Dalgleish and Bill Trott)</p><span id="midArticle_13"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/technologyNews/~3/7NmI4rCPc8c/story01.htm">Source </a>

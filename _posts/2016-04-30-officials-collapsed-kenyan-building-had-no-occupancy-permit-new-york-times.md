@@ -1,0 +1,29 @@
+---
+ID: 3221
+post_title: 'Officials: Collapsed Kenyan Building Had No Occupancy Permit &#8211; New York Times'
+author: Staff Writer
+post_date: 2016-04-30 19:59:05
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/officials-collapsed-kenyan-building-had-no-occupancy-permit-new-york-times/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Officials: Collapsed Kenyan Building Had No Occupancy Permit - New York Times'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNEkyJMa6Gi0dBfwfu8gtAB0OTEXCA&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779097325966&#038;ei=iA4lV5iwF4SchAHP74a4BA&#038;url=http://www.nytimes.com/aponline/2016/04/30/world/europe/ap-eu-kenya-building-collapse.html'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNEkyJMa6Gi0dBfwfu8gtAB0OTEXCA&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779097325966&#038;ei=iA4lV5iwF4SchAHP74a4BA&#038;url=http://www.nytimes.com/aponline/2016/04/30/world/europe/ap-eu-kenya-building-collapse.html'
+---
+ [ad_1]
+<br><div readability="90.950959488273">
+        <p class="story-body-text story-content" data-para-count="232" data-total-count="232">NAIROBI, Kenya —  A building that collapsed amid heavy rains in Nairobi, killing at least 12 people and injuring at least 134, did not have an occupancy permit, officials said Saturday as they ordered its owner to turn himself in.</p><p class="story-body-text story-content" data-para-count="167" data-total-count="399">Details about the residential building emerged a day after its collapse on Friday, after which crowds of onlookers gathered to try to help pry victims from the rubble.</p><p class="story-body-text story-content" data-para-count="125" data-total-count="524">Police Inspector General Joseph Boinnet ordered the owner of the building to surrender himself to the police for questioning.</p><p class="story-body-text story-content" data-para-count="168" data-total-count="692">The building did not have an occupancy permit, which is a government requirement for all buildings, said Stephen Oundo, chairman of the National Construction Authority.</p><p class="story-body-text story-content" data-para-count="324" data-total-count="1016">The Kenya Red Cross said 150 building units and adjacent homes were affected.  Rescuers said they could hear voices of five people trapped in the building and said it will be difficult to remove the concrete slabs using heavy machinery without endangering those stuck in the rubble, said nominated legislator Johnson Sakaja.</p><div id="story-ad-1" class="story-ad ad ad-placeholder nocontent robots-nocontent">
+    
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="195" data-total-count="1211" id="story-continues-1">Live TV footage showed the National Youth Service and firefighters removing stones by hand and a crowd cheering as a child was removed from the rubble. President Uhuru Kenyatta visited the scene.</p><p class="story-body-text story-content" data-para-count="255" data-total-count="1466">Hours-long traffic jams caused by flooded roads delayed rescue teams trying to reach the scene, said Japheth Koome, Nairobi's police chief said. The 134 injured were rescued from the rubble, Koome said. Kenya is in the midst of its April-May rainy season.</p><p class="story-body-text story-content" data-para-count="266" data-total-count="1732">Jacob Kiruma, who said he lived in the house adjacent to the one that collapsed, said the building was constructed "shoddily." The structure had been built in less than five months and the 126 single rooms were quickly occupied at a rent of $35 a month, Kiruma said.</p><p class="story-body-text story-content" data-para-count="231" data-total-count="1963">Area legislator Stephen Kariuki said this was the second building to collapse in a year. He blamed the county government of failing to follow through with demolitions of buildings that were identified as unfit for human habitation.</p><p class="story-body-text story-content" data-para-count="145" data-total-count="2108">Taking advantage of a high demand for housing in Nairobi, some property developers bypass building regulations to cut costs and maximize profits.</p><p class="story-body-text story-content" data-para-count="388" data-total-count="2496">President Kenyatta last year ordered an audit of all the buildings in the country to see if they are up to code after eight buildings collapsed, killing at least 15 people. The report from the audit by the National Construction Authority found that 58 percent of buildings in the capital were unfit to live in. The majority of Nairobi's 4 million people live in low-income areas or slums.</p><p class="story-body-text story-content" data-para-count="255" data-total-count="2751">The heavy rains have caused other fatalities. Four people died when a wall collapsed Friday in the affluent Hurlingham area and two people drowned when they were swept away by flood waters in the capital's industrial area, said Nairobi police chief Koome.</p>        <a class="visually-hidden skip-to-text-link" href="#whats-next">Continue reading the main story</a>
+    </div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNEkyJMa6Gi0dBfwfu8gtAB0OTEXCA&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779097325966&#038;ei=iA4lV5iwF4SchAHP74a4BA&#038;url=http://www.nytimes.com/aponline/2016/04/30/world/europe/ap-eu-kenya-building-collapse.html">Source </a>

@@ -1,0 +1,23 @@
+---
+ID: 1338
+post_title: 'Gordon Ramsay slanders Girl Scout cookies in ultimate act of disrespect &#8211; USA TODAY'
+author: Staff Writer
+post_date: 2016-02-26 15:47:04
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/gordon-ramsay-slanders-girl-scout-cookies-in-ultimate-act-of-disrespect-usa-today/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Gordon Ramsay slanders Girl Scout cookies in ultimate act of disrespect - USA TODAY'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFXGvL0Njd0O4JuX2ZtYhJgNshSNg&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779051907106&#038;ei=d3PQVpDQKdDChAHOgIvQCw&#038;url=http://www.usatoday.com/story/life/entertainthis/2016/02/26/gordon-ramsay-girl-scout-cookies-jimmy-kimmel/80976350/'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFXGvL0Njd0O4JuX2ZtYhJgNshSNg&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779051907106&#038;ei=d3PQVpDQKdDChAHOgIvQCw&#038;url=http://www.usatoday.com/story/life/entertainthis/2016/02/26/gordon-ramsay-girl-scout-cookies-jimmy-kimmel/80976350/'
+---
+ [ad_1]
+<br><div role="main" itemprop="articleBody" readability="63"><!-- cxenseparse_start --><div id="module-position-O1ktzthr51I" class="story-asset image-asset" readability="32"><aside itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="wide single-photo" readability="4"><img itemprop="url" src="http://www.gannett-cdn.com/-mm-/8304720edb55f691a68e4518f90ddd72570d363d/c=0-285-1021-862&amp;r=x329&amp;c=580x326/local/-/media/2016/02/26/USATODAY/USATODAY/635920773551951914-AX178-2D80-9.JPG" alt="So, this is how you do us, Gordon?!" width="580" height="326" data-mycapture-src="http://www.whenitson.com/wp-content/uploads/2016/02/Gordon-Ramsay-slanders-Girl-Scout-cookies-in-ultimate-act-of-disrespect-USA-TODAY.JPG"/><meta itemprop="name" content="635920773551951914-AX178-2D80-9.JPG"/><meta itemprop="height" content="326"/><meta itemprop="width" content="580"/><p>So, this is how you do us, Gordon?!<meta itemprop="copyrightHolder" content="FOX"/> <span class="credit">(Photo: FOX)</span></p></aside></div><p>Jimmy Kimmel has personally revoked Gordon Ramsay’s visa following the<em> Hell's Kitche</em>n host's visit to <em>Jimmy Kimmel Live!</em> Wednesday night.</p><div id="module-position-O1ktzthomvk" class="story-asset oembed-asset"><div class="blog-oembed-wrap "><p><iframe width="480" height="270" src="https://www.youtube.com/embed/oI_LQ5lR4gU?feature=oembed" frameborder="0" allowfullscreen=""/></p></div></div><p>During Ramsay’s appearance, St. Kimmel graciously tried to show the <s>ingrate</s> decorated restaurateur the light, offering him the States' most precious delicacy: Girl Scout cookies. “All the time you’ve spent here in the United States, you’ve never tasted Girl Scout Cookies,” Kimmel noted sadly, adding, “I’m going to first of all warn you. This is almost like sacred territory you’re entering here. There’s the American flag and there’s Willie Nelson and then we have Girl Scout cookies. So, I just don’t want to get you run out of the country.”</p><p>Naturally, the steely chef didn’t quite take the warning to heart, insulting the beloved snacks at the very sight of them: “I mean, visually, they look like dog biscuits.”</p><h2 class="presto-h2">And the blasphemy didn’t stop there.</h2><p>Ramsay continued to double down on the shade while sampling Tagalongs, Thin Mints and Samoas.</p><h2 class="presto-h2">On Tagalongs</h2><div readability="6.5"><blockquote readability="6"><p>“Yeah, they’re OK…”</p></blockquote></div><h2 class="presto-h2">On Samoas </h2><div readability="6.5"><blockquote readability="6"><p>“That’s a bit weird,” Ramsay murmured before washing out the taste with a glass of milk.</p></blockquote></div><h2 class="presto-h2">On Thin Mints  </h2><div readability="7.5"><blockquote readability="8"><p>“That’s like a cheap, After Eight dinner mint,” Ramsay said before spitting out that cookie as well.</p></blockquote></div><p>“Well, Gordon Ramsay’s visa just expired,” Kimmel teased near the end of clip, prompting Ramsay to almost spit out his milk.</p><h2 class="presto-h2">Hey, you brought this on yourself, Chef.  </h2><!-- cxenseparse_end --><p>Read or Share this story: http://usat.ly/20ZuVsS</p></div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFXGvL0Njd0O4JuX2ZtYhJgNshSNg&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779051907106&#038;ei=d3PQVpDQKdDChAHOgIvQCw&#038;url=http://www.usatoday.com/story/life/entertainthis/2016/02/26/gordon-ramsay-girl-scout-cookies-jimmy-kimmel/80976350/">Source </a>

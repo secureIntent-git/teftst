@@ -1,0 +1,70 @@
+---
+ID: 2061
+post_title: 'US Says It May Not Need Apple&#039;s Help to Unlock iPhone &#8211; New York Times'
+author: Staff Writer
+post_date: 2016-03-22 03:08:03
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/us-says-it-may-not-need-apples-help-to-unlock-iphone-new-york-times/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'US Says It May Not Need Apple&#039;s Help to Unlock iPhone - New York Times'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHr1WPrfHUr7qqKxbtZa-_BFNAI6Q&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779067095196&#038;ei=ErfwVpj9J8-yhAGw-pWoBA&#038;url=http://www.nytimes.com/2016/03/22/technology/apple-fbi-hearing-unlock-iphone.html'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHr1WPrfHUr7qqKxbtZa-_BFNAI6Q&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779067095196&#038;ei=ErfwVpj9J8-yhAGw-pWoBA&#038;url=http://www.nytimes.com/2016/03/22/technology/apple-fbi-hearing-unlock-iphone.html'
+---
+ [ad_1]
+<br><div readability="159.34725848564">
+        <p class="story-body-text story-content" data-para-count="359" data-total-count="359">RIVERSIDE, Calif. — The Justice Department said on Monday that it might no longer need <a href="http://www.nytimes.com/topic/company/apple-incorporated?inline=nyt-org" title="More information about Apple Incorporated" class="meta-org">Apple</a>’s assistance in opening an <a href="http://topics.nytimes.com/top/reference/timestopics/subjects/i/iphone/index.html?inline=nyt-classifier" title="Recent and archival news about the iPhone." class="meta-classifier">iPhone</a> used by a gunman in the San Bernardino, Calif., rampage last year, leading to a postponement of a court hearing over the issue and temporarily sidestepping what has become a bitter clash with the world’s most valuable company.</p><p class="story-body-text story-content" data-para-count="410" data-total-count="769">In a new court filing, the government said that as of Sunday, an outside party had demonstrated a way for the <a href="http://topics.nytimes.com/top/reference/timestopics/organizations/f/federal_bureau_of_investigation/index.html?inline=nyt-org" title="More articles about the Federal Bureau of Investigation." class="meta-org">F.B.I.</a> to possibly unlock the phone used by Syed Rizwan Farook, one of the San Bernardino attackers. The hearing in the contentious case — Apple has loudly opposed opening the iPhone, citing privacy concerns and igniting a heated debate with the government — was originally scheduled for Tuesday.</p><p class="story-body-text story-content" data-para-count="371" data-total-count="1140">“Testing is required to determine whether it is a viable method that will not compromise data on Farook’s iPhone,” the Justice Department wrote in the filing. “If the method is viable, it should eliminate the need for the assistance from Apple.” The Justice Department added that it would file a status report by April 5 on its progress on unlocking the iPhone.</p><p class="story-body-text story-content" data-para-count="247" data-total-count="1387">Late on Monday, <a href="http://www.nytimes.com/2016/03/22/technology/judge-in-apple-case-seen-as-unfazed-by-stress-even-a-plane-crash.html?ref=technology">Judge Sheri N. Pym</a>, the federal magistrate judge in the United States District Court for the Central District of California who was set to hold the hearing, agreed to grant the Justice Department’s motion to postpone the hearing.</p><p class="story-body-text story-content" data-para-count="494" data-total-count="1881">The Justice Department’s move is a reprieve in the clash that has erupted between the United States government and Apple over how and when the authorities should use the troves of digital data collected and stored by tech companies. The two sides have traded barbs over the issue for weeks, ever since Apple received a court order last month demanding that the company comply with an order to weaken the security of the iPhone so law enforcement officials could gain access to the data in it.</p><div id="story-ad-1" class="story-ad ad ad-placeholder nocontent robots-nocontent">
+    
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="561" data-total-count="2442">The case has been viewed as a watershed moment in <a href="http://www.nytimes.com/2016/03/14/technology/in-the-apple-case-a-debate-over-data-hits-home.html?module=Promotron&amp;region=Body&amp;action=click&amp;pgtype=article">the debate over privacy and security</a>. Apple <a href="http://www.apple.com/customer-letter/">had opposed the court order</a> on the grounds that it would lead to a slippery slope of potentially having to open many iPhones, thus compromising the privacy of its many customers and the strength of its overall product security. President Obama said this month that law enforcement authorities must be able to legally collect information from smartphones and other electronic devices, adding that he opposed the stance on encryption taken by tech companies like Apple.</p><figure class="promo media video embedded layout-large-horizontal " data-videoid="100000004284105" data-media-action="modal" data-autoplay="false" data-embedded="false" data-adsensitivity="" data-live="false" aria-label="media" role="group"><span class="visually-hidden">Video</span>
+
+
+    
+    <figcaption class="caption"><h4 class="headline">Tim Cook on iPhone Data Privacy</h4>
+
+                <div class="caption-video" readability="7.2380952380952">
+        
+            <div class="summary-credit" readability="10.121527777778">
+                <p class="summary">The chief executive of Apple, Timothy D. Cook, said that the company did not expect to be at odds with the government over iPhone encryption, but that it would not back down.</p>
+                <span class="credit video-credit" itemprop="copyrightHolder">
+                    By REUTERS on                                                                <span class="visually-hidden">Publish Date </span>March 21, 2016.
+                                    </span>
+                <span class="credit photo-credit" itemprop="copyrightHolder">
+                                            Photo by Marcio Jose Sanchez/Associated Press.
+                                    </span>
+                                    <a class="video-link" href="http://www.nytimes.com/video/business/100000004284105/apple-chief-on-iphone-data-privacy.html?action=click&amp;contentCollection=technology&amp;module=embedded&amp;region=caption&amp;pgtype=article">Watch in Times Video »</a>
+                            </div>
+
+                    
+        </div>
+            </figcaption></figure><p class="story-body-text story-content" data-para-count="328" data-total-count="2770">The emergence of a potential third-party method to open the iPhone was a surprise, as the government said more than a dozen times in court filings that it could open the phone only with Apple’s help. The F.B.I. director, James B. Comey Jr., also reiterated that point several times during a hearing before Congress on March 1.</p><p class="story-body-text story-content" data-para-count="147" data-total-count="2917">The new method could forestall, but is unlikely to entirely head off, a showdown between Silicon Valley and the Justice Department over encryption.</p><p class="story-body-text story-content" data-para-count="213" data-total-count="3130">“This will only delay an inevitable fight over whether the government can force Apple to break the security of its devices,” said Alex Abdo, a lawyer with the American Civil Liberties Union, an advocacy group.</p><p class="story-body-text story-content" data-para-count="304" data-total-count="3434">For the Justice Department, cracking the iPhone would be a mixed blessing. While it would give investigators access to data that they see as crucial to a terrorism investigation, it would cut short the encryption debate that the F.B.I. had been trying to start for years before the Apple case came along.</p><p class="story-body-text story-content" data-para-count="327" data-total-count="3761">While contentious, the Apple case neatly crystalized that debate in a way that abstract discussions never had. The court fight, regardless of its outcome, would have increased the likelihood that Congress took up legislation to address the issue. Shelving the San Bernardino case could remove a sense of immediacy on the topic.</p><p class="story-body-text story-content" data-para-count="427" data-total-count="4188">The case could flare anew in court if the third-party method for opening the iPhone falters. In a conference call late Monday, a federal law enforcement official, who spoke to reporters on the condition of anonymity, said the government legally had to explore all outside methods of opening up the iPhone. If the government exhausted those options, then it could turn back to the courts to compel Apple to help open the device.</p> <figure id="apple-iphone-fbi-fight-explained" class="interactive promo  layout-large"><a href="http://www.nytimes.com/interactive/2016/03/03/technology/apple-iphone-fbi-fight-explained.html" readability="1.5">
+                <figcaption class="interactive-caption" readability="3"><h2 class="interactive-headline">
+                Breaking Down Apple’s iPhone Fight With the U.S. Government            </h2>
+            <p class="interactive-summary">
+                The technology company has been locked in a major legal battle against law enforcement officials over privacy and security.            </p>
+        </figcaption><div class="interactive-image-container">
+            <div class="interactive-image">
+                <img src="http://www.whenitson.com/wp-content/uploads/2016/03/US-Says-It-May-Not-Need-Apple039s-Help-to-Unlock-iPhone-New-York-Times.jpg"/></div>
+            
+        </div>
+
+            </a>
+</figure><p class="story-body-text story-content" data-para-count="266" data-total-count="4454">The law enforcement official declined to name the outside party that approached investigators with a possible method for opening the phone. He said that investigators were cautiously optimistic about getting data from the phone, but that further testing is required.</p><div id="story-ad-2" class="story-ad ad ad-placeholder nocontent robots-nocontent">
+    
+<a class="visually-hidden skip-to-text-link" href="#story-continues-2">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="119" data-total-count="4573">The government has been using the All Writs Act, a legal statute that dates to 1789, as a key underpinning of its case.</p><p class="story-body-text story-content" data-para-count="427" data-total-count="5000">“The issue at hand is whether the government can use the All Writs Act to force an unwilling third party, Apple, to create what it claims is a back door,” said Joseph DeMarco, a former federal prosecutor who filed a brief on behalf of law enforcement groups that supported the Justice Department in this case. “ But if it can find a willing third party to break into the phone, then the All Writs Act argument is moot.”</p><p class="story-body-text story-content" data-para-count="250" data-total-count="5250">In a statement, Melanie Newman, a spokeswoman for the Justice Department, said the F.B.I. had continued to work on ways to gain access to the contents of the iPhone used by Mr. Farook, even as the fight between Apple and the government was unfolding.</p><p class="story-body-text story-content" data-para-count="505" data-total-count="5755">A senior Apple executive, who spoke to reporters on the condition of anonymity late Monday, said should the government fail to unlock the phone and continue its fight with the company, Apple would want to know more about the outside party that has claimed it can break into the iPhone, in order to learn what methods could circumvent the company’s security features. The executive said that Apple had no knowledge of what capability the government might soon have and that it learned about it on Monday.</p><p class="story-body-text story-content" data-para-count="256" data-total-count="6011">In the meantime, Apple has continued to repeat its message of privacy. <a href="http://www.nytimes.com/2016/03/22/technology/apples-modest-product-upgrades-take-back-seat-to-worries-on-iphone-encryption.html?ribbon-ad-idx=4&amp;rref=technology&amp;module=Ribbon&amp;version=context&amp;region=Header&amp;action=click&amp;contentCollection=Technology&amp;pgtype=article">At a product event on Monday</a> at the company’s Cupertino, Calif., headquarters, Timothy D. Cook, Apple’s chief executive, emphasized a philosophy of helping to protect users’ data.</p><p class="story-body-text story-content" data-para-count="109" data-total-count="6120">“This is an issue that impacts all of us and we will not shrink from this responsibility,” Mr. Cook said.</p><div id="addenda" class="addenda" readability="7">
+    <div class="story-addendum story-content theme-correction" readability="34">
+        <strong> Correction: March 21, 2016 </strong> <p>An earlier version of this article misstated the surname of a Justice Department spokeswoman. She is Melanie Newman, not Newsom.</p>    </div>
+</div>
+<a class="visually-hidden skip-to-text-link" href="#whats-next">Continue reading the main story</a>
+    </div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHr1WPrfHUr7qqKxbtZa-_BFNAI6Q&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779067095196&#038;ei=ErfwVpj9J8-yhAGw-pWoBA&#038;url=http://www.nytimes.com/2016/03/22/technology/apple-fbi-hearing-unlock-iphone.html">Source </a>

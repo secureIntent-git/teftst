@@ -1,0 +1,32 @@
+---
+ID: 2931
+post_title: 'Brazil&#039;s Rousseff going to UN over impeachment; cabinet in crisis &#8211; Reuters'
+author: Staff Writer
+post_date: 2016-04-20 21:30:07
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/brazils-rousseff-going-to-un-over-impeachment-cabinet-in-crisis-reuters/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Brazil&#039;s Rousseff going to UN over impeachment; cabinet in crisis - Reuters'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNF4h9LJu2IPXMyB03UYeckr1HMuQA&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779090673050&#038;ei=3fQXV5DFA4WphQGmobP4Bg&#038;url=http://www.reuters.com/article/us-brazil-politics-idUSKCN0XH20L'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNF4h9LJu2IPXMyB03UYeckr1HMuQA&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779090673050&#038;ei=3fQXV5DFA4WphQGmobP4Bg&#038;url=http://www.reuters.com/article/us-brazil-politics-idUSKCN0XH20L'
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">BRASILIA</span> Beleaguered Brazilian President Dilma Rousseff will travel to New York in a bid to rally international support against her impeachment, leaving behind a Cabinet paralyzed by political crisis as another minister defected on Wednesday. </p></span><span id="midArticle_1"/><p>Rousseff aides said the leftist leader will attend a United Nations event on Friday in New York where she will denounce as illegal the attempt to impeach her, a process that could see her forced from office within weeks in a process she calls a "coup d'état without weapons." </p><span id="midArticle_2"/><p>Energy Minister Eduardo Braga said he was quitting her government following orders from his centrist PMDB party, Rousseff's main coalition partner until it abandoned her last month to back her ouster. Rousseff's impeachment would end 13 years of rule by the leftist Workers Party.</p><span id="midArticle_3"/><p>Nine ministers in Rousseff's 31-member cabinet have now resigned, leaving important portfolios without politically appointed heads, including the Tourism and Sports ministries only four months before Brazil hosts the Olympic Games. Rousseff may not even be president by the time the Games start.    </p><span id="midArticle_4"/><p>Vice President Michel Temer, who would take over if Rousseff is impeached, met with close advisors in Sao Paulo to study plans for a new government that, aides said, would move quickly to restore economic confidence and growth.</p><span id="midArticle_5"/><p>The crisis has paralyzed Brazil's ability to revive the economy from its worst recession in decades in the midst of a massive corruption scandal involving state-run oil firm Petrobras. </p><span id="midArticle_6"/><p>Murilo Portugal, the head of Brazil's most powerful banking industry lobby, has emerged as a strong candidate to become finance minister if Temer takes power, a source familiar with the matter said on Wednesday. [L2N17N0XF]</p><span id="midArticle_7"/><p>Rousseff lost a crucial vote in the lower house of Congress on Sunday and now faces impeachment by the Senate on charges of breaking budget laws. </p><span id="midArticle_8"/>
+        
+        <span class="first-article-divide"/><p>With the prospect of the Senate suspending her in three weeks, Rousseff canceled her trip to attend the signing of the Paris Agreement on climate change on Friday to focus on her political survival.</p><span id="midArticle_9"/><p>Two presidential aides said Rousseff would use her visit to New York to defend herself in interviews with international media.</p><span id="midArticle_10"/><span id="midArticle_11"/><p>"A RATHER UNUSUAL COUP" </p><span id="midArticle_12"/>
+        
+        <span class="second-article-divide"/><p>Rousseff says the accounting manipulation her administration used, putting off the transfer of funds to state banks, was a practice employed by previous governments. Her opponents say it allowed her to unfairly expand public spending and boost her re-election campaign in 2014. </p><span id="midArticle_13"/><p>Her government's legal appeals for injunctions to stop the impeachment process have been rejected by the Supreme Court.</p><span id="midArticle_14"/><p>Rousseff on Tuesday said the impeachment process was started by lower chamber Speaker Eduardo Cunha, who is charged with corruption and money laundering, out of revenge for her government not shielding him from ethics committee hearings.</p><span id="midArticle_15"/><p>She accused Temer, leader of the PMDB party, of plotting against her. During her trip to New York, Temer will temporarily assume the presidency, an irony not lost on his aides. </p><span id="midArticle_0"/>
+        
+        <span class="third-article-divide"/><p>"This is a rather unusual coup," said Temer's spokesman Marcio de Freitas. "She is going to the U.N. to denounce a coup but handing over power during her trip to the man she says is trying to overthrow her."</p><span id="midArticle_1"/><p>Her opponents have also traveled to the United States to defend the impeachment. Senate Foreign Relations Committee chairman Aloysio Nunes, of the opposition PSDB party, was in Washington this week to explain to U.S. government officials why the process is constitutional. </p><span id="midArticle_2"/><p>Nunes met his counterpart, Republican U.S. Senator Bob Corker, chairman of the Foreign Relations Committee, on Tuesday and was due to meet with the State Department's Under Secretary of State for Political Affairs, Tom Shannon, on Wednesday. </p><span id="midArticle_3"/><span id="midArticle_4"/><span id="midArticle_5"/><span id="midArticle_6"/><p> (Reporting by Lisandra Paraguassú and Antony Boadle; Editing by Daniel Flynn, Jeffrey Benkoe and Andrew Hay)</p><span id="midArticle_7"/></div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNF4h9LJu2IPXMyB03UYeckr1HMuQA&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779090673050&#038;ei=3fQXV5DFA4WphQGmobP4Bg&#038;url=http://www.reuters.com/article/us-brazil-politics-idUSKCN0XH20L">Source </a>

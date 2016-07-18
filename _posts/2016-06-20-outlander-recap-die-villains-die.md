@@ -1,0 +1,41 @@
+---
+ID: 4712
+post_title: 'Outlander Recap: Die, Villains, Die'
+author: Staff Writer
+post_date: 2016-06-20 02:23:14
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/outlander-recap-die-villains-die/
+published: true
+original_cats:
+  - Culture,Outlander,Starz,TV Recaps
+original_title:
+  - 'Outlander Recap: Die, Villains, Die'
+original_link:
+  - >
+    http://www.wired.com/2016/06/outlander-recap-s2e11/
+canonical_url:
+  - >
+    http://www.wired.com/2016/06/outlander-recap-s2e11/
+---
+ [ad_1]
+<br><div id=""><p>This week’s episode, “Vengeance is Mine,” looks away from war and toward a reckoning with the past. Before that reckoning can happen, though, the Jacobites are waiting for something to happen in Northern England. They’ve enjoyed a few successful campaigns, but there are five days and three British armies between the Jacobites and London.</p>
+<p>Charles Stuart meets with his advisors who, as usual, disagree on what to do. The prince wants to forge ahead to London to claim his divine throne, while the quartermaster and lord general think it best to retreat to Scotland so they can regroup, resupply, and recruit. Jamie sides with Stuart, teacher’s pet that he is, in order to change the future. Unfortunately, he’s the only one willing to forge ahead; history, it seems, is rather resistant to change.</p>
+
+As the Jacobites retreat to Scotland, they run into a troop of Redcoats and must scatter. Poor Rupert is injured (again!) during the chase, so they hole up in an abandoned church to regroup. Claire quickly shifts into Nurse Doctor mode and removes the bullet lodged in Rupert’s eye, promising him an eye patch like a pirate (though Rupert isn’t entirely clear on what a pirate is).<br/> <br/>Before the highlanders can catch their breath, the Redcoats threaten to burn the church down. Panic ensues: Jamie offers to bargain with the Redcoats, his chest swelling with heroism; Dougal, naturally, wants to fight; Claire, always so quick on her feet, begins crying out for help. There is, after all, nothing more sacred than an English woman’s virtue.<br/> <br/><figure attachment_2046979="" class="wp-caption landscape alignnone fader relative" data-js="fader"><img class="size-default-top-art wp-image-2046979" src="http://www.whenitson.com/wp-content/uploads/2016/06/Outlander-Recap-Die-Villains-Die.jpg" alt="Outlander1.jpg" width="582" height="437"/><figcaption class="wp-caption-text link-underline"><span class="credit link-underline-sm"><span aria-hidden="true" class="ui ui ui-photo inline-block ui-credit relative opacity-6 marg-r-sm marg-l-sm no-caption"/>Starz Entertainment</span></figcaption></figure><p>Jamie tries to dissuade Claire, but she is unmoved. Once again, this show separates Jamie and Claire in melodramatic fashion to move the story forward. Jamie tells Claire they’ll “fetch” her back, and with a quick kiss she says, “We will find each other. Trust in that.” I suppose this is what real romance is: constant torment.</p>
+<p>On their way to wherever, the Redcoats stop in a small town to rest their horses, and Claire learns that, contrary to her and Jamie’s assumption, she won’t be taken to the nearest British garrison. Instead, she will be taken to Belmont, which is not only closer, but is home to the Duke of Sandringham, who hasn’t changed one bit—still mustache-twirlingly evil. The duke, basically under house arrest for trying to help the Jacobite cause, proposes that Claire get Jamie to rescue the both of them. This being Sandringham, it’s reasonable to assume that ulterior motives lurk beneath the plan; still, Claire writes her missive in Gaelic and orders the duke to have his messenger deliver it to Jamie via a beggar named Monroe. (Also hanging out at Belmont: Mary Hawkins, who is apparently the duke’s goddaughter. Who knew?)</p>
+<p>Claire recognizes a birthmark on the hand of the duke’s valet, Danton. He’s one of the brigands who attacked Claire and Mary in Paris. The duke, it turns out, was owed a large sum of money by the Compte St. Germain, and told the Compte that merely having Claire raped would be revenge enough for his destroyed shipment. (He tells Claire this, <em>out loud</em>, and seems quite pleased with himself.) But the duke’s admissions aren’t over; he tells Claire that the Redcoats he sent away are not so far—the Frasers continue to be pawns in the Duke’s solipsistic machinations. Before Claire can slap the duke or otherwise reveal the force of her anger, the duke has her locked in her room.</p>
+<p>Monroe manages to find Jamie and Murtagh, which is so implausible as to be hysterical. Everyone in this show always manages to find who they need to find, exactly when they need to find them, without the convenience of good transportation or a GPS. Then again, Claire travels through time, so I suppose we can go along to get along.</p>
+<p>Back at Belmont, Mary wants Claire to take her away so she can avoid yet another terrible marriage. Mary is still meek and fragile and infuriating, so when Claire asks for a small favor (to warn Monroe about the trap, who is lurking about the manor), Mary, in her wheezy high-pitched voice, says, “Me? Go out in the night to meet a filthy beggar? Oh Claire, I couldn’t. I couldn’t <em>possibly</em>.” <em>Outlander</em> has a lot of feminist leanings, but poor Mary hasn’t caught the wave.</p>
+<p>Claire has enough restraint to not not slap Mary, but her exasperation is clear; she decides to go warn Monroe (and in turn, Jamie) herself. As she tries to sneak out of the house, she runs into Sandringham, having a snack in the kitchen sans wig. The duke continues to enjoy the sound of his own voice, this time pressing Claire for details on what befell the Compte. They are interrupted by Mary, whom the duke quickly dismisses, with no small amount of contempt.</p>
+<figure attachment_2046981="" class="wp-caption landscape alignnone fader relative" data-js="fader"><img class="size-default-top-art wp-image-2046981" src="http://www.whenitson.com/wp-content/uploads/2016/06/1466389394_635_Outlander-Recap-Die-Villains-Die.jpg" alt="Outlander3.jpg" width="582" height="437"/><figcaption class="wp-caption-text link-underline"><span class="credit link-underline-sm"><span aria-hidden="true" class="ui ui ui-photo inline-block ui-credit relative opacity-6 marg-r-sm marg-l-sm no-caption"/>Starz Entertainment</span></figcaption></figure><p>Mary runs for the front door, determined to finally get her shit together and be active in her own life, but she is grabbed by Danton before she can cross the threshold. Fortunately, Monroe is right by the front door and she warns him of the trap before being dragged to the kitchen, where she puts on a good show of saying she was trying to run away to avoid marrying Mr. Granger but it was oh so cold and dark out in the real world. Could it be that Mary is finding her feminism? At the very least, she is growing up.</p>
+<p>Suddenly, Jamie shows up in the kitchen. Yup. He and Murtagh just strolled into the house. Of course they did. Danton grabs Claire and holds a knife to her throat. The duke dons his wig because …he’s a duke, I guess? Soon, all the truths of Paris come spilling out, and the duke’s underhanded schemes and Danton’s true identity are brought to light. Mary, enjoying the taste of being a grown woman, stabs Danton, who perishes. Murtagh takes an axe to the duke, several times, separating the duke from his head, which he offers to the women, saying, “I kept my word. I lay my vengeance at your feet.”</p>
+<p>There are only two episodes left this season. As we look ahead, much of what transpired in Paris has been resolved, and I’ll admit, it is satisfying that the villains of Paris—Sandringham, Danton, St. Germain—are all dead. They will not be mourned. But there is still the question of Black Jack Randall, and the reckoning he is due. The battle of Culloden and the fate of the highlanders also looms. The past and the future are going to collide. What we don’t know is who will be left standing.</p>
+
+			<a class="visually-hidden skip-to-text-link focusable bg-white" href="#start-of-content">Go Back to Top. Skip To: Start of Article.</a>
+
+			
+</div>
+<br>[ad_2]
+<br><a href="http://www.wired.com/2016/06/outlander-recap-s2e11/">Source </a>

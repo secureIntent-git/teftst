@@ -1,0 +1,38 @@
+---
+ID: 4839
+post_title: >
+  An activist campaign seeks to shame U.S.
+  companies over Trump
+author: Staff Writer
+post_date: 2016-06-24 10:50:00
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/an-activist-campaign-seeks-to-shame-u-s-companies-over-trump/
+published: true
+original_cats:
+  - domesticNews
+original_title:
+  - >
+    An activist campaign seeks to shame U.S.
+    companies over Trump
+original_link:
+  - >
+    http://feeds.reuters.com/~r/Reuters/domesticNews/~3/esax7cG9GTg/us-usa-election-companies-idUSKCN0ZA1QX
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/Reuters/domesticNews/~3/esax7cG9GTg/us-usa-election-companies-idUSKCN0ZA1QX
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="7"><p><span class="articleLocatio&lt;/span&gt;n">Disturbed by Donald Trump's presidential campaign, U.S. activists have taken out online advertisements, circulated petitions, put up billboards and even chipped in for an airplane banner to try to shame companies into dropping their sponsorships of the Republican National Convention in July.</span></p></span><span id="midArticle_1"/><p>The campaign, led by the political arm of California-based advocacy group Color of Change, seeks to weaken Trump's White House bid by pressuring companies to skip the Cleveland convention where he is expected to formally become the nominee.</p><span id="midArticle_2"/><p>"The fact of the matter is that any employee of these Fortune 500 companies that are sponsoring the convention, if any of those employees went into their job and said the things Donald Trump is saying, they'd be fired," said Rashad Robinson, spokesman for Color of Change PAC.</p><span id="midArticle_3"/><p>Minority groups and others have been outraged by Trump's rhetoric and positions on immigration, including proposals to temporarily ban Muslims from entering the country, deport millions of immigrants who enter illegally and build a wall along the Mexican border.</p><span id="midArticle_4"/><p>The anti-Trump effort, which has yielded mixed results, has included letters to executives of more than 30 companies including Coca-Cola and Apple Inc, and conversations with officials at Amazon, Hewlett-Packard and others.</p><span id="midArticle_5"/><p>In the case of Coca-Cola, Color of Change circulated a petition accompanied by images showing a soda bottle labeled "Share a Coke with the KKK." The Ku Klux Klan, or KKK, is a white supremacist group.</p><span id="midArticle_6"/><p>Companies sponsor conventions for a variety of reasons. Some are local and want to show support. Others hope to make an impression with elected officials or to display their brands on a nationally televised event.</p><span id="midArticle_7"/><p>The most public aspect of the activist campaign focused on Google Inc. In April, several groups partnered on a petition they delivered to the tech giant's campus with half a million signatures urging Google to skip the gathering. </p><span id="midArticle_8"/><p>"Really big companies don't have any motivation to pull their support in any way without some pressure from everyday people, from their customers," said Mary Alice Crim of Free Press Action Fund, which joined the campaign.</p><span id="midArticle_9"/><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><p>'DUMP' TRUMP BANNER</p><span id="midArticle_11"/><p>Color of Change and three other groups added to the pressure by chipping in for an airplane banner while they were on Google's campus urging it to "Dump" Trump.   </p><span id="midArticle_12"/><p>In May, Color of Change used "geofenced" online ads, confined to smartphones in a specific area targeted to Google workers, showing Trump with an upturned nose and a crown on his head, according to an image provided to Reuters. Another group, CREDO Action, placed anti-Trump ads on Facebook aimed at people who listed Google as their employer. </p><span id="midArticle_13"/><p>Color of Change placed billboards in San Francisco showing Trump in a red baseball cap emblazoned with "Make America Hate Again," a play on the candidate's "Make America Great Again" slogan.</p><span id="midArticle_14"/><p>A separate group led by the United Food &amp; Commercial Workers International Union sent retail giant Wal-Mart Stores Inc a letter urging it to withdraw support for the Republican gathering. Color of Change signed onto the letter.</p><span id="midArticle_15"/>
+        
+        <span class="second-article-divide"/><p>"As you must know, Mr. Trump has implied that Mexican immigrants are drug dealers and rapists," said the letter from Making Change at Wal-Mart, which became public on Thursday. </p><span id="midArticle_0"/><p>"If you do choose to remain silent, we must ask: Are Mr. Trump's values the same as Walmart's values?"</p><span id="midArticle_1"/><span id="midArticle_2"/><p>DECISION TIME  </p><span id="midArticle_3"/><p>The effort appears to have had little effect on overall fund-raising for Cleveland. Emily Lauer, a spokeswoman, said the event is on track to raise the $64 million needed to meet its budget. Trump spokeswoman Hope Hicks declined to comment.</p><span id="midArticle_4"/>
+        
+        <span class="third-article-divide"/><p>Some companies that gave to the convention in 2012 have decided not to do so again, such as Hewlett-Packard, which gave computer equipment and a monetary donation in 2012. Others, like Wal-Mart, have scaled back their contributions.</p><span id="midArticle_5"/><p>None of these companies, when reached by Reuters, attributed the moves to Trump or outside pressure. Most said they would provide similar support to both parties' conventions, though the full level of corporate support will not be clear until government filings become available afterwards.</p><span id="midArticle_6"/><p>Wal-Mart spokesman Greg Hitt said the company gave $15,000 to both parties' conventions, less than the $150,000 it gave the Republican gathering in 2012, according to government filings. </p><span id="midArticle_7"/><p>Others have not detailed all their plans. Google, for example, will offer live-streaming services in Cleveland, but a company spokeswoman would not tell Reuters whether Google will also contribute cash.</p><span id="midArticle_8"/><p>Robinson said companies have been more responsive behind the scenes. He said after exchanges with Coca-Cola, the company informed them it would not give more than the $75,000 it already had donated, less than it gave the 2012 Republican gathering. Coca-Cola told Reuters its support for the conventions does not represent an endorsement.</p><span id="midArticle_9"/><p>Heidi Hess of CREDO Action said the emphasis on corporate sponsorship would not end with the July 18-21 convention.</p><span id="midArticle_10"/><p>"I think there's still some conversation to be had about, if corporations actually do sponsor the convention, then how do we hold them accountable afterward?" Hess said.</p><span id="midArticle_11"/><span id="midArticle_12"/><p> (Additional reporting by Meg Garner, Deborah Todd, Lisa Baertlein and Julia Love; Editing by Richard Valdmanis and Howard Goller)</p><span id="midArticle_13"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/Reuters/domesticNews/~3/esax7cG9GTg/us-usa-election-companies-idUSKCN0ZA1QX">Source </a>

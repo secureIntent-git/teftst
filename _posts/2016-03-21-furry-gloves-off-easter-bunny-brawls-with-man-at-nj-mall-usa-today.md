@@ -1,0 +1,32 @@
+---
+ID: 2048
+post_title: 'Furry gloves off: Easter bunny brawls with man at NJ mall &#8211; USA TODAY'
+author: Staff Writer
+post_date: 2016-03-21 16:55:12
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/furry-gloves-off-easter-bunny-brawls-with-man-at-nj-mall-usa-today/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Furry gloves off: Easter bunny brawls with man at NJ mall - USA TODAY'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFEtXaIe7InSMAL8vK-cwhwDckkuw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779066545802&#038;ei=QybwVpCvNOO0wAG0tbHIDA&#038;url=http://www.usatoday.com/story/news/nation-now/2016/03/21/furry-gloves-off-easter-bunny-brawls-man-nj-mall/82073946/'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFEtXaIe7InSMAL8vK-cwhwDckkuw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779066545802&#038;ei=QybwVpCvNOO0wAG0tbHIDA&#038;url=http://www.usatoday.com/story/news/nation-now/2016/03/21/furry-gloves-off-easter-bunny-brawls-man-nj-mall/82073946/'
+---
+ [ad_1]
+<br><div role="main" itemprop="articleBody" readability="28.040114613181"><!-- cxenseparse_start --><div id="module-position-O5caWAaGliM" class="story-asset video-asset"><div class="ui-video-wrapper" itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject" readability="6.5"><div class="ui-video story-video inline-story-video priority" style="width: 540px; height: 304px;"><meta itemprop="width" content="540"/><meta itemprop="height" content="304"/><meta itemprop="thumbnailUrl" content="http://videos.usatoday.net/Brightcove2/29906170001/2016/03/29906170001_4810226906001_thumb-Buzz60video2781677217724296899.jpg?pubId=29906170001"/><meta itemprop="contentURL" content="http://www.usatoday.com/videos/news/2016/03/21/82067922/"/><meta itemprop="uploadDate" content="3/21/2016 8:30:27 AM"/><meta itemprop="expires" content=""/><img class="ui-video-still-image ui-video-still-image-active js-asset-image" src="http://www.whenitson.com/wp-content/uploads/2016/03/Furry-gloves-off-Easter-bunny-brawls-with-man-at-NJ-mall-USA-TODAY.jpg" width="540" height="304" alt=""/></div><div class="ui-video-controls story-video inline-story-video priority" style="width: 540px;" readability="8"><p class="video-desc" itemprop="description">
+    What do you tell your kids when the Easter Bunny stops suddenly gets into a fist fight at the local mall? Buzz60's Keri Lumm has the pictures.
+    <span class="credit">Buzz60</span></p></div></div></div><div id="module-position-O5caWAaJe0g" class="story-asset story-metadata-asset"><div class="article-metadata-wrap"><section id="module-position-O5caV-lojrU" class="storymetadata-bucket expandable-photo-module story-expandable-photo-module" readability="1"><aside itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="single-photo expandable-collapsed" readability="2"><div class="image-wrap"><img class="expand-img-horiz" itemprop="url" src="http://www.gannett-cdn.com/-mm-/75bd95d7915a55a5d65900cd85db4dcc692f4c9c/c=254-0-1491-930&amp;r=x404&amp;c=534x401/local/-/media/2016/03/21/USATODAY/USATODAY/635941571908138099-Screen-Shot-2016-03-21-at-10.33.51-AM.jpg" alt="635941571908138099-Screen-Shot-2016-03-21-at-10.33.51-AM.jpg" data-mycapture-src="http://www.gannett-cdn.com/media/2016/03/21/USATODAY/USATODAY/635941571908138099-Screen-Shot-2016-03-21-at-10.33.51-AM.jpg" data-mycapture-sm-src="http://www.whenitson.com/wp-content/uploads/2016/03/1458579312_501_Furry-gloves-off-Easter-bunny-brawls-with-man-at-NJ-mall-USA-TODAY.jpg"/><span class="toggle"/><meta itemprop="name" content="635941571908138099-Screen-Shot-2016-03-21-at-10.33.51-AM.jpg"/></div><p class="image-credit-wrap"><span class="js-caption-wrapper"><span class="cutline js-caption">An Easter Bunny Brawl.</span><meta itemprop="copyrightHolder" content=""/><span class="credit">(Photo: Buzz60)</span></span></p></aside></section></div></div><p>The Easter Bunny has a decent right hook.</p><p>So shows surveillance footage from a New Jersey mall, where a man dressed as the mythic rabbit brawled with a father who's child slid off a chair during a photo op.</p><p>Police responded to the scuffle at Jersey City's Newport Mall Sunday, where a 22-year-old playing the mall's Easter Bunny said a 1-year-old girl had slipped while sitting for the picture, the <a href="http://www.nj.com/hudson/index.ssf/2016/03/nj_mall_brawl_started_after_child_slips_from_easte.html"><em>New Jersey Star-Ledger</em> reported</a>.</p><p>The girl's father became upset, leading to verbal and physical violence. After an initial altercation, footage shows the 22-year-old returning to throw off his white-furred gloves and charge at man as a crowd watches.</p><p>Both the father and the man playing the bunny were reportedly taken to a medical center with minor injuries with charges yet to be filed.</p><p><em>Follow Josh Hafner on Twitter: </em><a href="https://twitter.com/joshhafner"><em>@joshhafner</em></a></p><div id="module-position-O5caWAaPaPQ" class="story-asset oembed-asset"><div class="story-oembed-wrap "><div class="js-oembed story-oembed story-oembed-usa-today story-oembed-type-link" data-oembed-type="link" data-oembed-provider="usa-today"><style><![CDATA[
+.oembed-asset-link { background: #fff; border-bottom: 1px solid #e1e1e1; }
+.oembed-link-anchor { display: block; clear: both; }
+.oembed-link-thumbnail{ float: left; padding: 14px; }
+.oembed-link-thumbnail img { max-width: 78px; max-height: 60px; display: block; }
+p.oembed-link-title { font-size: 75%; color: #009BFF; margin: 0 14px; padding-top: 12px; font-weight:normal; text-align: left; line-height: 120%;  }
+p.oembed-link-desc { font-size: 100%; color: #666; font-weight: normal; margin: 0 14px 14px 14px; font-family: 'Futura Today Light'; text-align: left; line-height: 120%; }
+]]></style></div></div></div><!-- cxenseparse_end --><p>Read or Share this story: http://usat.ly/1o1XnNN</p></div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFEtXaIe7InSMAL8vK-cwhwDckkuw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779066545802&#038;ei=QybwVpCvNOO0wAG0tbHIDA&#038;url=http://www.usatoday.com/story/news/nation-now/2016/03/21/furry-gloves-off-easter-bunny-brawls-man-nj-mall/82073946/">Source </a>

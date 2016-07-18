@@ -1,0 +1,38 @@
+---
+ID: 2541
+post_title: >
+  Mega deals morph into mega problems for
+  Wall Street
+author: Staff Writer
+post_date: 2016-04-07 06:00:08
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/mega-deals-morph-into-mega-problems-for-wall-street/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    Mega deals morph into mega problems for
+    Wall Street
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/FrgfkY3OTBQ/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/FrgfkY3OTBQ/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="4"><p><span class="articleLocation">NEW YORK/LONDON</span> If 2015 was a dream year for Wall Street's top dealmakers, 2016 is starting to take a nightmarish turn.</p></span><span id="midArticle_1"/><p>Some of the mega transactions that had champagne corks popping in boardrooms are running into antitrust problems and, in the case of pharmaceutical firm Pfizer Inc's (<span id="symbol_PFE.N_0">PFE.N</span>) $160 billion takeover of rival Allergan PLC (<span id="symbol_AGN.N_1">AGN.N</span>), political opposition to a deal that envisaged the biggest drug company in the United States moving to Ireland to lower its taxes.</p><span id="midArticle_2"/><p>The U.S. Treasury unveiled new rules this week that, while they did not name Pfizer and Allergan, had provisions that targeted a specific feature of their agreement and prompted both parties to walk away from what would have been the second-largest deal of all time.</p><span id="midArticle_3"/><p>The move by the Obama administration to suddenly change the rules has sent a chilling message to dealmakers and comes on top of a number of legal challenges to big transactions such as Halliburton Co's (<span id="symbol_HAL.N_2">HAL.N</span>) takeover of rival oil services company Baker Hughes Inc (<span id="symbol_BHI.N_3">BHI.N</span>) on antitrust grounds.</p><span id="midArticle_4"/><p>The political uncertainty and antitrust concerns mean that firms will think twice about future tie-ups that consolidate industries and move tax dollars offshore.</p><span id="midArticle_5"/><p>"As uncertainty increases on multiple fronts, companies are markedly more cautious and the number of transformational deals worth $10 billion or more has significantly dropped this quarter compared to last year," said Luigi Rizzo, head of mergers and acquisitions (M&amp;A) for Europe, the Middle East and Africa at Bank of America Merrill Lynch.</p><span id="midArticle_6"/><p>The new U.S. rules do not directly affect most inversion deals, in which an American company buys a foreign counterpart and then moves abroad to lower its tax bill, but they have sent a message to company bosses about the risks of attempting to move their tax addresses overseas.</p><span id="midArticle_7"/><p>Intercontinental Exchange Inc (<span id="symbol_ICE.N_4">ICE.N</span>), the U.S. exchange considering a bid for the London Stock Exchange Group PLC (<span id="symbol_LSE.L_5">LSE.L</span>), has ruled out structuring any possible deal for the LSE as an inversion, despite it being possible to do so, according to people familiar with the internal deliberations, who declined to be identified.</p><span id="midArticle_8"/><p>Intercontinental Exchange declined to comment.</p><span id="midArticle_9"/>
+        
+        <span class="first-article-divide"/><p>Tax inversions have been a political hot button issue in Washington for years.</p><span id="midArticle_10"/><p>The rules unveiled this week were the Obama administration's third effort to stop U.S. companies renouncing their American citizenship but they are only a temporary stopgap.</p><span id="midArticle_11"/><p>Formal legislation to overhaul U.S. tax rules would be needed to bring a permanent end to the practice.</p><span id="midArticle_12"/><p>"We have succeeded in making it significantly harder for companies to strike inversion deals and redomicile overseas," said U.S. congressman Peter Welch. "But we still need action in Congress."</p><span id="midArticle_13"/><p>With a U.S. presidential campaign looming later this year there is much uncertainty about what shape such legislation would take, making deals all the more difficult to strike. </p><span id="midArticle_14"/>
+        
+        <span class="second-article-divide"/><span id="midArticle_15"/><p>UNIQUE CHALLENGES</p><span id="midArticle_0"/><p>Last year was a record for M&amp;A and a bumper year for mega matches. Out of the $4.6 trillion in deals inked, the number of individual transactions that exceeded $30 billion in value was 18 compared with seven deals worth more than $30 billion in 2014, Thomson Reuters data showed.</p><span id="midArticle_1"/><p>But the consequence of greater consolidation is increased scrutiny by antitrust officials. That was exemplified on Wednesday by the U.S. government filing a lawsuit to stop Halliburton from buying Baker Hughes, arguing the combination of the No. 2 and No. 3 oil services companies would lead to higher prices in the sector.</p><span id="midArticle_2"/>
+        
+        <span class="third-article-divide"/><p>The Justice Department and Federal Trade Commission (FTC), which enforce antitrust law, have filed lawsuits to stop an unusually high number of deals in the past 18 months. FTC officials are in court this week to block a merger between Staples Inc (<span id="symbol_SPLS.O_6">SPLS.O</span>) and Office Depot Inc (<span id="symbol_ODP.O_7">ODP.O</span>).</p><span id="midArticle_3"/><p>"It isn't just the number of proposed deals that makes this a unique moment in antitrust enforcement; it's their size and their complexity," U.S. Attorney General Loretta Lynch said in a speech on Wednesday.</p><span id="midArticle_4"/><p>"This represents a remarkable shift toward consolidation and it presents unique challenges to federal enforcers in our work to maintain markets that serve not just top executives and majority shareholders, but every American."</p><span id="midArticle_5"/><p>In Europe, meanwhile, talks between Orange SA (<span id="symbol_ORAN.PA_8">ORAN.PA</span>) and Bouygues SA (<span id="symbol_BOUY.PA_9">BOUY.PA</span>) to create a dominant French telecoms operator collapsed last week, amid competition concerns and a stand-off between Martin Bouygues and French Economy Minister Emmanuel Macron about the clout the billionaire would have gained in the former state monopoly, according to people familiar with the matter.</p><span id="midArticle_6"/><p>For bankers, scuttled deals cost money.</p><span id="midArticle_7"/><p>Investment banks on the Pfizer and Allergan deal, including Goldman Sachs, JP Morgan, Centerview and Moelis, lost more than $200 million in fees when the companies walked, showed data from consultancy Freeman &amp; Co.</p><span id="midArticle_8"/><p>Faced with greater hurdles to get deals through, some investment bankers are rethinking how they want to structure their payoffs, including trying to get more cash upfront rather than a big check after a deal closes, said a person familiar with the matter.</p><span id="midArticle_9"/><span id="midArticle_10"/><p> (Carl O'Donnell in NEW YORK and Pamela Barbaglia in LONDON; Additional reporting by Greg Roumeliotis, John McCrank and Diane Bartz; Editing by Carmel Crimmins and Christopher Cushing)</p><span id="midArticle_11"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/FrgfkY3OTBQ/story01.htm">Source </a>

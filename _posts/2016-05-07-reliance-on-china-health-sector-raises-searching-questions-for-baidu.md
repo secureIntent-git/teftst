@@ -1,0 +1,38 @@
+---
+ID: 3409
+post_title: >
+  Reliance on China health sector raises
+  searching questions for Baidu
+author: Staff Writer
+post_date: 2016-05-07 05:31:05
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/reliance-on-china-health-sector-raises-searching-questions-for-baidu/
+published: true
+original_cats:
+  - technologyNews
+original_title:
+  - >
+    Reliance on China health sector raises
+    searching questions for Baidu
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/foMDO0d0LOs/us-china-baidu-search-idUSKCN0XY01V
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/foMDO0d0LOs/us-china-baidu-search-idUSKCN0XY01V
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="7"><p><span class="articleLocation">BEIJING</span> The death of a student following experimental cancer treatment he found through China's biggest search engine, Baidu Inc, has exposed the faultlines in the company's business model, which relies heavily on income from the country's lightly regulated health sector.</p></span><span id="midArticle_1"/><p>Before his death, student Wei Zexi, 21, criticized the military-run hospital that provided the failed treatment for misleading claims about its effectiveness and accused Baidu, which controls 80 percent of the Chinese search market, of promoting false medical information.</p><span id="midArticle_2"/><p>This week the health ministry began an investigation into the hospital, while the internet regulator began an investigation into Baidu.</p><span id="midArticle_3"/><p>The regulators have not said what, if any, offences or regulations might have been broken and did not respond to requests for comment.</p><span id="midArticle_4"/><p>Analysts at Daiwa said regulators could be checking for compliance with China's Advertisements Law, which says medical sector advertising should not contain assertions about effectiveness. </p><span id="midArticle_5"/><p>Baidu said it was also conducting an investigation and would fully cooperate with the regulator.</p><span id="midArticle_6"/><p>It is not clear that conventional treatment - typically surgery to remove the tumor - would have cured the rare synovial sarcoma that Wei suffered from.</p><span id="midArticle_7"/><p>Reuters has not been able to reach the hospital for comment. </p><span id="midArticle_8"/><p>Baidu has come in for fierce online criticism for how it handles adverts within its search results, especially from an industry as sensitive as healthcare, which analysts at Nomura and Daiwa say provides 20 to 30 percent of its search revenues.</p><span id="midArticle_9"/><p>In 2015 search revenues were 55.7 billion yuan ($8.6 billion), or 84 percent of Baidu's total sales.</p><span id="midArticle_10"/><p>"Whatever page you're looking at on Baidu is a mess of adverts," said username FreedLiu on China's Weibo microblog, discussing Wei. "They're profiting from loads of people who don't know Baidu auctions (its search results)."</p><span id="midArticle_11"/><p>Baidu said it applied particular vigilance to healthcare customers, with screening for misleading adverts and a verification program with additional scrutiny for medical advertisers.</p><span id="midArticle_12"/>
+        
+        <span class="first-article-divide"/><p>"Over the years, we have proactively cleaned up the customer base," a company spokeswoman said by email.</p><span id="midArticle_13"/><p>It is not the first time the company has fallen foul of regulators and public opinion for its handling of healthcare ads and blogs, though it has not suffered substantive sanctions.</p><span id="midArticle_14"/><p>In 2008 it said it would overhaul its operations after state media said it let unlicensed medical service providers buy high search rankings. The hospital that treated Wei, however, is licensed by the Beijing municipal government.</p><span id="midArticle_15"/><p>And in January Baidu apologized for management failures when the internet regulator found illegal content in its search results and online forums, including ads for unlicensed clinics. Baidu also sold the rights to manage a disease discussion site to a company selling treatment for that illness, forum users said.</p><span id="midArticle_0"/><p>"Baidu has had issues come up about the types of medical ads they accept since 2008," said Mark Natkin, managing director of Marbridge Consulting in Beijing.</p><span id="midArticle_1"/><span id="midArticle_2"/>
+        
+        <span class="second-article-divide"/><p>BAD PRESS</p><span id="midArticle_3"/><p>Like most search engines, Baidu places paid-for ads in its search results, but in a series of Reuters search tests it included at least twice as many ads as Alphabet Inc's Google, which is blocked in China, and placed them higher in its list.</p><span id="midArticle_4"/><p>Though Baidu marks such items as promotions, Google also highlights the word "Ad" in a yellow box.</p><span id="midArticle_5"/><p>Baidu's spokeswoman said the number of adverts on a page depended on the search subject and whether it was on PC or mobile, but declined to give specifics for healthcare-related searches.</p><span id="midArticle_6"/><p>Google's policies list a string of restrictions on healthcare advertising, and several searches by Reuters for health-related terms on the search engine produced no adverts.</p><span id="midArticle_7"/><p>Baidu's smaller local rival Qihoo 360 Technology Co said it does not support healthcare industry adverts.</p><span id="midArticle_8"/>
+        
+        <span class="third-article-divide"/><p>Baidu said its requirements for healthcare ads "are not public information, and we can only share that with our advertising customers".</p><span id="midArticle_9"/><p>Criticism in several state media outlets this week suggests a hardening attitude in government.</p><span id="midArticle_10"/><p>"Pursuing profits is not wrong, but putting profits over helpless patients' lives is against any ethical standards," said a column in the official People's Daily on Monday.</p><span id="midArticle_11"/><p>Any decision by authorities to restrict healthcare advertising could have a material impact on Baidu's earnings, a concern that has contributed to a sharp fall in its shares in the last three sessions.</p><span id="midArticle_12"/><p>The regulator did not return requests for comment on the possibility of any such action.</p><span id="midArticle_13"/><p>Daiwa said 10-15 percent of Baidu's search revenue could evaporate under a worst-case scenario.</p><span id="midArticle_14"/><p>Even without such measures, the damage to Baidu's reputation could hit it in the pocket.</p><span id="midArticle_15"/><p>"The overwhelming negative press coverage over this incident could once again shake Internet users’ trust in Baidu’s search results, especially when people search for healthcare-related information," said Nomura.</p><span id="midArticle_0"/><p>"This would, in turn, affect the performance for healthcare-related ads on Baidu, in our view."</p><span id="midArticle_1"/><span id="midArticle_2"/><span id="midArticle_3"/><p> (Reporting by Paul Carsten; Additional reporting by Beijing Newsroom and Adam Jourdan in Shanghai; Editing by Will Waterman)</p><span id="midArticle_4"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/technologyNews/~3/foMDO0d0LOs/us-china-baidu-search-idUSKCN0XY01V">Source </a>

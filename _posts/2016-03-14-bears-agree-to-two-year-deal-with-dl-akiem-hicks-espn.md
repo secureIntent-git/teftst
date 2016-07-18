@@ -1,0 +1,24 @@
+---
+ID: 1819
+post_title: 'Bears agree to two-year deal with DL Akiem Hicks &#8211; ESPN'
+author: Staff Writer
+post_date: 2016-03-14 03:05:06
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/bears-agree-to-two-year-deal-with-dl-akiem-hicks-espn/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Bears agree to two-year deal with DL Akiem Hicks - ESPN'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNGQ7Fj7U6pgsL_fhvVJBi2rHS4RWg&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779061654451&#038;ei=YSrmVriKLuWzwQHPlYfYAw&#038;url=http://espn.go.com/nfl/story/_/id/14967496/dl-akiem-nicks-agrees-two-year-deal-chicago-bears'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNGQ7Fj7U6pgsL_fhvVJBi2rHS4RWg&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779061654451&#038;ei=YSrmVriKLuWzwQHPlYfYAw&#038;url=http://espn.go.com/nfl/story/_/id/14967496/dl-akiem-nicks-agrees-two-year-deal-chicago-bears'
+---
+ [ad_1]
+<br><div readability="84.420389926889"><p>CHICAGO -- The Bears agreed to terms with defensive lineman Akiem Hicks on a two-year contract, the team announced late Sunday.</p><p>Hicks is the third veteran free agent defender to join the Bears since the onset of free agency, along with inside linebackers <a href="http://espn.go.com/nfl/player/_/id/15074/danny-trevathan">Danny Trevathan</a> and Jerrell Freeman.</p><aside class="inline inline-photo full"><figure><picture><!--[if IE 9]><video style="display: none;"><![endif]--><source data-srcset="http://a.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F1226%2Fr39087_1296x729_16%2D9.jpg&amp;w=570, http://a.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F1226%2Fr39087_1296x729_16%2D9.jpg&amp;w=1140&amp;cquality=40 2x" media="(min-width: 376px)"><source data-srcset="http://a.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F1226%2Fr39087_1296x729_16%2D9.jpg&amp;w=375, http://a.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F1226%2Fr39087_1296x729_16%2D9.jpg&amp;w=750&amp;cquality=40 2x" media="(max-width: 375px)"><!--[if IE 9]></video><p><![endif]--><img class=" lazyload lazyload" data-image-container=".inline-photo"/></source></source></picture><figcaption class="photoCaption">Akiem Hicks had 22 tackles and added three sacks and a fumble recovery for a touchdown with the Patriots in 2015 after he was acquired in a trade from the Saints. <cite>David Butler II/USA TODAY Sports</cite></figcaption></figure></aside><p>At 6-foot-5, 324-pounds, Hicks is a veteran of 3-4 defenses who should be an upgrade up front. The Bears struggled in the trenches in 2015, allowing 3.03 yards before initial contact, the third worst in the NFL, according to ESPN Stats &amp; Information.</p><p>The Lions and Patriots had interest in Hicks, who spent the entire weekend visiting Chicago.</p><p>Hicks is expected to start on the Bears' defensive line next to second-year nose tackle <a href="http://espn.go.com/nfl/player/_/id/2969924/eddie-goldman">Eddie Goldman</a>. The club also re-signed veteran reserve defensive lineman Mitch Unrein on Saturday, but one of last year's starting defensive ends, Jarvis Jenkins, is reportedly close to a deal with the <a href="http://espn.go.com/nfl/team/_/name/nyj/new-york-jets">New York Jets</a>.</p><p>Hicks started 30 games in New Orleans over the 2013 and 2014 seasons, but fell out of favor in 2015 as he was utilized more as an end than an interior player. That ultimately led to him being traded to New England on Oct. 1 in exchange for tight end Michael Hoomanawanui.</p><p>In New England, Hicks played in 13 regular-season games (301 snaps) and both playoff contests, all as a reserve. The Patriots used him more as an interior player, both on early downs and in obvious passing situations, which seems to suit his strengths as a player.</p><p>Hicks was credited with 21 tackles and added three sacks and a fumble recovery for a touchdown during the 2015 regular season with the Patriots.</p><p>Because of his combination of size, playing strength, age (26), and playing a premium position, Hicks was expected to draw the most league-wide interest of a modest crop of New England free agents.</p><p>Hicks entered the NFL as a third-round draft choice of the New Orleans Saints in 2012. He played in college at Regina, transferring there from LSU.</p><p><i>ESPN Patriots reporter Mike Reiss contributed to this report.</i></p>
+</div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNGQ7Fj7U6pgsL_fhvVJBi2rHS4RWg&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779061654451&#038;ei=YSrmVriKLuWzwQHPlYfYAw&#038;url=http://espn.go.com/nfl/story/_/id/14967496/dl-akiem-nicks-agrees-two-year-deal-chicago-bears">Source </a>

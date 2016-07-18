@@ -1,0 +1,38 @@
+---
+ID: 1455
+post_title: >
+  New bin Laden documents show a
+  suspicious, pressured al Qaeda
+author: Staff Writer
+post_date: 2016-03-01 11:50:10
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/new-bin-laden-documents-show-a-suspicious-pressured-al-qaeda/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    New bin Laden documents show a
+    suspicious, pressured al Qaeda
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/rRfdnNrB_Uc/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/rRfdnNrB_Uc/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="7"><p><span class="articleLocation">WASHINGTON</span> Al Qaeda's leaders were increasingly worried about spies in their midst, drones in the air and secret tracking devices reporting their movements as the U.S.-led war against them ground on, documents seized in the 2011 raid on Osama bin Laden's Pakistani hideout and reviewed by Reuters reveal.</p></span><span id="midArticle_1"/><p>The cache of 113 documents, translated and declassified by U.S. intelligence agencies, are mostly dated between 2009 and 2011, intelligence officials said.</p><span id="midArticle_2"/><p>The documents - the second tranche from the raid to have been declassified since May 2015 - depict an al Qaeda that was unwavering in its commitment to global jihad, but with its core leadership in Pakistan and Afghanistan under pressure on multiple fronts.</p><span id="midArticle_3"/><p>U.S. President Barack Obama has said drone strikes and other counter-terrorism operations depleted al Qaeda's original leadership, culminating in bin Laden's killing by U.S. Navy SEALs on May 2, 2011. In the years since, the organization has proved resilient from Afghanistan to North Africa, and its ideological rival, Islamic State, has grown and spread.</p><span id="midArticle_4"/><p>In one document, bin Laden issues instructions to al Qaeda members holding an Afghan hostage to be wary of possible tracking technology attached to the ransom payment.</p><span id="midArticle_5"/><p>"It is important to get rid of the suitcase in which the funds are delivered, due to the possibility of it having a tracking chip in it," bin Laden states in a letter to an aide identified only as "Shaykh Mahmud."</p><span id="midArticle_6"/><p>In an apparent reference to armed U.S. drones patrolling the skies, bin Laden says his negotiators should not leave their rented house in the Pakistani city of Peshawar "except on a cloudy overcast day."</p><span id="midArticle_7"/><p>While the document is undated, the hostage, Afghan diplomat Abdul Khaliq Farahi, was held from September 2008 to late 2010.</p><span id="midArticle_8"/><p>Another, fragmentary document acknowledges that al Qaeda executed four would-be volunteers on suspicion of spying, only to discover they were probably innocent, according to senior U.S. intelligence officials authorized to discuss the materials in advance of their public release.</p><span id="midArticle_9"/><p>"I did not mention this to justify what has happened," wrote the undated letter's unidentified author, adding, "we are in an intelligence battle and humans are humans and no one is infallible."</p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><p>In a May 11, 2010 letter to his then second-in-command, Atiyah Abd al Rahman, bin Laden urged caution in arranging an interview with al Jazeera journalist Ahmad Zaidan, asserting that the United States could be tracking his movements through devices implanted in his equipment, or by satellite. </p><span id="midArticle_11"/><p>"You must keep in mind the possibility, however, slight, that journalists can be under surveillance that neither we nor they can perceive, either on the ground or via satellite," he wrote.</p><span id="midArticle_12"/><span id="midArticle_13"/><p>GROWING PRESSURE</p><span id="midArticle_14"/><p>Even as al Qaeda came under growing pressure, bin Laden and his aides planned a media campaign to mark the 10th anniversary of the September 11, 2001 attacks on New York and Washington, the documents show. They plotted diplomatic strategy and opined on climate change and the U.S. financial collapse.</p><span id="midArticle_15"/>
+        
+        <span class="second-article-divide"/><p>In a undated letter "To the American people," the al Qaeda chief chides Obama for failing to end the war in Afghanistan; and accurately predicts that the U.S. president's plan for ending the Israeli-Palestinian conflict will fail.</p><span id="midArticle_0"/><p>On April 28, 2011, just four days before his death, bin Laden was editing a document he had written on the Arab Spring revolutions.</p><span id="midArticle_1"/><p>Al Qaeda's leaders also urged further attacks on the United States. "We need to extend and develop our operations in America and not keep it limited to blowing up airplanes," says a letter, apparently written by bin Laden, to Nasir al-Wuhayshi, head of al Qaeda's Yemen branch.</p><span id="midArticle_2"/><p>Bin Laden "was still sort of thinking in very kind of grand schemes, and still ... trying to reclaim that 9/11 'victory'," said one of the senior intelligence officials, speaking on condition of anonymity.</p><span id="midArticle_3"/><p>But he was "somewhat out of touch with the (actual) capabilities of his organization," the official said.</p><span id="midArticle_4"/>
+        
+        <span class="third-article-divide"/><p>The documents show the strains of managing al Qaeda's external networks, including identifying capable leaders and finding resources to fund operations abroad. </p><span id="midArticle_5"/><p>    One associate, who signed his 2009 note simply as "Your beloved "Atiyah," acknowledged troubles replacing an ineffective leader for external operations, saying some of the best candidates were dead.</p><span id="midArticle_6"/><p>"There are new brothers, perhaps some would be suitable in the future, but not now," he wrote.</p><span id="midArticle_7"/><p>    Suspicion of tracking devices pops up again and again in the group's writings. The concern may have been merited - the United States conducts extensive electronic surveillance on al Qaeda and other Islamic militant groups.</p><span id="midArticle_8"/><p>Abu Abdallah al-Halabi - who the U.S. Treasury has identified as a name used by bin Laden's son-in law Muhammad Abdallah Hasan Abu-Al-Khayr - writes in a letter to "my esteemed brother Khalid" about intercepting messages of "spies" in Pakistan, who he said would facilitate air strikes on al Qaeda operatives by marking cars with infrared streaks that can be seen with night vision equipment.</p><span id="midArticle_9"/><p>In another, bin Laden, writing under the pseudonym Abu Abdallah, expresses alarm over his wife's visit to a dentist while in Iran, worrying that a tracking chip could have been implanted with her dental filling.</p><span id="midArticle_10"/><p>"The size of the chip is about the length of a grain of wheat and the width of a fine piece of vermicelli," he wrote.</p><span id="midArticle_11"/><p>The letter ended with this instruction: "Please destroy this letter after reading it."      </p><span id="midArticle_12"/><span id="midArticle_13"/><p> (Additional reporting by Jonathan Landay and Kevin Krolicki. Editing by Stuart Grudgings)</p><span id="midArticle_14"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/rRfdnNrB_Uc/story01.htm">Source </a>

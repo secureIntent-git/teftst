@@ -1,0 +1,34 @@
+---
+ID: 5251
+post_title: 'Four officers killed, seven wounded in Dallas shooting protest: police'
+author: Staff Writer
+post_date: 2016-07-08 05:21:06
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/four-officers-killed-seven-wounded-in-dallas-shooting-protest-police/
+published: true
+original_cats:
+  - domesticNews
+original_title:
+  - 'Four officers killed, seven wounded in Dallas shooting protest: police'
+original_link:
+  - >
+    http://feeds.reuters.com/~r/Reuters/domesticNews/~3/XTbjOM_aaeQ/us-usa-police-idUSKCN0ZN0MF
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/Reuters/domesticNews/~3/XTbjOM_aaeQ/us-usa-police-idUSKCN0ZN0MF
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">DALLAS</span> Four police officers were fatally shot and seven wounded in one of the worst shootings of police in recent U.S. history, by snipers who targeted them during rallies in Dallas to protest against the fatal shooting of two black men by police this week. </p></span><span id="midArticle_1"/><p>Dallas Police Chief David Brown told a news conference that two snipers in elevated positions shot 11 officers, killing three, in what appeared to be a coordinated attack. A fourth officer died, police said later on Twitter. At least one more was in surgery. Some of the victims were shot in the back.</p><span id="midArticle_2"/><p>Police said one suspect whom they had engaged in a shootout had been arrested and a bomb squad unit was investigating a suspicious package found near the suspect's location.</p><span id="midArticle_3"/><p>A second "person of interest" had turned himself in, they added, though there was no word on the arrest of a possible second sniper.</p><span id="midArticle_4"/><p>"Our worst nightmare has happened," Mike Rawlings, mayor of the Texas city, told a news conference. "It is a heartbreaking moment for the city of Dallas." </p><span id="midArticle_5"/><p>Television footage showed a heavy police presence, with officers taking cover behind vehicles on the street.</p><span id="midArticle_6"/><p>The shooting happened as largely peaceful protests unfolded around the United States after the shooting of Philando Castile, 32, by police near St. Paul, Minnesota, late on Wednesday. His girlfriend posted live video on the internet of the bloody scene minutes afterward, which was widely viewed.</p><span id="midArticle_7"/><p>Castile's death occurred within a day of the shooting of Alton Sterling, 37, in Baton Rouge, Louisiana. Sterling was killed during an altercation with two white police officers. Graphic video of that incident caused an outcry on social media.</p><span id="midArticle_8"/><p>"Our thoughts and prayers are with the Dallas law enforcement community and the Dallas Area Rapid Transit officers killed and injured this evening," Governor Greg Abbott said in a statement. </p><span id="midArticle_9"/><p>In Chicago, protesters shut down a stretch of the Dan Ryan Expressway - one of Chicago's main arteries - for about 10 minutes on Thursday.</p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><p>In New York, several hundred protesters blocked traffic in Times Square in the heart of Manhattan, chanting "Hands up, don't shoot." More than a dozen arrests were made, the New York Police Department said.</p><span id="midArticle_11"/><p>In St. Paul, about a thousand people gathered outside the governor's mansion, chanting "Hey hey, ho ho, those killer cops have got to go," and other slogans. </p><span id="midArticle_12"/><p>Minnesota Governor Mark Dayton made a brief appearance in an attempt to quell the crowd. He said earlier a state investigation was already under way. </p><span id="midArticle_13"/><p>"Would this have happened if the driver and the passengers were white? I don’t think it would have," Dayton told reporters, speaking of the Castile shooting.</p><span id="midArticle_14"/><p>"So I'm forced to confront that this kind of racism exists, and it's incumbent upon all of us to vow and ensure that it doesn't happen and doesn't continue to happen," he said.</p><span id="midArticle_15"/>
+        
+        <span class="second-article-divide"/><p>State investigators later identified Minneapolis area police officer Jeronimo Yanez as the patrolman who fatally shot Castile during a traffic stop.</p><span id="midArticle_0"/><span id="midArticle_1"/><p>"RACIAL DISPARITIES" - OBAMA</p><span id="midArticle_2"/><p>U.S. President Barack Obama described the killings as tragedies.</p><span id="midArticle_3"/><p>"All of us as Americans should be troubled by these shootings, because these are not isolated incidents. They're symptomatic of a broader set of racial disparities that exist in our criminal justice system," he said after arriving in Poland for a NATO summit.</p><span id="midArticle_4"/>
+        
+        <span class="third-article-divide"/><p>The use of force by police against African-Americans in cities from Ferguson, Missouri, to Baltimore and New York has sparked periodic and sometimes violent protests in the past two years and has spawned the Black Lives Matter movement.</p><span id="midArticle_5"/><p>Anger has intensified when the officers involved in such incidents have been acquitted in trials or not charged at all.</p><span id="midArticle_6"/><p>"I was already fuming when I woke up this morning over Baton Rouge, but for it to happen here again just pushed me right over the edge," said truck driver Thomas Michaels, 42, who was among the protesters in St. Paul.</p><span id="midArticle_7"/><p>"We live in a racist society where black lives don't matter, my kids lives don't matter and I'm sick of it. I don't even know if it can be fixed," he said.</p><span id="midArticle_8"/><p>Another protester, retail worker Tanya McDonald, 28, said: "What gets me is how many people are failing to see that this is happening almost every day. We're dying, we're being killed off by people hiding behind a badge and no one's doing anything to stop it."</p><span id="midArticle_9"/><p>The Washington Post said Castile was at least the 506th person and 123rd black American shot and killed by police so far in 2016, according to a database it has set up to track such deaths.</p><span id="midArticle_10"/><span id="midArticle_11"/><p> (Refiles to insert dropped word "worst" in paragraph 1)</p><span id="midArticle_12"/><span id="midArticle_13"/><p> (Addiitonal reporting by Jon Herskovitz in Austin, Brendan O'Brien in Milwaukee, Eric M. Johnson in Seattle; Editing by Paul Tait and Clarence Fernandez)</p><span id="midArticle_14"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/Reuters/domesticNews/~3/XTbjOM_aaeQ/us-usa-police-idUSKCN0ZN0MF">Source </a>

@@ -1,0 +1,91 @@
+---
+ID: 1024
+post_title: 'More Republicans Say They&#039;ll Block Supreme Court Nominee &#8211; New York Times'
+author: Staff Writer
+post_date: 2016-02-16 00:16:03
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/more-republicans-say-theyll-block-supreme-court-nominee-new-york-times/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'More Republicans Say They&#039;ll Block Supreme Court Nominee - New York Times'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNGkWeiUXjGA8d1oTsb01wGULOMjaw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779046985639&#038;ei=Q2rCVsjcA8m6hAGw4pTYCQ&#038;url=http://www.nytimes.com/2016/02/16/us/politics/more-republicans-say-theyll-block-supreme-court-nomination.html'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNGkWeiUXjGA8d1oTsb01wGULOMjaw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779046985639&#038;ei=Q2rCVsjcA8m6hAGw4pTYCQ&#038;url=http://www.nytimes.com/2016/02/16/us/politics/more-republicans-say-theyll-block-supreme-court-nomination.html'
+---
+ [ad_1]
+<br><div id="story-body" readability="192.41710959251">
+
+        
+        
+        <div class="lede-container">
+            <figure id="media-100000004210452" class="media photo lede layout-large-horizontal" data-media-action="modal" itemprop="associatedMedia" itemscope="" itemid="http://static01.nyt.com/images/2016/02/16/us/16courtweb/16courtweb-master675.jpg" itemtype="http://schema.org/ImageObject" aria-label="media" role="group"><span class="visually-hidden">Photo</span>
+    <div class="image">
+            <img src="http://static01.nyt.com/images/2016/02/16/us/16courtweb/16courtweb-master675.jpg" alt="" class="media-viewer-candidate" data-mediaviewer-src="http://www.whenitson.com/wp-content/uploads/2016/02/More-Republicans-Say-They039ll-Block-Supreme-Court-Nominee-New-York-Times.jpg" data-mediaviewer-caption="The flag flew at half-staff outside the Supreme Court building on Monday in honor of Justice Antonin Scalia, who died Saturday." data-mediaviewer-credit="Doug Mills/The New York Times" itemprop="url" itemid="http://static01.nyt.com/images/2016/02/16/us/16courtweb/16courtweb-master675.jpg"/><meta itemprop="height" content="450"/><meta itemprop="width" content="675"/></div>
+        <figcaption class="caption" itemprop="caption description"><span class="caption-text">The flag flew at half-staff outside the Supreme Court building on Monday in honor of Justice Antonin Scalia, who died Saturday.</span>
+                        <span class="credit" itemprop="copyrightHolder">
+            <span class="visually-hidden">Credit</span>
+            Doug Mills/The New York Times        </span>
+            </figcaption></figure>
+        </div>
+
+        
+
+                
+        <p class="story-body-text story-content" data-para-count="273" data-total-count="273" itemprop="articleBody" id="story-continues-1">WASHINGTON — Senate Republicans on Monday began to close ranks behind a vow by Senator <a href="http://topics.nytimes.com/top/reference/timestopics/people/m/mitch_mcconnell/index.html?inline=nyt-per" title="More articles about Mitch McConnell." class="meta-per">Mitch McConnell</a>, the majority leader, to block consideration of any nominee to replace Justice <a href="http://topics.nytimes.com/top/reference/timestopics/people/s/antonin_scalia/index.html?inline=nyt-per" title="More articles about Antonin Scalia." class="meta-per">Antonin Scalia</a>, who <a href="http://www.nytimes.com/2016/02/14/us/antonin-scalia-death.html">died over the weekend</a>, for the remainder of <a href="http://topics.nytimes.com/top/reference/timestopics/people/o/barack_obama/index.html?inline=nyt-per" title="More articles about Barack Obama" class="meta-per">President Obama</a>’s term.</p><aside id="middle-right-paid-post-container" class="ad middle-right-ad paid-post-ad hidden nocontent robots-nocontent"><h2 class="marginalia-heading"/>
+                                    </aside><p class="story-body-text story-content" data-para-count="395" data-total-count="668" itemprop="articleBody" id="story-continues-2">Senator Rob Portman, Republican of Ohio, who faces re-election this year, said in a statement that the Senate should follow what he called “common practice” to stop acting on lifetime appointments during the last year of a presidential term. Senator Patrick J. Toomey, Republican of Pennsylvania, agreed, leaving nearly every vulnerable Republican incumbent backing Mr. McConnell’s pledge.</p><p class="story-body-text story-content" data-para-count="226" data-total-count="894" itemprop="articleBody">Justice Scalia’s death has given Mr. Obama a tantalizing opportunity to reshape the <a href="http://topics.nytimes.com/top/reference/timestopics/organizations/s/supreme_court/index.html?inline=nyt-org" title="More articles about the U.S. Supreme Court." class="meta-org">Supreme Court</a>, but cementing a lasting legacy on American jurisprudence will present a familiar challenge: breaking the will of Republicans.</p>    <aside class="marginalia related-coverage-marginalia marginalia-item nocontent robots-nocontent" data-marginalia-type="sprinkled" role="complementary" module="RelatedCoverage-Marginalia"><div class="nocontent robots-nocontent">
+            <a class="visually-hidden skip-to-text-link" href="#story-continues-3">Continue reading the main story</a>
+
+                <header><h2 class="module-heading">
+                            Related Coverage
+                    </h2>
+    </header></div><!-- close nocontent -->
+    </aside><p class="story-body-text story-content" data-para-count="307" data-total-count="1201" itemprop="articleBody" id="story-continues-3">Top White House officials and senior Democrats on Capitol Hill have begun strategizing over themes to counter the Republican threat: insisting that the Senate follow its constitutional responsibilities, and portraying a yearlong obstruction as at odds with decades of precedent for Supreme Court nominations</p> <figure id="supreme-court-nominations-election-year-scalia" class="interactive promo  has-adjacency has-lede-adjacency layout-large"><a class="visually-hidden skip-to-text-link" href="#story-continues-4">Continue reading the main story</a>
+    <a href="http://www.nytimes.com/interactive/2016/02/15/us/supreme-court-nominations-election-year-scalia.html" readability="2">
+                <figcaption class="interactive-caption" readability="4"><h3 class="interactive-kicker">
+                Graphic            </h3>
+                        <h2 class="interactive-headline">
+                Supreme Court Nominees Considered in Election Years Are Usually Confirmed            </h2>
+            <p class="interactive-summary">
+                Since 1900, the Senate has voted on eight Supreme Court nominees during an election year. Six were confirmed.            </p>
+        </figcaption><div class="interactive-image-container">
+            <div class="interactive-image">
+                <img src="http://www.whenitson.com/wp-content/uploads/2016/02/More-Republicans-Say-They039ll-Block-Supreme-Court-Nominee-New-York-Times.png"/></div>
+            <p>
+                <i class="icon sprite-icon interactive-overlay-icon"/>
+                                <span class="interactive-overlay-text">
+                    OPEN Graphic                </span>
+                            </p>
+        </div>
+
+            </a>
+</figure><p class="story-body-text story-content" data-para-count="402" data-total-count="1603" itemprop="articleBody" id="story-continues-4">Denis R. McDonough, the White House chief of staff, began reaching out to Senate Democratic leaders on Monday, even as Mr. Obama hosts Southeast Asian leaders at a two-day summit meeting in California. A public campaign will focus in part on the fact that none of the last 12 Supreme Court nominees have waited longer than 100 days for a confirmation vote. Mr. Obama will not leave office for 339 days.</p><p class="story-body-text story-content" data-para-count="102" data-total-count="1705" itemprop="articleBody">Democrats said they would set up an online clock that would start the day Mr. Obama names his nominee.</p><p class="story-body-text story-content" data-para-count="286" data-total-count="1991" itemprop="articleBody">“If you’re sitting in the White House, the question is: How do you put maximum pressure on the Congress?” said David Axelrod, a former top adviser to Mr. Obama, adding that Democrats hoped the public would recoil at the idea of “the Senate on strike, refusing to do its duty.”</p><p class="story-body-text story-content" data-para-count="345" data-total-count="2336" itemprop="articleBody">The coming clash on Capitol Hill is a testament to the stakes: A president has a chance to establish a clear liberal majority on the Supreme Court. That could shift the direction of legal thought on a <a href="http://www.nytimes.com/2016/02/15/us/politics/antonin-scalias-absence-likely-to-alter-courts-major-decisions-this-term.html">wide range of issues</a> like <a href="http://topics.nytimes.com/top/news/science/topics/globalwarming/index.html?inline=nyt-classifier" title="Recent and archival news about global warming." class="meta-classifier">climate change</a>, gay rights, affirmative action, abortion, immigration, gun control, campaign finance and labor unions.</p><p class="story-body-text story-content" data-para-count="133" data-total-count="2469" itemprop="articleBody">Some Democrats expressed confidence that they could build public pressure on the Republicans to give Mr. Obama’s nominee a hearing.</p><p class="story-body-text story-content" data-para-count="213" data-total-count="2682" itemprop="articleBody" id="story-continues-5">“The idea of not even allowing a hearing strikes a chord that is pretty deep,” said Senator <a href="http://topics.nytimes.com/top/reference/timestopics/people/s/charles_e_schumer/index.html?inline=nyt-per" title="More articles about Charles E. Schumer." class="meta-per">Chuck Schumer</a>, Democrat of New York. “It will mount; it will get much stronger when the president has a nominee.”</p><p class="story-body-text story-content" data-para-count="302" data-total-count="2984" itemprop="articleBody">But Republicans appear far more interested in mobilizing their base of conservative supporters than worrying about voters in the general election. Even if Republicans might appeal to moderate voters by giving Mr. Obama’s nominee a hearing, they reason, angering their own base would be more damaging.</p><p class="story-body-text story-content" data-para-count="271" data-total-count="3255" itemprop="articleBody">Some allies of the president said they expected Republicans to hold firm, given the court’s crucial role and the intensity of feelings among conservatives. Mr. Axelrod predicted that Mr. McConnell and the other Senate Republicans would be “implacable” on the issue.</p><div id="MiddleRight1" class="ad ad-placeholder nocontent robots-nocontent">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-6">Continue reading the main story</a>
+</div>
+    	<div id="MiddleRightN" class="ad text-ad middle-right-ad nocontent robots-nocontent">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-6">Continue reading the main story</a>
+</div><p class="story-body-text story-content" data-para-count="136" data-total-count="3391" itemprop="articleBody" id="story-continues-6">“I don’t think they are going to move,” he said. “Any Republican who breaks rank on this will face the full fury of the base.”</p><p class="story-body-text story-content" data-para-count="260" data-total-count="3651" itemprop="articleBody">White House aides said the president would pick a nominee “in due time,” but they gave few hints about whom he was considering. Former top aides to Mr. Obama said they expected the White House to select someone who could overcome the Republican opposition.</p> <figure id="how-long-does-it-take-to-confirm-a-supreme-court-nominee" class="interactive promo  has-adjacency layout-small"><a class="visually-hidden skip-to-text-link" href="#story-continues-7">Continue reading the main story</a>
+    <a href="http://www.nytimes.com/interactive/2016/02/13/us/how-long-does-it-take-to-confirm-a-supreme-court-nominee.html">
+        
+        <div class="interactive-image-container">
+            <div class="interactive-image">
+                <img src="http://www.whenitson.com/wp-content/uploads/2016/02/1455581763_71_More-Republicans-Say-They039ll-Block-Supreme-Court-Nominee-New-York-Times.png"/></div>
+            <p>
+                <i class="icon sprite-icon interactive-overlay-icon"/>
+                                <span class="interactive-overlay-text">
+                    OPEN Graphic                </span>
+                            </p>
+        </div>
+
+                <h2 class="interactive-headline">
+            Graphic: How Long Does It Take to Confirm a Supreme Court Nominee?        </h2>
+            </a>
+</figure><p class="story-body-text story-content" data-para-count="346" data-total-count="3997" itemprop="articleBody" id="story-continues-7">“This is a lifetime appointment and an incredible part of his legacy,” said Stephanie Cutter, who helped guide the president’s previous nominees through the Senate confirmation process. Ms. Cutter said she expected Mr. Obama to avoid an obviously polarizing nomination in favor of a sitting judge who has had bipartisan support in the past.</p><p class="story-body-text story-content" data-para-count="214" data-total-count="4211" itemprop="articleBody" id="story-continues-8">“He’s going to make it as appealing as possible and as difficult as possible for the Senate not to confirm this person,” Ms. Cutter said. “He’s going to do everything he can to get this person through.”</p><p class="story-body-text story-content" data-para-count="357" data-total-count="4568" itemprop="articleBody" id="story-continues-9">While Mr. Obama’s aides try to avoid the word “legacy,” the president’s final year in office was always going to be about defending his policies on health care, Wall Street regulation, outreach to Iran and Cuba, climate change and civil rights. Replacing Justice Scalia with a liberal could do more to protect his policies than almost anything else.</p><p class="story-body-text story-content" data-para-count="311" data-total-count="4879" itemprop="articleBody">Days before Justice Scalia’s death, Mr. Obama said as much during two Democratic fund-raisers in California. On Friday in Los Angeles, he said it had “never been more important” to elect senators who would confirm court nominees who would preserve hard-fought gains on “civil rights and equal rights.”</p><p class="story-body-text story-content" data-para-count="289" data-total-count="5168" itemprop="articleBody">Democrats are counting on Republicans who are up for re-election in states with large numbers of independent voters to support a hearing for Mr. Obama’s nominee. But they may be underestimating the fears those candidates have of a primary fight and the pressure from conservative groups.</p><p class="story-body-text story-content" data-para-count="291" data-total-count="5459" itemprop="articleBody">“Senator McConnell is right: Under no circumstance should the Republican Senate majority confirm a Supreme Court nominee as Americans are in the midst of picking the next president,” said Michael A. Needham, the president of Heritage Action, the political arm of the Heritage Foundation.</p><p class="story-body-text story-content" data-para-count="230" data-total-count="5689" itemprop="articleBody">In the past, Mr. Obama has largely failed to win support from congressional Republicans on his signature issues, like his <a href="http://topics.nytimes.com/top/news/health/diseasesconditionsandhealthtopics/health_insurance_and_managed_care/health_care_reform/index.html?inline=nyt-classifier" title="Recent and archival news about healthcare reform." class="meta-classifier">health care law</a>, his economic stimulus package and his efforts to increase background checks for gun buyers.</p><p class="story-body-text story-content" data-para-count="296" data-total-count="5985" itemprop="articleBody">At least one Republican, Senator Susan Collins of Maine, who is not facing re-election, sought a middle ground. “Our role in the Senate is to evaluate the nominee’s temperament, intellect, experience, integrity and respect for the Constitution and the rule of law,” she said in a statement.</p><p class="story-body-text story-content" data-para-count="229" data-total-count="6214" itemprop="articleBody">Mr. Schumer said Republican obstruction of a court nominee could affect any legislative cooperation this year, including on a bill to address the opiate drug crisis, which has support from both Democratic and Republican senators.</p><p class="story-body-text story-content" data-para-count="284" data-total-count="6498" itemprop="articleBody">But Republicans were quick to seize on a July 2007 speech that Mr. Schumer gave to the liberal American Constitution Society in which he said that senators should “reverse the presumption of confirmation” for Supreme Court nominees during the remainder of George W. Bush’s term.</p><p class="story-body-text story-content" data-para-count="298" data-total-count="6796" itemprop="articleBody">Mr. Schumer said the comparison was improper because, unlike Mr. McConnell, he supported holding hearings on nominees. “What I said is after a hearing, if you’re not satisfied, it is legitimate to vote no,” Mr. Schumer said. “That’s quite different than not having a hearing or a vote.”</p>
+        
+                                                <nav id="next-in"/><!-- close next-in --></div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNGkWeiUXjGA8d1oTsb01wGULOMjaw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779046985639&#038;ei=Q2rCVsjcA8m6hAGw4pTYCQ&#038;url=http://www.nytimes.com/2016/02/16/us/politics/more-republicans-say-theyll-block-supreme-court-nomination.html">Source </a>

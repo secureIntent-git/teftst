@@ -1,0 +1,34 @@
+---
+ID: 1748
+post_title: 'A tale of &#039;two Donalds&#039;: ex-White House rival sees a &#039;cerebral&#039; Trump'
+author: Staff Writer
+post_date: 2016-03-11 17:56:06
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/a-tale-of-two-donalds-ex-white-house-rival-sees-a-cerebral-trump/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - 'A tale of &#039;two Donalds&#039;: ex-White House rival sees a &#039;cerebral&#039; Trump'
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/iaJjt4opiUE/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/iaJjt4opiUE/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="6"><p><span class="articleLocation">PALM BEACH, Fla.</span> Former U.S. Republican presidential contender Ben Carson "buried the hatchet" and endorsed party front-runner Donald Trump on Friday, saying he believed the billionaire's pugnacious campaign style hid a more thoughtful private side.</p></span><span id="midArticle_1"/><p>"There are two different Donald Trumps: there's the one you see on the stage and there's the one who's very cerebral, sits there and considers things very carefully," Carson said as he became the second former Republican candidate to back Trump in the White House race.</p><span id="midArticle_2"/><p>The soft-spoken retired neurosurgeon, who dropped out of the race last week, addressed the issue of Trump's combative and sometimes crude public image saying the American people would be "comforted" when they discover a gentler side.</p><span id="midArticle_3"/><p>"That's the Donald Trump that you're going to start seeing more and more of right now," Carson said during a joint appearance with the real estate magnate at Trump's Mar-a-Lago Club resort in Palm Beach, Florida.</p><span id="midArticle_4"/><p>"I have found in talking with him, that there's a lot more alignment, philosophically and spiritually, than I ever thought that there was," he said.</p><span id="midArticle_5"/><p>The latest endorsement for Trump followed a Republican debate in Miami on Thursday night at which Trump and the remaining three candidates in the Republican race struck a markedly more civil tone. Carson's backing gives Trump a boost just days before crucial nominating contests in the battle to be the party's presidential candidate for the Nov. 8 election.</p><span id="midArticle_6"/><p>Carson shot to the top of the Republican pack last year but faltered in the early nominating contests. His endorsement is unlikely to dramatically shift the Republican race but gives Trump additional help as the party establishment cranks up its attacks.</p><span id="midArticle_7"/><p>Republican primaries in five states - including Florida and Ohio - on March 15 will be critical for Trump to cement his lead, and to determine whether U.S. Senator Marco Rubio of Florida and Ohio Governor John Kasich will be able to continue with their increasingly long-shot candidacies. Trump's nearest rival in the race is U.S. Senator Ted Cruz of Texas.</p><span id="midArticle_8"/><p>Carson's comments on Friday aimed to soften Trump's public image after a campaign marked by his demeaning personal attacks on opponents, harsh comments about Mexican immigrants and calls to temporarily bar all Muslims from entering the country.</p><span id="midArticle_9"/>
+        
+        <span class="first-article-divide"/><p>Trump's controversial campaign has led many Republican establishment figures to call for an all-out effort to prevent him from winning the nomination - an effort that Carson said would fracture the Republican Party and ensure a Democratic win in November.</p><span id="midArticle_10"/><p>Asked about Carson's comments, Trump said he did not want to "overanalyze" himself but there was only "one Donald Trump."</p><span id="midArticle_11"/><span id="midArticle_12"/><p>'I'M A THINKER'</p><span id="midArticle_13"/>
+        
+        <span class="second-article-divide"/><p>"Certainly you have all of this, and you have somebody else that sits, and reads and thinks. And I'm a thinker," said Trump, 69. "Perhaps people haven't think of me in that way because you don't see me in that form."</p><span id="midArticle_14"/><p>Trump said Carson, who he harshly criticized during the campaign, had not asked for any formal role, but he praised his former rival's ideas on education. "Ben's going to have a big, big part," he said.</p><span id="midArticle_15"/><p>Carson's endorsement followed that of another former candidate, New Jersey Governor Chris Christie, who announced last month he was getting behind Trump.</p><span id="midArticle_0"/><p>Next Tuesday's voting will be a pivotal point as candidates chase the 1,237 delegates from primary contests needed to win the nomination. Trump has 459 delegates, followed by Cruz at 360, Rubio at 152, and Kasich at 54, according to the Associated Press.</p><span id="midArticle_1"/><p>Earlier on Friday, Trump continued to defend comments he made in recent television interviews stating that Muslims hate the United States.</p><span id="midArticle_2"/>
+        
+        <span class="third-article-divide"/><p>Trump, who has proposed a temporary ban on Muslims entering the United States, told Fox News in an interview, “I don’t have to be politically correct."  </p><span id="midArticle_3"/><p>“I didn’t say ‘all’ (Muslims) but boy, there is tremendous hatred there, there’s no question about it, and we might as well recognize it folks,” he added.</p><span id="midArticle_4"/><p>For his part, Rubio said in a round of television interviews on Friday he was still in position to win Florida's winner-take-all contest next week. Voters in his home state who do not want Trump as the Republican nominee should support him, he said.</p><span id="midArticle_5"/><p>"If they don't want Donald Trump to be our nominee, then voting for John Kasich or Ted Cruz in Florida is a vote for Donald Trump," Rubio said on ABC's "Good Morning America." </p><span id="midArticle_6"/><p>Rubio said later that his supporters in Ohio should vote for Kasich next Tuesday if that looked like the best anti-Trump tactic.</p><span id="midArticle_7"/><p>“Clearly John Kasich has a better chance of winning Ohio than I do, and if a voter in Ohio concludes that voting for John Kasich gives us the best chance to stop Donald Trump there, I anticipate” that is what they will do, Rubio told reporters at an event in West Palm Beach, Florida.</p><span id="midArticle_8"/><span id="midArticle_9"/><p> (Additional reporting by Clarece Polke, Eric Beech and Susan Heavey in Washington; Writing by John Whitesides; Editing by Frances Kerry)</p><span id="midArticle_10"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/iaJjt4opiUE/story01.htm">Source </a>

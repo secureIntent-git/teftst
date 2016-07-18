@@ -1,0 +1,25 @@
+---
+ID: 688
+post_title: 'IRS Website Hit With Hardware Failure, Some Refund &amp; Payment Tools Unavailable &#8211; Forbes'
+author: Staff Writer
+post_date: 2016-02-04 02:01:47
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/irs-website-hit-with-hardware-failure-some-refund-payment-tools-unavailable-forbes/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'IRS Website Hit With Hardware Failure, Some Refund &amp; Payment Tools Unavailable - Forbes'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNG0IlLvlH2l_NlvDg_Gn6PmJYdBCQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779040218760&#038;ei=C7GyVrDPCoGohQHXqKCQAQ&#038;url=http://www.forbes.com/sites/kellyphillipserb/2016/02/03/irs-website-hit-with-hardware-failure-some-refund-payment-tools-unavailable/'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNG0IlLvlH2l_NlvDg_Gn6PmJYdBCQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779040218760&#038;ei=C7GyVrDPCoGohQHXqKCQAQ&#038;url=http://www.forbes.com/sites/kellyphillipserb/2016/02/03/irs-website-hit-with-hardware-failure-some-refund-payment-tools-unavailable/'
+dsq_thread_id:
+  - "4555102864"
+---
+ [ad_1]
+<br><table border="0" cellpadding="2" cellspacing="7" style="vertical-align:top"><tr><td width="80" align="center" valign="top"><font style="font-size:85%;font-family:arial,sans-serif"><a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNFZQ1JdPgrTfif3sW-I_LH25i7Bbw&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779040218760&amp;ei=C7GyVrDPCoGohQHXqKCQAQ&amp;url=http://newyork.cbslocal.com/2016/02/03/irs-software-failure/"><img src="http://www.whenitson.com/wp-content/uploads/2016/02/IRS-Website-Hit-With-Hardware-Failure-Some-Refund-amp-Payment-Tools-Unavailable-Forbes" alt="" border="1" width="80" height="80"><br><font size="-2">CBS Local</font></a></font></td><td valign="top" class="j"><font style="font-size:85%;font-family:arial,sans-serif"><br><div style="padding-top:0.8em"><img alt="" height="1" width="1"></div><div class="lh"><a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNG0IlLvlH2l_NlvDg_Gn6PmJYdBCQ&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779040218760&amp;ei=C7GyVrDPCoGohQHXqKCQAQ&amp;url=http://www.forbes.com/sites/kellyphillipserb/2016/02/03/irs-website-hit-with-hardware-failure-some-refund-payment-tools-unavailable/"><b>IRS Website Hit With Hardware Failure, Some Refund &amp; Payment Tools Unavailable</b></a><br><font size="-1"><b><font color="#6f6f6f">Forbes</font></b></font><br><font size="-1">Some taxpayers who visited the Internal Revenue Service (IRS) website today noticed a problem. A big problem. Bits of the IRS website, at www.irs.gov, were not operating. The reason? A hardware failure. The IRS is working to make repairs and restore&nbsp;...</font><br><font size="-1"><a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNE_rKqKtzgllHmXtfiYy-FnxWEqMg&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779040218760&amp;ei=C7GyVrDPCoGohQHXqKCQAQ&amp;url=http://www.usatoday.com/story/money/business/2016/02/03/irs-computer-problems/79792890/">IRS computer problems shut down e-file system</a><font size="-1" color="#6f6f6f">USA TODAY</font></font><br><font size="-1"><a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNFDctkK1WlzZbk_9tjbZNcNPNz5qA&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779040218760&amp;ei=C7GyVrDPCoGohQHXqKCQAQ&amp;url=http://www.bloomberg.com/news/articles/2016-02-03/irs-cites-widespread-hardware-failure-and-systems-outage">IRS Cites Widespread `Hardware Failure&#039; and Systems Outage</a><font size="-1" color="#6f6f6f">Bloomberg</font></font><br><font size="-1"><a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNGzixDotgFzlzvxLJCQIZhBKpBw2w&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779040218760&amp;ei=C7GyVrDPCoGohQHXqKCQAQ&amp;url=http://time.com/money/4207382/irs-e-file-system-down/">The IRS&#039;s E-File System Is Down</a><font size="-1" color="#6f6f6f">TIME</font></font><br><font size="-1" class="p"><a href="http://news.google.com/news/url?sa=t&amp;fd=R&amp;ct2=us&amp;usg=AFQjCNHZxoWaR9isIv6uKvr1Co2DTg1dhA&amp;clid=c3a7d30bb8a4878e06b80cf16b898331&amp;cid=52779040218760&amp;ei=C7GyVrDPCoGohQHXqKCQAQ&amp;url=http://www.sacbee.com/news/local/crime/article58278713.html">Sacramento Bee</a></font><br><font class="p" size="-1"><a class="p" href="http://news.google.com/news/more?ncl=dWf5hL99scDSXCMLKp-BIJ-6r467M&amp;authuser=0&amp;ned=us&amp;topic=h"><b>all 340 news articles&nbsp;&raquo;</b></a></font></div></font></td></tr></table>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNG0IlLvlH2l_NlvDg_Gn6PmJYdBCQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779040218760&#038;ei=C7GyVrDPCoGohQHXqKCQAQ&#038;url=http://www.forbes.com/sites/kellyphillipserb/2016/02/03/irs-website-hit-with-hardware-failure-some-refund-payment-tools-unavailable/">Source </a>

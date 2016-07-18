@@ -1,0 +1,29 @@
+---
+ID: 4703
+post_title: 'Donald Trump Calls for Racial Profiling to Stop Terrorists &#8211; New York Times'
+author: Staff Writer
+post_date: 2016-06-19 18:11:12
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/donald-trump-calls-for-racial-profiling-to-stop-terrorists-new-york-times/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Donald Trump Calls for Racial Profiling to Stop Terrorists - New York Times'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNE99CvLRqlbzTisFfkc0Is5jP_Rww&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779135679137&#038;ei=DuBmV7ixIeW8wAGrkqtw&#038;url=http://www.nytimes.com/2016/06/20/us/politics/donald-trump-calls-for-racial-profiling-to-stop-terrorists.html'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNE99CvLRqlbzTisFfkc0Is5jP_Rww&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779135679137&#038;ei=DuBmV7ixIeW8wAGrkqtw&#038;url=http://www.nytimes.com/2016/06/20/us/politics/donald-trump-calls-for-racial-profiling-to-stop-terrorists.html'
+---
+ [ad_1]
+<br><div readability="99.807390817469">
+        <p class="story-body-text story-content" data-para-count="194" data-total-count="194">Donald J. Trump on Sunday renewed his call for the United States to consider racial profiling as a preventive tactic against terrorism in the aftermath of last week’s mass shooting in Orlando.</p><p class="story-body-text story-content" data-para-count="194" data-total-count="388">“I hate the concept of profiling, but we have to start using common sense,” Mr. Trump, the presumptive Republican presidential nominee, said in <a href="http://www.cbsnews.com/news/donald-trump-after-orlando-racial-profiling-not-the-worst-thing-to-do/">an interview on CBS’s “Face the Nation.”</a></p><p class="story-body-text story-content" data-para-count="149" data-total-count="537">Mr. Trump issued a similar call in December after the terrorist attack in San Bernardino, Calif., which left 14 people dead and more than 20 injured.</p><p class="story-body-text story-content" data-para-count="312" data-total-count="849">On Sunday, he also sought to downplay any differences between his positions on gun control and those of the National Rifle Association. Last week, Mr. Trump wrote on Twitter that people on the government’s terrorist watch list should be barred from buying firearms, a stance that contradicts that of the N.R.A.</p><p class="story-body-text story-content" data-para-count="188" data-total-count="1037">But Mr. Trump now seems to be backtracking, saying on ABC’s “This Week” that he “understands exactly” the N.R.A.’s objections to restricting access to people on the watch list.</p><div id="story-ad-1" class="story-ad ad ad-placeholder nocontent robots-nocontent">
+    
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+<p class="story-body-text story-content" data-para-count="130" data-total-count="1167" id="story-continues-1">“A lot of people are on the list that really maybe shouldn’t be on the list and their rights are being taken away,” he said.</p><p class="story-body-text story-content" data-para-count="163" data-total-count="1330">The N.R.A., meanwhile, used the Sunday morning political shows to criticize, and even mock, Democratic efforts to pass new gun control laws in the wake of Orlando.</p><p class="story-body-text story-content" data-para-count="159" data-total-count="1489">Wayne LaPierre, the group’s executive vice president, said on “Face the Nation” that legislation was effectively useless at preventing terrorist attacks.</p><p class="story-body-text story-content" data-para-count="147" data-total-count="1636">“These bad guys we’re facing, they don’t say, ‘Oh gosh, they passed a law. Oh gosh, I don’t think I could do it,’” Mr. LaPierre said.</p><p class="story-body-text story-content" data-para-count="210" data-total-count="1846">Democrats made their own push for expanded gun controls, which the Senate is to take up Monday — and more broadly, for a grass-roots effort to take on opponents of stricter gun control in the wake of Orlando.</p><p class="story-body-text story-content" data-para-count="446" data-total-count="2292">Senator Chris Murphy of Connecticut, who led a 15-hour Democratic speechifying marathon on the Senate floor that ended early Thursday, said on ABC that “the only way that you win this issue is by building a political infrastructure around the country that rivals that of the gun lobby.” Mr. Trump’s presumptive Democratic opponent, Hillary Clinton, expressed her support for the effort, writing “Stand strong @ChrisMurphyCT” on Twitter.</p><p class="story-body-text story-content" data-para-count="323" data-total-count="2615">Racial profiling has been an occasional theme of the Trump campaign. In addition to his most recent comments, Mr. Trump has discussed increased surveillance of Muslims and mosques, and has said that he would consider registering Muslims in a special database or requiring that they carry cards that identify them as Muslim.</p><a class="visually-hidden skip-to-text-link" href="#whats-next">Continue reading the main story</a>
+    </div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNE99CvLRqlbzTisFfkc0Is5jP_Rww&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779135679137&#038;ei=DuBmV7ixIeW8wAGrkqtw&#038;url=http://www.nytimes.com/2016/06/20/us/politics/donald-trump-calls-for-racial-profiling-to-stop-terrorists.html">Source </a>

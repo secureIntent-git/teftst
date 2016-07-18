@@ -1,0 +1,38 @@
+---
+ID: 315
+post_title: >
+  Political fallout from Flint, Michigan
+  water crisis spreads
+author: Staff Writer
+post_date: 2016-01-21 10:45:00
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/political-fallout-from-flint-michigan-water-crisis-spreads/
+published: true
+original_cats:
+  - domesticNews
+original_title:
+  - >
+    Political fallout from Flint, Michigan
+    water crisis spreads
+original_link:
+  - >
+    http://feeds.reuters.com/~r/Reuters/domesticNews/~3/giETjJGIojw/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/Reuters/domesticNews/~3/giETjJGIojw/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">WASHINGTON/DETROIT</span> President Barack Obama pledged to offer support for the drinking water crisis in Flint, Michigan on Wednesday and environmental regulators were set to provide Congress with information about their role.</p></span><span id="midArticle_1"/><p>Blame is swirling after a switch in the water supply to the financially strapped city of 100,000 north of Detroit led to elevated levels of lead in drinking water.</p><span id="midArticle_2"/><p>"What is inexplicable and inexcusable is once people figured out that there was a problem there and that there was lead in the water, the notion that immediately families weren't notified, things weren't shut down," Obama said in an interview with CBS.</p><span id="midArticle_3"/><p>"If I were a parent up there, I would be beside myself that my kid's health could be at risk," Obama said after touring a car show in nearby Detroit.</p><span id="midArticle_4"/><p>Facing protests, lawsuits and calls for his resignation, Michigan Governor Rick Snyder, a Republican, apologized to the city's residents on Tuesday and called for the state to spend $28 million on fixes. The Michigan House quickly approved Snyder’s funding request on Wednesday. </p><span id="midArticle_5"/><p>The U.S. Environmental Protection Agency, while saying it was reviewing its handling of the crisis and could have acted faster to inform the state of what measures it should take, also blamed the state on Tuesday. It said the agency's oversight was hampered by "failures and resistance at the state and local levels."</p><span id="midArticle_6"/><p>Flint, under a state-appointed emergency manager, switched to Flint River water in April 2014 from the Lake Huron supply that Detroit uses to save money.</p><span id="midArticle_7"/><p>Complaints about the water began within a month of the move. But Flint did not return to Detroit water until October 2015 after tests showed elevated levels of lead, which can cause brain damage and other health problems, in Flint tap water and in some children. Corrosive water from the river, known locally as a dumping ground, caused more lead to leach from Flint pipes than Detroit water did.</p><span id="midArticle_8"/>
+        
+        <span class="first-article-divide"/><p>"This is something nobody should have to deal with. Everybody should have clean water," Flint Mayor Karen Weaver told a conference in Washington. </p><span id="midArticle_9"/><p>"They need to be much more aggressive in what's going on with Flint," Weaver said later on CNN about the EPA's response.</p><span id="midArticle_10"/><p>In a speech on Tuesday, Snyder said federal, state and local leaders had failed residents. He asked Michigan lawmakers to authorize spending on diagnostic tests, health treatment for children and adolescents, replacement of old fixtures in Flint schools and day care centers and a study of the city's water pipes.</p><span id="midArticle_11"/><span id="midArticle_12"/>
+        
+        <span class="second-article-divide"/><p>EMAILS RELEASED</p><span id="midArticle_13"/><p>Snyder, who has faced questions about how quickly he acted after learning about the water contamination, released 274 pages of Flint-related emails from 2014 and 2015 on Wednesday, ranging from press releases to staff memos and planning notes.</p><span id="midArticle_14"/><p>The governor’s then chief of staff told Snyder in a Sept. 26 email, “We can’t tolerate increased lead levels in any event, but it's really the city's water system that needs to deal with it. We’re throwing as much assistance as possible at the lead problem ... The residents and particularly the poor need help to deal with it.”</p><span id="midArticle_15"/><p>Also on Wednesday, Snyder appealed Obama's denial over the weekend of a federal major disaster declaration saying Flint faces a long-term threat and that such an order could bring additional help. On the same day Obama rejected the disaster declaration, he signed an emergency order for Flint.       </p><span id="midArticle_0"/>
+        
+        <span class="third-article-divide"/><p>A group of bipartisan lawmakers including Michigan Republican Fred Upton, of the U.S. House Energy and Commerce Committee, wrote last week to EPA head Gina McCarthy, requesting a briefing about Flint. That briefing to congressional staffers was scheduled for Thursday.</p><span id="midArticle_1"/><p>The House committee letter mentioned reports that said people in Flint have been exposed to dangerous biological pathogens and chemicals in the drinking water. Although Flint has now switched back to Detroit's water system, lead levels in the city's water are still elevated.</p><span id="midArticle_2"/><p>Separately, Representative Dan Kildee, a Democrat from Flint, said in an interview the $28 million sought by Snyder will not be enough to address Flint's long-term problems - including aiding as many as 9,000 children who may have suffered lead poisoning.</p><span id="midArticle_3"/><p>"These kids are going to need help for a long time," Kildee said. Snyder and the legislature need to "step up" and provide funding for long-term efforts beyond fixing the water system.</p><span id="midArticle_4"/><p>Kildee said the EPA may bear some blame for not blowing the whistle publicly earlier, but the state bears most of the responsibility.</p><span id="midArticle_5"/><p>Several lawsuits have been filed in the case. The latest on Tuesday asked a judge to stop Flint from issuing shutoff notices to residents who are still receiving bills for water declared undrinkable.</p><span id="midArticle_6"/><span id="midArticle_7"/><p> (Reporting by Timothy Gardner; Additional reporting by Jeff Mason in Detroit, <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=david.bailey&amp;">David Bailey</a> in Minneapolis, and David Shepardson, <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=mohammad.zargham&amp;">Mohammad Zargham</a>, Lacey Johnson, <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=ian.simpson&amp;">Ian Simpson</a>, <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=roberta.rampton&amp;">Roberta Rampton</a> and <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=ayesha.rascoe&amp;">Ayesha Rascoe</a> in Washington; Editing by <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=kevin.drawbaugh&amp;">Kevin Drawbaugh</a>, <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=frances.kerry&amp;">Frances Kerry</a>, Alan Crosby and <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=cynthia.osterman&amp;">Cynthia Osterman</a>)</p><span id="midArticle_8"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/Reuters/domesticNews/~3/giETjJGIojw/story01.htm">Source </a>

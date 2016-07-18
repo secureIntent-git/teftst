@@ -1,0 +1,24 @@
+---
+ID: 2714
+post_title: 'Gun found in Will Smith&#039;s car, but no evidence it was fired &#8211; ESPN'
+author: Staff Writer
+post_date: 2016-04-12 23:03:15
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/gun-found-in-will-smiths-car-but-no-evidence-it-was-fired-espn/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Gun found in Will Smith&#039;s car, but no evidence it was fired - ESPN'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFtkEiybRJ9-aFOFw-mMF2jteoKDQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779083359775&#038;ei=oX4NV7iKLoaehAHXnLj4Cg&#038;url=http://espn.go.com/nfl/story/_/id/15192518/fully-loaded-handgun-found-smith-vehicle-no-evidence-weapon-was-fired-police-say'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFtkEiybRJ9-aFOFw-mMF2jteoKDQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779083359775&#038;ei=oX4NV7iKLoaehAHXnLj4Cg&#038;url=http://espn.go.com/nfl/story/_/id/15192518/fully-loaded-handgun-found-smith-vehicle-no-evidence-weapon-was-fired-police-say'
+---
+ [ad_1]
+<br><div readability="84.110950487893"><p>NEW ORLEANS -- A fully-loaded 9-millimeter handgun was found inside the vehicle of former <a href="http://espn.go.com/nfl/team/_/name/no/new-orleans-saints">Saints</a> player Will Smith on the night he was killed, according to the New Orleans Police Department.</p><p>No ballistic evidence or shell casings were recovered to show that the weapon was fired, according to a <a href="http://www.nola.gov/nopd/press-releases/2016/04-12-2016-nopd-provides-update-on-investigation-i/" target="_blank">news release by the NOPD</a>. The NOPD did not specify whether there was any indication that Smith ever held the weapon during the incident.</p><p><aside class="inline editorial float-r" data-behavior="article_related"><ul readability="-0.33710407239819"><li readability="1.3484162895928"><a href="http://espn.go.com/blog/new-orleans-saints/post/_/id/21568/pierre-thomas-who-had-just-been-out-with-will-smith-still-in-disbelief" class="img-link"><img src="http://www.whenitson.com/wp-content/uploads/2016/04/Gun-found-in-Will-Smith039s-car-but-no-evidence-it-was-fired-ESPN.jpg"/></a><p>Pierre Thomas, who was with Will Smith on Saturday, still can't understand why Smith was killed and why gun violence is so prevalent in this country.</p></li></ul></aside></p><p>The attorney for Smith's alleged shooter, Cardell Hayes, suggested Monday that he believed the discovery of a second gun on the scene would help prove his client was not guilty of second-degree murder. Although the attorney, John Fuller, would not specify if he planned to claim self defense, he said his client was not the instigator and felt threatened.</p><p>The NOPD also revealed that it found a fully-loaded revolver inside Hayes' vehicle. There were also no shell casings or ballistic evidence recovered to show that weapon was fired.</p><p>Police said previously that all shell casings on the scene matched a third weapon, the .45 caliber handgun that was recovered on the scene and was believed to be in Hayes' possession during the time of the shooting.</p><p>Smith's wife, Racquel, was a passenger inside Smith's vehicle and was shot at least once in the leg, sustaining non-life threatening injuries according to police. The NOPD also said it its news release that another unspecified male and female were passengers inside Smith's vehicle, and they were not injured.</p><p>A <a href="http://espn.go.com/nfl/story/_/id/15188999/surveillance-video-shows-hit-run-possibly-involving-smith-former-new-orleans-saints-player-death" target="_blank">surveillance video</a> that aired Tuesday on ABC's "Good Morning America" may offer a clue as to what led to the fatal altercation between the two men.</p><p>The video came from a New Orleans restaurant and it appears to show a hit-and-run incident between two vehicles matching the descriptions of those driven by Smith and Hayes minutes before Smith was shot and killed on Saturday.</p><p>The surveillance video appears to show the Mercedes bump the Hummer at 11:21 p.m. As the Hummer begins to pull over to the side of the road, the Mercedes veers into the opposite lane before driving away. The Hummer immediately pursues the Mercedes onto Sophie Wright Place; according to New Orleans police, Smith was shot two blocks away near the intersection of Sophie Wright Place and Felicity Street, which is a five-point intersection.</p>
+</div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFtkEiybRJ9-aFOFw-mMF2jteoKDQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779083359775&#038;ei=oX4NV7iKLoaehAHXnLj4Cg&#038;url=http://espn.go.com/nfl/story/_/id/15192518/fully-loaded-handgun-found-smith-vehicle-no-evidence-weapon-was-fired-police-say">Source </a>

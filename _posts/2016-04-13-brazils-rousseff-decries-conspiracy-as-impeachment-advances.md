@@ -1,0 +1,34 @@
+---
+ID: 2716
+post_title: 'Brazil&#039;s Rousseff decries conspiracy as impeachment advances'
+author: Staff Writer
+post_date: 2016-04-13 00:04:11
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/brazils-rousseff-decries-conspiracy-as-impeachment-advances/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - 'Brazil&#039;s Rousseff decries conspiracy as impeachment advances'
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/E4yeI1laKbc/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/E4yeI1laKbc/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="4"><p><span class="articleLocation">BRASILIA</span> Brazilian President Dilma Rousseff said on Tuesday her vice president was orchestrating a conspiracy to topple her, as efforts to impeach the leftist leader gained momentum in Congress.</p></span><span id="midArticle_1"/><p>Aided by her mentor and predecessor, Luiz Inacio Lula da Silva, Rousseff scrambled to secure enough support from a dwindling array of allies to block impeachment in a lower house vote due on Sunday that analysts project she will lose.</p><span id="midArticle_2"/><p>A congressional committee voted on Monday by a larger-than-expected margin to recommend that Rousseff be impeached for breaking budget laws to support her re-election in 2014, a charge Rousseff says was trumped up to remove her from office. </p><span id="midArticle_3"/><p>Political risk consultancies estimate at 60 to 65 percent the odds of impeachment clearing the lower house, since the committee vote was expected to sway undecided lawmakers to join the opposition.</p><span id="midArticle_4"/><p>While Rousseff fights for her political survival, her government is largely paralyzed as Brazil, the world's seventh largest economy, struggles with a deep recession and its biggest-ever corruption scandal.</p><span id="midArticle_5"/><p>"They now are conspiring openly, in the light of day, to destabilize a legitimately elected president," Rousseff said in a speech on Tuesday, referring to an audio message sent by Vice President Michel Temer to his supporters on Monday in which he called for a government of national unity to overcome Brazil's political crisis.</p><span id="midArticle_6"/><p>The congressional committee's 38-27 decision was backed by Temer's PMDB party, formerly her main coalition ally. The party's defection last month greatly increased the likelihood the lower house will send her impeachment to the Senate. </p><span id="midArticle_7"/><p>Temer would take over if the Senate agrees to suspend Rousseff and proceed with a trial against her.</p><span id="midArticle_8"/><p>He has denied plotting against Rousseff. But his aides say he has been preparing in case he has to replace her, so that he can restore confidence with a business-friendly agenda aimed at pulling the economy out of a tailspin.</p><span id="midArticle_9"/>
+        
+        <span class="first-article-divide"/><p>The rift between Rousseff and Temer reached a breaking point on Monday after the audio message was released, which Temer said was unintentional.  </p><span id="midArticle_10"/><p>"The conspirators have been unmasked," Rousseff said in her speech. She did not mention Temer by name but cited the message as evidence of what she called an attempted "coup."</p><span id="midArticle_11"/><p>Finance Minister Nelson Barbosa canceled a trip to the International Monetary Fund's spring meetings in Washington to remain in Brasilia for Sunday's impeachment vote. In its World Economic Outlook on Tuesday, the IMF said Brazil's prolonged recession would be a drag on growth in Latin America for the next two years.</p><span id="midArticle_12"/><span id="midArticle_13"/><p>COUNTING VOTE BY VOTE</p><span id="midArticle_14"/>
+        
+        <span class="second-article-divide"/><p>Brazil's benchmark Bovespa stock index soared almost 4 percent on Tuesday as investors warmed to the greater likelihood of a Rousseff impeachment, which they believe will improve the prospects of an economic recovery.</p><span id="midArticle_15"/><p>Presidential aides said the government was on a razor's edge over Sunday's lower house vote, which will be organized by Rousseff's political archenemy, Speaker Eduardo Cunha.</p><span id="midArticle_0"/><p>"We believe we have enough support, but it's very fluid and we are counting the votes day by day," an official in Rousseff's office said, on condition of anonymity.</p><span id="midArticle_1"/><p>The aide said Lula, Brazil's most influential politician despite being the target of a graft probe, was leading talks with small parties that are wavering in their support for Rousseff and had offered them government jobs to secure crucial votes. </p><span id="midArticle_2"/>
+        
+        <span class="third-article-divide"/><p>Negotiations were not easy because they were also talking to Temer's camp, the aide said.</p><span id="midArticle_3"/><p>Rousseff suffered a further blow later on Tuesday, as the centrist Progressive Party, or PP, left her government, saying it would abandon its ministerial roles. The party had been an important Rousseff ally and with 49 deputies in the lower house could decide which way Sunday's vote goes.</p><span id="midArticle_4"/><p>The party's leader in the lower house, Aguinaldo Ribeiro, told reporters in Brasilia the majority of his party supported impeachment. </p><span id="midArticle_5"/><p>At this point, Temer has more to offer than Rousseff, said Claudio Couto, a political scientist at the Fundação Getúlio Vargas think tank.</p><span id="midArticle_6"/><p>"The undecided congressmen must be calculating whether to stay with a very weak government that can barely govern the country or bet on a future Temer government that will have more support," Couto said.</p><span id="midArticle_7"/><p>Rousseff, whose popularity has crumbled during Brazil's recession and the corruption scandal surrounding state oil company Petroleo Brasileiro, said her opponents were undermining Brazil's young democracy by seeking to cut her second term short without legal justification.</p><span id="midArticle_8"/><p>"They intend to overthrow a president elected by more than 54 million voters," she said, adding that impeachment was aimed at rolling back social and economic advances for many Brazilians during the 13 years of government by her Workers' Party.</p><span id="midArticle_9"/><span id="midArticle_10"/><p> (Reporting by Anthony Boadle and Alonso Soto; Editing by Tom Brown and Peter Cooney)</p><span id="midArticle_11"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/E4yeI1laKbc/story01.htm">Source </a>

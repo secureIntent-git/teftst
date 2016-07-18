@@ -1,0 +1,38 @@
+---
+ID: 4339
+post_title: >
+  Wall Street hopes software helps it hire
+  loyal bankers
+author: Staff Writer
+post_date: 2016-06-07 11:39:11
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/wall-street-hopes-software-helps-it-hire-loyal-bankers/
+published: true
+original_cats:
+  - technologyNews
+original_title:
+  - >
+    Wall Street hopes software helps it hire
+    loyal bankers
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/KfVA2nhcP5I/us-banks-hiring-ai-idUSKCN0YT163
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/KfVA2nhcP5I/us-banks-hiring-ai-idUSKCN0YT163
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="3"><p><span class="articleLocatio&lt;/span&gt;n">Clinching a job on Wall Street soon may have as much to do with beating an algorithm as nailing the interview.</span></p></span><span id="midArticle_1"/><p>Goldman Sachs Group Inc, Morgan Stanley, Citigroup Inc and UBS Group AG are exploring the use of artificial intelligence software to judge applicants on traits - such as teamwork, curiosity and grit - that help in the workplace but don't always show up on a resume or come through in an interview.</p><span id="midArticle_2"/><p>Banks are turning to the hiring software at a time when they are under pressure to cut costs and finding it difficult to lure and retain top talent. Bank executives hope that artificial intelligence will help them avoid the expense of problem hires and turnover, industry sources said.</p><span id="midArticle_3"/><p>"Up until this point, technology has only allowed you to find the best resume, but now it's a way of truly understanding the people that are applying," said Mark Newman, chief executive of Salt Lake City, Utah-based HireVue, a video-interviewing platform that uses artificial intelligence to screen applicants.</p><span id="midArticle_4"/><p>Several banks are in the early stages of adding artificial intelligence software to complement in-person interviews and other traditional hiring processes. The banks hope that the technology can help predict which employees will succeed at a given job by creating patterns around large amounts of data that the tests produce.</p><span id="midArticle_5"/><p>Seattle-based Koru Careers Inc makes one version of the technology, which Citi and other banks are using in pilot programs to sort out applicants. Other banks are experimenting with software created internally.</p><span id="midArticle_6"/><p>Koru begins by testing a client's employees to identify traits that mark high performance, known as a corporate "fingerprint." Then applicants take the same assessment, and the software identifies which candidates are best suited to that company.</p><span id="midArticle_7"/><p>"It may be that what it takes to succeed at Morgan Stanley is different than what it takes to succeed at Goldman Sachs," said Koru Chief Executive Kristen Hamilton.</p><span id="midArticle_8"/><p>Koru charges its employer clients an undisclosed flat fee for the fingerprint and a license fee for the testing that rises with the number of applicants who take it.</p><span id="midArticle_9"/><p>Applicants also can record a short video in which they talk about their defining qualities and career aspirations. Koru screens the videos for clients, looking not only at what applicants say, but also their delivery style, including body language and pace of speaking.</p><span id="midArticle_10"/><span id="midArticle_11"/>
+        
+        <span class="first-article-divide"/><p>BAD HIRES RAISE COSTS</p><span id="midArticle_12"/><p>While Wall Street is not the first place the technology has been tried, it is not yet widespread.</p><span id="midArticle_13"/><p>The banks hope it will help them compete for recent college graduates who are attracted to Silicon Valley firms and hedge funds.</p><span id="midArticle_14"/><p>They also hope it will help them avoid hiring the wrong person, which can be expensive and can lead to costly mistakes and lost business opportunities, said bank executives and staffing consultants. Capital One Financial Corp estimates the cost of a bad hire can be as much as three times that employee's salary.</p><span id="midArticle_15"/><p>The goal of hiring software is to avoid human pitfalls, such</p><span id="midArticle_0"/><p>as overlooking potentially strong candidates who may not seem desirable at first glance, said Matt Doucette, director of global talent acquisition at Monster Worldwide Inc. </p><span id="midArticle_1"/>
+        
+        <span class="second-article-divide"/><p>"The best salesperson usually isn't the one peacocking, it's the mousy person in the corner who is sharp and asks the right questions," Doucette said. "But if that person interviewed at face value, they never would have been hired."</p><span id="midArticle_2"/><p>Koru says its software decreases the number of bad hires by as much as 60 percent. </p><span id="midArticle_3"/><span id="midArticle_4"/><p>THE HUMAN ELEMENT</p><span id="midArticle_5"/><p>Some human resources experts say artificial intelligence tools and algorithms don't always capture the best people for a given job and could actually perpetuate existing biases.</p><span id="midArticle_6"/>
+        
+        <span class="third-article-divide"/><p>For example, if a company hired mostly white men who were the eldest children and left handed, an algorithm likely would predict such employees were the most successful, said Brian Sommer, a human resources industry analyst.</p><span id="midArticle_7"/><p>"There may potentially be huge pockets of people who could be even better individuals for a position that end up being excluded because they aren't part of a bigger data set," he said.</p><span id="midArticle_8"/><p>Citigroup is testing Koru's software on small batches of employees in its corporate and investment bank, a spokesman said.</p><span id="midArticle_9"/><p>UBS is running an algorithm on digital resumes to identify candidates with preferred traits and is giving those applications priority for interviews, said a person familiar with the bank's hiring process who was not authorized to speak publicly. It also is using the technology to ensure human reviewers don't overlook strong applicants.</p><span id="midArticle_10"/><p>Goldman is using software developed internally to mine resumes for attributes that reflect desired qualities, such as teamwork, integrity and judgment, according to people familiar with the matter. </p><span id="midArticle_11"/><p>It also is exploring personality tests to better understand what traits make the most successful bankers and traders. Applicants take a 20-minute test to measure their thinking style, personal associations and emotional intelligence. Their answers are measured against the broader Goldman employee base.</p><span id="midArticle_12"/><p>Goldman still is considering whether it will use the data as part of its broader hiring process, the sources said.</p><span id="midArticle_13"/><p>Anthony Onesto - vice president of human resources at Razorfish who is building a robot to help answer HR-related questions within companies - said it was still early days for hiring software.</p><span id="midArticle_14"/><p>"We're still early, and ultimately it's computers, technology and humans working together," he said.</p><span id="midArticle_15"/><span id="midArticle_16"/><p> (Reporting by Olivia Oran in New York; Editing by Lauren Tara LaCapra and Lisa Girion)</p><span id="midArticle_17"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/technologyNews/~3/KfVA2nhcP5I/us-banks-hiring-ai-idUSKCN0YT163">Source </a>

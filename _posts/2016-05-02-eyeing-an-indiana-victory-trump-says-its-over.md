@@ -1,0 +1,34 @@
+---
+ID: 3257
+post_title: 'Eyeing an Indiana victory, Trump says, &#039;It&#039;s over&#039;'
+author: Staff Writer
+post_date: 2016-05-02 01:43:15
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/eyeing-an-indiana-victory-trump-says-its-over/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - 'Eyeing an Indiana victory, Trump says, &#039;It&#039;s over&#039;'
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/9zHdwpgxUno/us-usa-election-trump-idUSKCN0XS1AE
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/9zHdwpgxUno/us-usa-election-trump-idUSKCN0XS1AE
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">WASHINGTON</span> Front-runner Donald Trump said on Sunday that he will have essentially sealed the Republican U.S. presidential nomination if he wins Tuesday's contest in Indiana, where he holds a big lead over chief rival Ted Cruz.</p></span><span id="midArticle_1"/><p>A new NBC/Wall Street Journal/Marist opinion poll showed Trump with a wide lead in Indiana, 49 percent to 34 percent for Cruz and 13 percent for a third candidate, Ohio Governor John Kasich.</p><span id="midArticle_2"/><p>Trump, a 69-year-old billionaire real estate developer, sounded confident in an interview on "Fox News Sunday" when asked whether Indiana would basically end the long-running Republican race in his favor.</p><span id="midArticle_3"/><p>"Yes, it's over," Trump said. "It's already over."</p><span id="midArticle_4"/><p>The poll showed the depth of the challenge facing Cruz, a conservative U.S. senator from Texas who is trying to prevent Trump from winning the 1,237 delegates needed to seal the nomination. </p><span id="midArticle_5"/><p>Cruz's hopes rest on emerging as a consensus alternative to Trump at the Republican National Convention in Cleveland on July 18-21. Former U.S. Secretary of State Hillary Clinton, 68, leads U.S. Senator Bernie Sanders, 74, of Vermont in the race for the Democratic nomination.</p><span id="midArticle_6"/><p>On NBC's "Meet the Press," Cruz, 45, was asked several times whether he would support Trump if the New York businessman was the Republican nominee. Cruz evaded the question each time and turned the questions into an attack on broadcast media.</p><span id="midArticle_7"/><p>“I recognize that many in the media would love to see me surrender to Donald Trump because that means that Hillary wins. The media has given $2 billion in free advertising to Donald Trump," Cruz said.</p><span id="midArticle_8"/><p>Cruz said he has momentum in Indiana based on his choice of former candidate Carly Fiorina for his vice president and Friday's endorsement by Indiana Governor Mike Pence.</p><span id="midArticle_9"/><p>Americans will elect a successor to President Barack Obama on Nov. 8.</p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><span id="midArticle_11"/><p>'THE MOST UNELECTABLE PERSON'</p><span id="midArticle_12"/><p>Trump, who has amassed 996 delegates, according to an Associated Press count, has momentum behind him and looks increasingly likely to win the nomination outright, without a contested convention, perhaps when California votes on June 7.</p><span id="midArticle_13"/><p>Indiana has 57 Republican delegates. Three are awarded from each of the state's nine U.S. congressional districts with the candidate who receives the most votes taking them all. The 30 others are awarded to the candidate who wins the most votes statewide.</p><span id="midArticle_14"/><p>At a rally in Terre Haute, Indiana, Trump urged Republicans to join his "movement" and turn out for him in big numbers.</p><span id="midArticle_15"/>
+        
+        <span class="second-article-divide"/><p>"The more we can win by in Indiana is so important. It’s a mandate ... a really important mandate. It’s a mandate for change, but not Obama change. Real change. It’s a mandate for genius," he said.</p><span id="midArticle_0"/><p>U.S. Senator Lindsey Graham of South Carolina, a leading Republican critic of Trump, called him the "most unelectable person" the party could nominate. Graham had sought the nomination himself.</p><span id="midArticle_1"/><p>"Keep fighting Ted," Graham told CBS's "Face the Nation."</p><span id="midArticle_2"/><span id="midArticle_3"/><p>CLINTON URGES SANDERS QUIT</p><span id="midArticle_4"/>
+        
+        <span class="third-article-divide"/><p>On the Democratic side, front-runner Clinton told CNN’s “State of the Union” that rival Bernie Sanders has been “helpful” in bringing millions of people into the party's presidential race, but it was time for him to step aside.</p><span id="midArticle_5"/><p>"There comes a time when you have to look at the reality," said Clinton, who won four of the five Northeastern states that voted last Tuesday and who has a big lead in the delegate race ahead of the Democratic National Convention in Philadelphia on July 25-28.</p><span id="midArticle_6"/><p>But at a news conference in Washington, Sanders refused to get out, saying he believes the Democratic battle will end up in a contested convention.</p><span id="midArticle_7"/><p>Sanders said it was nearly impossible for Clinton to win the 2,383 delegates needed for nomination without superdelegates, who are unelected and free to support any candidate they wish. "We intend to fight for every vote and delegate remaining," he said. Clinton has 2,165 to Sanders' 1,357 delegates, according to an AP count that includes superdelegates who have said whom they support.</p><span id="midArticle_8"/><p>In his Fox interview, Trump defended at length his views on foreign policy, which he outlined in a speech last week in Washington that drew criticism for sometimes contradictory views. Trump said he would move quickly to destroy Islamic State's militancy, but would resist interventionist policies in order to focus on nation-building at home.</p><span id="midArticle_9"/><p>Trump said "every move we made in the Middle East was wrong" over the past 15 years, with lives and money wasted. He said he would resist such policies.</p><span id="midArticle_10"/><p>Asked whether the United States should return to working with "strongmen" leaders like the late Iraqi President Saddam Hussein, Trump said: "Isn’t it too bad that we knocked him out in the first place?"</p><span id="midArticle_11"/><span id="midArticle_12"/><p> (Additional reporting by David Lawder; Editing by Howard Goller)</p><span id="midArticle_13"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/9zHdwpgxUno/us-usa-election-trump-idUSKCN0XS1AE">Source </a>

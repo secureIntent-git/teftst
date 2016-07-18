@@ -1,0 +1,52 @@
+---
+ID: 4653
+post_title: 'Russian Track Team Barred From Rio Olympics Over Doping Charges &#8211; Wall Street Journal'
+author: Staff Writer
+post_date: 2016-06-18 01:19:15
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/russian-track-team-barred-from-rio-olympics-over-doping-charges-wall-street-journal/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Russian Track Team Barred From Rio Olympics Over Doping Charges - Wall Street Journal'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHpF4xhubz7Q9HIHSZd943BK2LIyQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779133749676&#038;ei=p6BkV8iRHMLSwQGy9Z2oDA&#038;url=http://www.wsj.com/articles/russian-track-team-banned-from-rio-olympics-over-doping-charges-1466178833'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHpF4xhubz7Q9HIHSZd943BK2LIyQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779133749676&#038;ei=p6BkV8iRHMLSwQGy9Z2oDA&#038;url=http://www.wsj.com/articles/russian-track-team-banned-from-rio-olympics-over-doping-charges-1466178833'
+---
+ [ad_1]
+<br><div id="wsj-article-wrap" itemprop="articleBody" data-sbid="SB12447301235188354015204582134752912912654" readability="212.0942729201">
+
+  
+
+
+    
+
+
+  <div class="clearfix byline-wrap">
+
+
+    
+    
+    
+    <time class="timestamp">
+      Updated June 17, 2016 7:13 p.m. ET
+    </time>
+
+    
+  </div>
+
+  <!--
+      --> <p>The Russian track and field team was barred by the sport’s governing body from competing in this summer’s Olympic Games due to widespread doping, a politically fraught move that casts a large shadow over August’s event in Rio de Janeiro.</p> <p>The decision, which will have to be approved by the International Olympic Committee, is virtually unprecedented for the Olympic movement, which in the past has avoided assigning collective responsibility for doping violations and has never taken on one of the world’s most powerful countries.</p> <p>Russia has said it would appeal the decision by the International Association of Athletics Federations, which was announced Friday at a news conference in Vienna. But coming less than two months before the opening ceremony in Rio, the ruling raises the possibility that some of the world’s top athletes will be forced from the Games due to persistent—and worsening—cheating allegations.</p> <p>IAAF President Sebastian Coe said the council’s decision was unanimous, while another IAAF official said Russia was punished in part because it hasn’t cracked down on cheating despite years of scrutiny over the issue.</p> <p>Rune Andersen, independent chairman of the IAAF task force charged with evaluating Russia’s eligibility, said “the deep-seated culture of tolerance, or worse, for doping that got Russian Athletics suspended appears not to have changed.”</p> <p>The Russian ministry of sport released a statement Friday saying it was “extremely disappointed” by the decision.</p> <p>The building controversy presents a dilemma for Russian President Vladimir Putin, who could be forced to decide whether to withhold all of the country’s competitors, including such non-track athletes as swimmers, wrestlers and gymnasts, from Rio if the appeal fails. Keeping the athletes home would be fraught with risk for Mr. Putin, who has made Russia’s return to dominance in international sports a symbol of the country’s strength in the post-Soviet era.</p> <p>Russia has also become a popular destination for high-profile sports events, including soccer’s World Cup in 2018. Pulling out from the Olympics, where competitions are run by the federations themselves, would severely hamper Russia’s chances of gaining future opportunities to host such events.</p> <p>In response to a question on doping before Friday’s announcement, Mr. Putin warned against politicizing the issue, saying it shouldn’t form the basis of an “anti-Russian” campaign. He also said it wasn’t fair to punish all Russian athletes.</p> <p>“Responsibility can only be individual,” he said.</p> <p>The IAAF did crack the door for some Russian track-and-field competitors to participate in the Olympics even if the ban remains in place, ​saying that athletes who can “clearly and convincingly show that they are not tainted by the Russian system” should be able to apply to compete, just not under the Russian flag. Such athletes would have to demonstrate that they had been subject to other stringent antidoping systems, including those training outside of Russia.</p> <!--
+      --> 
+<!--
+      --> <p>The IAAF council said it supports Russian athletes who took steps to stop the doping culture and that those such as runner Yulia Stepanova “should be considered favorably” in their efforts to gain exemption from the ban.</p> <p>The move to maintain an international suspension of the Russian athletes came seven months after an investigation by an independent commission of the World Anti-Doping Agency found a system of <a href="http://www.wsj.com/articles/anti-doping-commission-finds-russia-engaged-in-state-sponsored-doping-1447082047" class="icon none">widespread, state-sponsored doping</a> that involved bribes between international track officials, Russian sports leaders and athletes—all aimed at covering up drug cheating.</p> <p>After that report was released in November, the IAAF council suspended Russia’s athletics organization, and its track and field athletes from international competition. The council said the ban would only be lifted if Russia reformed its antidoping operations and allowed international authorities to oversee its antidoping program.</p> <p>Those efforts have had mixed results. WADA released a report Wednesday outlining <a href="http://blogs.wsj.com/dailyfix/2016/06/15/wada-russia-continues-to-evade-ped-testing/" class="icon none">continuing problems with testing</a> in Russia.</p> <p>From mid-February to mid-May, testers from the United Kingdom performed 455 tests on Russian athletes. Another 736 attempted tests were unsuccessful, often because testers couldn’t connect with athletes.</p> <p>Russian athletes, the report said, often failed to report their whereabouts accurately or list addresses in military cities where access to outsiders is difficult and security officials threatened testing agents with expulsion from the country. In multiple cases, athletes evaded testers who arrived at competitions to collect samples, the report said.</p> <p>Since the release of the report, athletes from other countries have pressured the IAAF and the IOC to keep their Russian counterparts out of the Games.</p> <p>The exclusion of Russian athletes will likely have a significant impact on results at the Olympics, where Russia has been a dominant force in track and field, winning 78 medals since the fall of the Soviet Union.</p> <p>Beckie Scott, a former Canadian skier and leader of the World Anti-Doping Agency’s athletes committee, said her group wholeheartedly supported the IAAF decision. She said it was premature to say whether the whole Russian team should be banned until a broader IOC report on doping comes out in July, though she said, “the IOC is going to have a weighty decision about what it can do to protect clean athletes and ensure a clean competition in Rio.”</p> <p>Pressure to keep Russian athletes out of Rio mounted last month when the former director of Russia’s antidoping agency claimed to the New York Times that Russia corrupted the testing lab at the 2014 Olympics in Sochi to dispose of samples from Russian athletes who were known performance enhancing drug users. An investigation into those charges is continuing.</p> <p>Russian officials have admitted wrongdoing in some cases while denying that the Sochi lab was corrupted. They have also tried to highlight measures they have taken in the past six months to reform their antidoping program, including stricter penalties, education and more testing of athletes.</p> <p>WADA’s initial report on the investigation into corruption at the Sochi lab is due on July 15. IOC President Thomas Bach has said Russian sports federations could be banned from the Summer Games if the allegations are true.</p> <p>“We have done everything possible since the ban was first imposed to regain the trust of the international community,” the Russian ministry said in its statement. It asked the IOC to “not only consider the impact that our athletes’ exclusion will have on their dreams and the people of Russia, but also that the Olympics themselves will be diminished by their absence.”</p> <p>​Bryan Fogel, a U.S.-based documentarian working on a film about corruption in Russia’s antidoping program, contested that any such preventive measures were ever taken. ​The film includes extensive interviews with Grigory Rodchenkov, who was director of the Moscow lab used for the Sochi Games.</p> <p>​”The entire system was only built to evade drug testing, to develop means and methods to help Russian athletes defraud the world,” Mr. Fogel said in an interview. ​</p> <p>Mr. Fogel said he and Mr. Rodchenkov have given evidence to WADA and the IOC that the men believe will be sufficient to bar the entire Russian federation from the Olympics.</p> <p>Kyle Merber, a U.S. Olympic hopeful in the 1500 meters, said the absence of Russia in Rio won’t make it easier for athletes from other nations to perform well. “Maybe it was overly difficult in the past, and now we’re taking necessary steps to clean it up,” he said. “Hopefully it’s a more honest Olympics.”​</p> <p> <strong>Write to </strong>Matthew Futterman at <a href="mailto:matthew.futterman@wsj.com" target="_blank" class="icon ">matthew.futterman@wsj.com</a> and Sara Germano at <a href="mailto:sara.germano@wsj.com" target="_blank" class="icon ">sara.germano@wsj.com</a> </p>
+
+<!--
+  -->
+</div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHpF4xhubz7Q9HIHSZd943BK2LIyQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779133749676&#038;ei=p6BkV8iRHMLSwQGy9Z2oDA&#038;url=http://www.wsj.com/articles/russian-track-team-banned-from-rio-olympics-over-doping-charges-1466178833">Source </a>

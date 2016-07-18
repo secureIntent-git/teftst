@@ -1,0 +1,34 @@
+---
+ID: 2848
+post_title: 'Komodo commerce: e-tailers battle in Southeast Asia'
+author: Staff Writer
+post_date: 2016-04-17 20:47:05
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/komodo-commerce-e-tailers-battle-in-southeast-asia/
+published: true
+original_cats:
+  - technologyNews
+original_title:
+  - 'Komodo commerce: e-tailers battle in Southeast Asia'
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/3TfOgMcX1m8/us-alibaba-lazada-southeastasia-idUSKCN0XC15N
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/3TfOgMcX1m8/us-alibaba-lazada-southeastasia-idUSKCN0XC15N
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="6"><p><span class="articleLocation">SINGAPORE/JAKARTA</span> With its $1 billion buy of online retailer Lazada, Alibaba (<span id="symbol_BABA.N_0">BABA.N</span>) has signaled Southeast Asia as a regional e-commerce battleground - with 600 million people, and no shortage of logistical headaches.</p></span><span id="midArticle_1"/><p>The region has the potential to help global retailers offset slowing growth momentum in their core markets, but it comes with complex regulatory, logistical and language barriers. Internet connections can be slow and the vast archipelago landscape can prove daunting to even hardened logistics experts.</p><span id="midArticle_2"/><p>In an interview in October, Lazada's chief operating officer Pierre Poignant highlighted some of the hurdles in delivering packages in the Philippines, for example.</p><span id="midArticle_3"/><p>"In some places, there's just no address. It's like 'take the house on the left'. And in many places you have to take a boat to get there... It can be several days or even weeks to reach some very remote island," he told Reuters.</p><span id="midArticle_4"/><p>A study by CLSA last year showed that almost a quarter of the online orders it placed in the Philippines failed to arrive, and multiple delivery delays were reported.</p><span id="midArticle_5"/><p>Such obstacles mean the market is highly fragmented, with no dominant force. Start-up funds say international companies wanting to get in are likely to follow Alibaba's route by buying existing operators rather than trying to go it alone. </p><span id="midArticle_6"/><p>"The strategy of coming in, looking for a local player who has shown traction and buying them in order to get a foothold is a very good one, and we will see more of that," said Vinnie Lauria, a founding partner at Golden Gate Ventures which is invested in marketplace Carousell and online grocer Redmart.</p><span id="midArticle_7"/><p>"Lazada has done a very good job of operating in multiple countries. That's not something Alibaba is familiar with."</p><span id="midArticle_8"/><p>Headquartered in Singapore, Lazada also operates in Malaysia, Indonesia, the Philippines, Thailand and Vietnam.</p><span id="midArticle_9"/>
+        
+        <span class="first-article-divide"/><span id="midArticle_10"/><p>"KOMODO IN THE JUNGLE"</p><span id="midArticle_11"/><p>Though Lazada more than tripled the number of active customers to 7.3 million, its losses more than doubled last year, and experts warn that investors should be prepared for a long wait before the industry turns a profit.</p><span id="midArticle_12"/><p>The region has dozens of other e-commerce players, including Amazon.com (<span id="symbol_AMZN.O_1">AMZN.O</span>), Tokopedia, OLX, Qoo10, Zalora, Cung Mua, Blibli and Etsy - but no one platform controls more than a fifth of the market, according to Bain &amp; Co.</p><span id="midArticle_13"/><p>And the list keeps growing, with payment start-ups such as Fastacash, Xoom and GoSwift aiming for a foothold in the region.</p><span id="midArticle_14"/>
+        
+        <span class="second-article-divide"/><p> Lauria said it would be easier for an international player to acquire rather than "copy and paste", especially for online marketplaces.</p><span id="midArticle_15"/><p> For those companies already scrapping it out for a small slice of the market, consolidation may be the route to survival.</p><span id="midArticle_0"/><p>"The (market) shares of smaller players are definitely going to get smaller with Alibaba jumping into the region," said Cris Duy Tran, a consultant at Frost &amp; Sullivan. "One way to survive is to partner with some of the other players to get bigger."</p><span id="midArticle_1"/><p> A person with direct knowledge of the Lazada deal said Alibaba reviewed several targets before the acquisition.</p><span id="midArticle_2"/>
+        
+        <span class="third-article-divide"/><p>"(Lazada) gives them scale. Organically, it would have taken a lot of time to build," the person said.</p><span id="midArticle_3"/><p>An Alibaba spokesman in Hong Kong said the e-commerce giant sees the Lazada deal as a "win-win investment."</p><span id="midArticle_4"/><p>"We see SE Asia as a strategic piece of our globalization strategy. It's a market that shows significant e-commerce potential," with a robust economic environment, attractive demographics, low e-commerce penetration and some 33 million Chinese, who hold potential for cross-border commerce, he said in an emailed response to Reuters enquiries.</p><span id="midArticle_5"/><p>Another source with direct knowledge of the Lazada deal said Alibaba would likely not stop at just one acquisition in the region. "It's a $200 billion company ... doing a $1 billion deal in one segment of e-commerce. Does that mean the end of it? I don't think so. They still have appetite," the person said.</p><span id="midArticle_6"/><p>Other existing firms were primed for more competition.</p><span id="midArticle_7"/><p>"I say today that Tokopedia is the komodo in the 17,000-island archipelago," said William Tanuwijaya, co-founder and CEO of SoftBank-backed (<span id="symbol_9984.T_2">9984.T</span>) Tokopedia, in response to Alibaba Chairman Jack Ma's one-time description of his e-commerce group as a crocodile in the Yangtze river.</p><span id="midArticle_8"/><p>"Fighting in a river, the komodo will lose, but fighting in the jungle on one of our islands, the komodo has a pretty good chance to win," Tanuwijaya said.</p><span id="midArticle_9"/><span id="midArticle_10"/><p> (Reporting by Aradhana Aravindan and Eveline Danubrata, with additional reporting by Saeed Azhar in SINGAPORE, Denny Thomas in HONG KONG and Paul Carsten in BEIJING; Writing by Miyoung Kim; Editing by Ian Geoghegan)</p><span id="midArticle_11"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/technologyNews/~3/3TfOgMcX1m8/us-alibaba-lazada-southeastasia-idUSKCN0XC15N">Source </a>

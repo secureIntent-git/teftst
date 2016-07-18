@@ -1,0 +1,38 @@
+---
+ID: 4255
+post_title: >
+  Muhammad Ali, boxing great and cultural
+  symbol, dies at 74
+author: Staff Writer
+post_date: 2016-06-04 15:10:09
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/muhammad-ali-boxing-great-and-cultural-symbol-dies-at-74/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    Muhammad Ali, boxing great and cultural
+    symbol, dies at 74
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/5Z_wGnH7X9Q/us-boxing-ali-condition-idUSKCN0YQ00M
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/5Z_wGnH7X9Q/us-boxing-ali-condition-idUSKCN0YQ00M
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="8"><p><span class="articleLocation">SCOTTSDALE, Ariz.</span> Muhammad Ali, the former world heavyweight boxing champion whose record-setting career, flair for showmanship and political stands made him one of the best-known figures of the 20th century, died on Friday aged 74.</p></span><span id="midArticle_1"/><p>Ali, who had long suffered from Parkinson's syndrome which impaired his speech and made the once-graceful athlete almost a prisoner in his own body, died a day after he was admitted to a Phoenix-area hospital with a respiratory ailment.</p><span id="midArticle_2"/><p>Even so, Ali's youthful proclamation of himself as "the greatest" rang true until the end for the millions of people worldwide who admired him for his courage both inside and outside the ring.</p><span id="midArticle_3"/><p>Along with a fearsome reputation as a fighter, he spoke out against racism, war and religious intolerance, while projecting an unshakeable confidence and humor that became a model for African-Americans at the height of the civil rights era. </p><span id="midArticle_4"/><p>"Muhammad Ali was one of the greatest human beings I have ever met," said George Foreman, who lost to Ali in Zaire in a classic 1974 bout known as the "Rumble in the Jungle."</p><span id="midArticle_5"/><p>"No doubt he was one of the best people to have lived in this day and age. To put him as a boxer is an injustice."</p><span id="midArticle_6"/><p>Ali enjoyed a popularity that transcended the world of sports, even though he rarely appeared in public in his later years.</p><span id="midArticle_7"/><p>As the first black president of the United States, Barack Obama said Ali was "a man who fought for us" and placed him in the pantheon of civil rights leaders Martin Luther King Jr. and Nelson Mandela.</p><span id="midArticle_8"/><p>"His fight outside the ring would cost him his title and his public standing. It would earn him enemies on the left and the right, make him reviled, and nearly send him to jail. But Ali stood his ground. And his victory helped us get used to the America we recognize today," Obama said in a statement.</p><span id="midArticle_9"/><p>Ali's death was confirmed in a statement issued by his family spokesman late Friday evening.</p><span id="midArticle_10"/><p>Few could argue with his athletic prowess at his peak in the 1960s. With his dancing feet and quick fists, he could - as he put it - float like a butterfly and sting like a bee. </p><span id="midArticle_11"/>
+        
+        <span class="first-article-divide"/><p>He was the first person to win the heavyweight championship three times.</p><span id="midArticle_12"/><p>But Ali became much more than a sportsman. He spoke boldly against racism in the '60s as well as against the Vietnam War.</p><span id="midArticle_13"/><p>During and after his championship reign, Ali met scores of world leaders and for a time he was considered the most recognizable person on Earth, known even in remote villages in countries far from the United States.</p><span id="midArticle_14"/><span id="midArticle_15"/><p>TRIBUTES POUR IN</p><span id="midArticle_0"/>
+        
+        <span class="second-article-divide"/><p>Ali's diagnosis of Parkinson's came about three years after he retired from boxing in 1981. </p><span id="midArticle_1"/><p>He struggled on with the disease for three decades, but carried on making public appearances including at the opening ceremony of the 1996 Atlanta Olympics, stilling the Parkinson's tremors in his hands enough to light the Olympic flame. He also took part in the opening of the London Olympics in 2012, looking frail in a wheelchair.</p><span id="midArticle_2"/><p>His influence extended far beyond the sport. He became the unofficial spokesman for millions of black people and oppressed groups around the world because of his refusal to compromise his opinions and stand up to white authorities.</p><span id="midArticle_3"/><p>Tributes poured in from across the world of sport, entertainment and politics.</p><span id="midArticle_4"/><p>"We lost a giant today. Boxing benefited from Muhammad Ali's talents but not nearly as much as mankind benefited from his humanity," said Manny Pacquiao, a boxer and politician in the Philippines, where Ali fought arch rival Joe Frazier for a third time in a brutal 1975 match dubbed the "Thrilla in Manila."</p><span id="midArticle_5"/><p>Civil rights leader Rev. Jesse Jackson said on Twitter: "Let us pray for @MuhammadAli; good for America, world boxing champion, social transformer &amp; anti-war hero. #TheGreatest."</p><span id="midArticle_6"/>
+        
+        <span class="third-article-divide"/><p>Brazilian soccer great Pele wrote on Instagram: "The sporting universe has just suffered a big loss. Muhammad Ali was my friend, my idol, my hero."</p><span id="midArticle_7"/><p>In a realm where athletes often battle inarticulateness as well as their opponents, Ali was known as the Louisville Lip and loved to talk - especially about himself.</p><span id="midArticle_8"/><p>"Humble people, I've found, don't get very far," he once told a reporter.</p><span id="midArticle_9"/><p>His taunts could be brutal. "Joe Frazier is so ugly that when he cries, the tears turn around and go down the back of his head," he once said. He also dubbed Frazier a 'gorilla' but later apologized and said it was all to promote the fight.</p><span id="midArticle_10"/><p>Once asked about his preferred legacy, Ali said: "I would like to be remembered as a man who won the heavyweight title three times, who was humorous and who treated everyone right. As a man who never looked down on those who looked up to him ... who stood up for his beliefs ... who tried to unite all humankind through faith and love.</p><span id="midArticle_11"/><p>"And if all that's too much, then I guess I'd settle for being remembered only as a great boxer who became a leader and a champion of his people. And I wouldn't even mind if folks forgot how pretty I was." </p><span id="midArticle_12"/><p>Ali was born in Louisville, Kentucky, on Jan. 17, 1942, as Cassius Marcellus Clay Jr., a name shared with a 19th century slavery abolitionist. He changed his name after his conversion to Islam.  </p><span id="midArticle_13"/><p>Ali is survived by his wife, the former Lonnie Williams, who knew him when she was a child in Louisville, along with his nine children.</p><span id="midArticle_14"/><span id="midArticle_15"/><p> (Additional reporting by Brendan O'Brien in Milwaukee and Frank McGurty in New York; Writing by Bill Trott and Frank McGurty; Editing by Paul Tait and Alison Williams)</p><span id="midArticle_16"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/5Z_wGnH7X9Q/us-boxing-ali-condition-idUSKCN0YQ00M">Source </a>

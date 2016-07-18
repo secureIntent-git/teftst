@@ -1,0 +1,38 @@
+---
+ID: 5072
+post_title: >
+  Bangladesh police storm restaurant to
+  rescue hostages, gunfight on
+author: Staff Writer
+post_date: 2016-07-02 03:13:19
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/bangladesh-police-storm-restaurant-to-rescue-hostages-gunfight-on/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    Bangladesh police storm restaurant to
+    rescue hostages, gunfight on
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/lAinzQZrJuI/us-bangladesh-attack-idUSKCN0ZH5HE
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/lAinzQZrJuI/us-bangladesh-attack-idUSKCN0ZH5HE
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="7"><p><span class="articleLocation">DHAKA/NEW DELHI</span> Bangladeshi police stormed a Dhaka restaurant on Saturday to free 20 hostages, including several foreigners, that were trapped inside after gunmen launched an attack on it late on Friday night, an official said.</p></span><span id="midArticle_1"/><p>"Our commandos have stormed into the restaurant. Intense gunfighting on," Mizanur Rahman Bhuiyan, a deputy director at the Rapid Action Battalion force, told Reuters</p><span id="midArticle_2"/><p>Islamic State, which has claimed the attacks, posted photos of what it said were dead foreigners killed in the assault on the cafe, where police believe eight to nine gunmen are holed up and armed with assault rifles and grenades.</p><span id="midArticle_3"/><p>Gowher Rizvi, an adviser to Bangladesh Prime Minister Sheikh Hasina, told Reuters that security forces had tried to negotiate a way out of the crisis.</p><span id="midArticle_4"/><p>Police said the gunmen attacked the upscale Holey Artisan restaurant in the Gulshan district of Dhaka, popular with expatriates, in an assault that began around 9 p.m local time on Friday. </p><span id="midArticle_5"/><p>The assailants exchanged sporadic gunfire with police outside for several hours after the attack but no gunshots had been heard from inside the restaurant since late Friday night, said Mizanur Rahman Bhuiyan, a deputy director at the Rapid Action Battalion force.</p><span id="midArticle_6"/><p>Islamic State said 24 people had died. Bangladesh police denied that, saying two police officers had been killed and at least 20 people wounded.</p><span id="midArticle_7"/><p>Italian and Indian nationals are among the hostages, said a duty officer at Rapid Action Battalion's (RAB) control room.</p><span id="midArticle_8"/><p>Italy's ambassador to Bangladesh, Mario Palma, told Italian state TV seven Italians were among the hostages.</p><span id="midArticle_9"/><p>"It is a suicide attack. They want to carry out a powerful and bloody operation and there is no room for negotiation," Palma said.</p><span id="midArticle_10"/><p>The hostage crisis marks an escalation from a recent spate of murders claimed by Islamic State and al Qaeda on liberals, gays, foreigners and religious minorities, and could deal a major blow to the country's vital $25 billion garment sector.</p><span id="midArticle_11"/><p>Last year, several Western retailers temporarily halted visits to Dhaka following the killing of two foreigners.</p><span id="midArticle_12"/>
+        
+        <span class="first-article-divide"/><span id="midArticle_13"/><p>SPIKE IN MILITANT ATTACKS</p><span id="midArticle_14"/><p>Militant violence has spiked in Bangladesh in the last 18 months. Attacks have tended to be on individuals, often using machetes, and the raid on the restaurant was a rare instance of a more coordinated operation.</p><span id="midArticle_15"/><p>Earlier on Friday, a Hindu priest was hacked to death at a temple in Jhinaidah district, 300 kms (188 miles) southwest of Dhaka.</p><span id="midArticle_0"/><p>Both Islamic State and al Qaeda have claimed responsibility for many of the killings, although local authorities say no operational links exist between Bangladeshi militants and international jihadi networks. </p><span id="midArticle_1"/><p>Bangladesh security officials say two local militant groups, Ansar-al-Islam and Jamaat-ul-Mujahideen, are behind the violence. Ansar pledges allegiance to al Qaeda, while Jamaat-ul-Mujahideen claims it represents Islamic State.</p><span id="midArticle_2"/>
+        
+        <span class="second-article-divide"/><p>"The bottom line is Bangladesh has plenty of local, (often unaffiliated), militants and radicals happy to stage attacks in ISIS's name," said Michael Kugelman, South Asia associate at The Wilson Centre in Washington D.C., using an acronym commonly used for Islamic State.</p><span id="midArticle_3"/><p>Islamic State had claimed more attacks in Bangladesh than in Pakistan or Afghanistan, he said.</p><span id="midArticle_4"/><span id="midArticle_5"/><p>SPORADIC GUNFIRE, CHAOS</p><span id="midArticle_6"/><p>Rizvi, the Bangladesh prime minister's adviser, said the hostage crisis began when local security guards in the diplomatic enclave noticed several gunmen outside a medical center.</p><span id="midArticle_7"/><p>When the guards approached, the gunmen ran into the restaurant, which was packed with people waiting for tables, he added.</p><span id="midArticle_8"/>
+        
+        <span class="third-article-divide"/><p>An employee who escaped told local television about 20 customers were in the restaurant at the time, most of them  foreigners. The restaurant has a seating capacity of around 25 people.</p><span id="midArticle_9"/><p>Some 15 to 20 staff were working at the restaurant at the time, the employee said. </p><span id="midArticle_10"/><p>A police officer at the scene said that when security forces tried to enter the premises at the beginning of the siege they met a hail of bullets and grenades.</p><span id="midArticle_11"/><p>Television footage showed a number of police being led away from the site with blood on their faces and clothes. Heavily armed officers were seen milling on the street outside.</p><span id="midArticle_12"/><p>A resident near the scene of the attack told Reuters he  heard sporadic gunfire nearly three hours after the attack began. </p><span id="midArticle_13"/><p>"It is chaos out there. The streets are blocked. There are dozens of police commandos," said Tarique Mir.</p><span id="midArticle_14"/><p>Italy's Foreign Minister Paolo Gentiloni said on Twitter he was closely following the situation in Dhaka, adding he was "anxious for Italians involved" and expressing solidarity with their families. </p><span id="midArticle_15"/><p>Prime Minister Matteo Renzi abruptly left a ceremony at the Colosseum in Rome on Friday evening to follow the hostage-taking incident, a source at his office said.</p><span id="midArticle_0"/><p>The U.S. State Department said all Americans working at the U.S. mission there had been accounted for. A spokesman said in Washington the situation was "very fluid, very live". </p><span id="midArticle_1"/><p>President Barack Obama has been briefed about the attack, the White House said.</p><span id="midArticle_2"/><span id="midArticle_3"/><p> (Additional reporting by Krishna Das and Rupam Jain in NEW DELHI, Isla Binnie in ROME and Melissa Fares in NEW YORK; Writing by Paritosh Bansal; Editing by Bill Tarrant.)</p><span id="midArticle_4"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/lAinzQZrJuI/us-bangladesh-attack-idUSKCN0ZH5HE">Source </a>

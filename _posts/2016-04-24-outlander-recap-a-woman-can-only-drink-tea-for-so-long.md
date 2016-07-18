@@ -1,0 +1,54 @@
+---
+ID: 3037
+post_title: 'Outlander Recap: A Woman Can Only Drink Tea for So Long'
+author: Staff Writer
+post_date: 2016-04-24 14:33:05
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/outlander-recap-a-woman-can-only-drink-tea-for-so-long/
+published: true
+original_cats:
+  - >
+    Culture,Underwire,Diana
+    Gabaldon,Outlander,Starz,TV Recap
+original_title:
+  - 'Outlander Recap: A Woman Can Only Drink Tea for So Long'
+original_link:
+  - >
+    http://www.wired.com/2016/04/outlander-recap-s2e3/
+canonical_url:
+  - >
+    http://www.wired.com/2016/04/outlander-recap-s2e3/
+---
+ [ad_1]
+<br><div id=""><p>What does it mean for a woman to be useful? That’s the question <em>Outlander</em> grapples with this week as Claire, having finally settled in France, searches for something to occupy her ample free time. Despite the endlessly sensational wardrobe options, life must have been excruciatingly dull for women of Claire’s sort back in the 18th century. Traditional jobs were beneath their station; education was reserved for the domestic arts; even child-rearing was delegated to the help. A woman can only drink tea, play the harpsichord, and swan around at balls for so long before losing the entirety of her mind.</p>
+<p>And, of course, there was (and remains) the matter that not all women are created equal. So much of the existential angst upper-class women felt was made possible by all those <em>other</em> women—the working-class ones who had no choice but to spend their lives in servitude, either domestic or industrial. While the 99% were also wives and mothers, they received no gilded preparation for those roles, nor did they have help in fulfilling them. (This, my friends, is why feminism must be intersectional.)</p>
+<p>Episode 3, “Useful Occupations and Deceptions,” recognizes that—with varying degrees of sensitivity, and success. When the episode opens, Jamie is carousing in brothels and playing chess with his new friend Duverney, the finance minister, while Claire sits around looking pretty and having tea with ladies. Being a thoroughly modern woman, Claire clearly resents Jamie’s busy schedule, even more so because Jamie seems utterly oblivious to her boredom. The man is gorgeous and sexy and kind, but sometimes he needs to be guided to the feminist light.</p>
+<p data-js="fader" class="pullquote carve fader">
+	Jamie Fraser is gorgeous and sexy and kind, but sometimes he needs to be guided to the feminist light.	<span class="attribution"/>
+</p>
+
+<p>Claire’s idleness is good for at least one thing, though: gathering information. During a card game, we learn that Mary Hawkins—who’s just announced she is horrified at the prospect of sex—is the ancestor of Claire’s dreary 1940s husband Frank, and will be Black Jack Randall’s wife at some point in the future past. This presents Claire with yet another conundrum vis-à-vis telling Jamie that his rapist/nemesis lives: Jamie can get his revenge and murder Black Jack, or Randall can be allowed to live so that dreary Frank can be allowed to live. It’s a silly choice (kill the bastard!), but Claire, as usual, makes it seem as though she is the most put-upon woman in the world.</p>
+<figure attachment_2007227="" class="wp-caption landscape alignnone fader relative" data-js="fader"><a href="https://www.wired.com/wp-content/uploads/2016/04/Rosie-Day-as-Mary-Hawkins-Caitriona-Balfe-as-Claire-Randall-Fraser-Episode-203.jpg"><img class="wp-image-2007227 size-text-column-width" src="http://www.whenitson.com/wp-content/uploads/2016/04/Outlander-Recap-A-Woman-Can-Only-Drink-Tea-for-So-Long.jpg" alt="Outlander Season 2 2016" width="482" height="321"/></a><figcaption class="wp-caption-text link-underline">Mary Hawkins (Rosie Day) and Claire discuss Mary’s ancestry (© 2016 Starz Entertainment, LLC)</figcaption></figure><p>Could be she’s frustrated that she and Jamie <em>still</em> aren’t having sex. Murtagh, meanwhile, is having quite the bawdy romp with Suzette, the maid, which Claire discovers when she goes looking for Suzette. It’s remarkable how quickly Claire has adjusted to her role as lady of the manor. She’s irritated that her maid isn’t doing her bidding, when not so long ago, she was uncomfortable at the very idea of having domestic help. Money changes people, obviously.</p>
+<p>So much so, it seems, that it turns Claire into a bit of a hypocrite. Now that she knows how Suzette is passing her afternoons, she visits Master Raymond for some ancient birth control powder so no one is inconvenienced by any unintended consequences. Pause—what? Claire can seek autonomy, but Suzette can’t be trusted with her own fertility? It’s a bizarre moment for a show otherwise attuned to imbalances of power. What’s worse, it turns out to be a lame plot contrivance: Master Raymond is little more than a masterguffin to get Claire volunteering at the local charity hospital.</p>
+<p>L’Hopital des Anges is a grim place, but as Claire pulls up, dressed in yet another flawless outfit, she is thrumming with excitement. Mother Hildegarde, a stern nun, is rather skeptical of Claire’s benevolence and clearly doesn’t think much of wealthy women with too much free time. But the nun is quickly won over when Claire tends to a pale, sickly woman. (This, by the way, is how Claire wins over nearly everyone.) After giving the urine sample next to the sick woman’s bed a good sniff, Claire <em>sweartoGod tastes</em> a sick 18th-century stranger’s pee. I’ll repeat that. She puts a dab of stranger pee in her mouth. While pregnant. Let that linger.</p>
+<p>With her improbably vast knowledge of medicine, Claire tells Mother Hildegarde the woman has sugar sickness. Mother Hildegarde is impressed—she has never seen a woman who knows urinoscopy! Even then, expectations for women were desperately low. Now Claire gets to do even grosser things with far sicker people. She is, at last, a woman with a purpose beyond that which society has chosen for her.</p>
+<figure attachment_2007226="" class="wp-caption landscape alignnone fader relative" data-js="fader"><a href="https://www.wired.com/wp-content/uploads/2016/04/Frances-De-La-Tour-as-Mother-Hildegarde-Episode-203.jpg"><img class="wp-image-2007226 size-text-column-width" src="http://www.whenitson.com/wp-content/uploads/2016/04/1461508385_504_Outlander-Recap-A-Woman-Can-Only-Drink-Tea-for-So-Long.jpg" alt="Outlander Season 2 2016" width="482" height="321"/></a><figcaption class="wp-caption-text link-underline">Mother Hildegarde (Frances de la Tour) isn’t just a sister act, she’s also J.S. Bach’s BFF. (© 2016 Starz Entertainment, LLC)</figcaption></figure><p>Back at the brothel, Duverney, Charles, and Jamie are engaged in tedious man talk when Charles reveals he has secured nearly all the funds he needs for his campaign via pledges from influential Englishmen. Charles also offers the French an alliance with Britain, should the French give him the money he still needs to reinstall his father on the British throne—thus treating us to another smugness-born-of-perspective <em>Jeopardy!</em> moment (and it’s a Daily Double!). For his part, Jamie is consternated because Charles has not confided this secret to him, which means they aren’t BFFs, and anyway, this development will certainly interfere with the grand “Change History” plan.</p>
+<p>When Jamie gets home, his wife is nowhere to be found, and he is none too pleased. I mean, where could the woman possibly be when she should be waiting at the front door with a martini and a smile? When Claire arrives, Jamie has a temper tantrum, totally destroying Claire’s excitement about all the boils she lanced and the pee she tasted. Claire explains that she wants to feel useful, which is obviously just silly talk. Her only use, naturally, is sitting around at home, bored and alone, waiting around for whatever her man needs. And, of course, she’s pregnant, so at this point, really, she should just stay in bed, because the child she is carrying is far more important than her cute need to be human. How is a woman useful? By being a good wife and mother, Jamie Fraser would have us believe.</p>
+<p>Though Claire makes a good argument for, you know, being a sentient, independent woman, Jamie storms off after whining about spending all of his day engaged in treachery, idle flattery, and cavorting in brothels. Clearly, a man’s work is never done.</p>
+<p data-js="fader" class="pullquote carve fader">
+	Though Claire makes a good argument for, you know, being a sentient, independent woman, Jamie storms off after whining about spending all of his day engaged in treachery, idle flattery, and cavorting in brothels. Clearly, a man's work is never done.	<span class="attribution"/>
+</p>
+
+<p>Jamie drowns his sorrows at the brothel, where he notices a pickpocket making mischief. He drafts the boy into service and renames him Fergus, which is “more manly.” All you really need to know here is that Fergus will steal letters between Charles and his financiers so Jamie can copy them, read them, and figure out what the hell is going on.</p>
+<p>While Claire is wasting her time at the hospital feeling useful and using her professional training for the betterment of society (there is oozing pus, a scalpel, and an infection-sniffing dog involved), Jamie appears, needing musical help from Mother Hildegard. The show has its fun as Hildegard ruminates on her buddy, Johann Sebastian Bach, whose “music is not the sort to endure—clever but no heart.” Long story short, the musical score Jamie has brought to the hospital holds the key to decoding the absconded royal correspondence.</p>
+<p>Murtagh, Jamie, and Claire figure out that Charles has about 40,000 pounds, which is a lot but not enough, and that Sandringham is one of the men willing to fund the divine-royal-overthrow escapade. Jamie is ecstatic, but Claire is more subdued—now she needs to tell Jamie that Randall is alive before he meets with Sandringham. Trying to be a good wife, I guess, she holds her tongue, not wanting to temper Jamie’s joy.</p>
+<p>In the end, I’m not sure this episode offers much clarity on what it means for a woman to be useful. But it certainly highlights some of the challenges 18th-century upper-class women were facing—all while blithely overlooking, of course, the needs of their middle- and working-class counterparts. I suppose we can’t fault <em>Outlander</em> too much. History wasn’t made in an episode.</p>
+
+			<a class="visually-hidden skip-to-text-link focusable bg-white" href="#start-of-content">Go Back to Top. Skip To: Start of Article.</a>
+
+			
+</div>
+<br>[ad_2]
+<br><a href="http://www.wired.com/2016/04/outlander-recap-s2e3/">Source </a>

@@ -1,0 +1,38 @@
+---
+ID: 1347
+post_title: >
+  Trump wins Christie backing, struts
+  toward Super Tuesday
+author: Staff Writer
+post_date: 2016-02-26 21:58:10
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/trump-wins-christie-backing-struts-toward-super-tuesday/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    Trump wins Christie backing, struts
+    toward Super Tuesday
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/D0tt0sCfO_4/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/D0tt0sCfO_4/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="6"><p><span class="articleLocation">FORT WORTH, Texas</span> Republican candidate Donald Trump on Friday won the surprise endorsement of New Jersey Governor Chris Christie, the most prominent mainstream Republican to get behind the former reality TV star's White House campaign.</p></span><span id="midArticle_1"/><p>Christie said the billionaire had the best chance of beating Democrat Hillary Clinton in the Nov. 8 U.S. presidential election. His endorsement gives the front-runner Trump a further lift before the March 1 Super Tuesday nominating contests. </p><span id="midArticle_2"/><p>Trump's unorthodox candidacy has stirred controversy and shaken the Republican Party at its roots but an increasing number of senior Republicans are becoming resigned to the idea he will be their candidate in November.     </p><span id="midArticle_3"/><p>Trump is "rewriting the playbook," said Christie, 53, who until two weeks ago was himself a rival of Trump for the Republican nomination. Christie dropped out after failing to muster much support for his candidacy.</p><span id="midArticle_4"/><p>Trump, 69, has never held public office and has campaigned as a political outsider. He is riding a wave of voter anger at the slow economic recovery, illegal immigration and what he says is America's diminishing role in the world.    </p><span id="midArticle_5"/><p>"The best person to beat Hillary Clinton in November on that stage last night is undoubtedly Donald Trump," Christie told a news conference on Friday, a day after a Republican candidates' debate.</p><span id="midArticle_6"/><p>"Since I started this whole thing I've been practically Number 1," Trump said at a rally in Texas.</p><span id="midArticle_7"/><p>A former prosecutor, Christie has been mentioned in Republican circles as a possible future attorney general, but he said he had not been offered a position in any future Trump administration. </p><span id="midArticle_8"/><p>Trump, a brash real estate magnate, has won three straight nominating contests in New Hampshire, South Carolina and Nevada, and he aims to win big in key primaries on Tuesday in U.S. southern states including Texas.</p><span id="midArticle_9"/><p>Former Secretary of State Clinton is battling U.S. Senator Bernie Sanders of Vermont for the Democratic Party nomination.</p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><span id="midArticle_11"/><p>RUBIO ATTACKS</p><span id="midArticle_12"/><p>Trump has vowed to build a wall on the U.S.-Mexican border to halt illegal immigration, called for a temporary ban on Muslims entering the United States and promised to take a tough stance on trade against China.  </p><span id="midArticle_13"/><p>At his rally on Friday, Trump was combative. He mocked rival Marco Rubio, referred to violent Islamist militants as "these animals" and promised to defend Americans' constitutional right to bear arms.</p><span id="midArticle_14"/><p>"We're going to build up our military, we're going to knock out ISIS. We're going to knock out ISIS fast," he said, referring to the Islamic State group. </p><span id="midArticle_15"/><p>Wielding a water bottle as a prop, Trump made fun of Rubio for an awkward incident in which the senator became thirsty and grabbed for a drink of water off camera during an important televised speech in 2013. </p><span id="midArticle_0"/>
+        
+        <span class="second-article-divide"/><p>U.S. Senator Rubio and another Republican rival, Ted Cruz, ganged up on Trump at a raucous debate on Thursday in a last-ditch bid to keep him from winning in states on Super Tuesday that could set him up to clinch the presidential nomination. </p><span id="midArticle_1"/><p>Rubio, 44, of Florida, went on the attack again on Friday at a rally in Dallas. "Guys, we have a con artist as the front-runner of the Republican Party,” he said.    </p><span id="midArticle_2"/><p>Attacks on Trump at the Republican debate in Houston only dented his momentum, based on opinion polls, social media comment and online betting markets.</p><span id="midArticle_3"/><p>PredictWise, a research project that analyzes opinion polls and betting markets, said Trump would comfortably win among Republicans in all but one of 11 Super Tuesday states that it measured. U.S. Senator Cruz, 45, is likely to win in Texas, his home state, PredictWise said.    </p><span id="midArticle_4"/><p>PredictIt, based out of Victoria University in Wellington, New Zealand, on Friday gave Trump a 73 percent chance of winning the nomination compared with a peak 75 percent chance two days earlier.     </p><span id="midArticle_5"/>
+        
+        <span class="third-article-divide"/><p>Trump's swipes at rival candidates and heated exchanges with journalists and others have for months bolstered his standing in nominating contests and opinion polls. On Thursday night, his rivals struck back.</p><span id="midArticle_6"/><p>But in a post on Twitter, Trump took aim at Rubio, a first-term senator, for his debate performance.</p><span id="midArticle_7"/><p>"Lightweight Marco Rubio was working hard last night. The problem is, he is a choker, and once a choker, always a chocker (sic)! Mr. Meltdown."</p><span id="midArticle_8"/><p>Following Christie's endorsement, the New Jersey governor was top trending on Twitter. There were roughly 17 tweets per second about him, according to social media analytics firm Zoomph.</p><span id="midArticle_9"/><p>Republican strategist Doug Heye said Christie may have opened the door for more mainstream Republican endorsements of a man whose chances of winning the White House were seen as next to nil a year ago.    </p><span id="midArticle_10"/><p>“If you’re the Trump campaign this is obviously very good news and it gives permission for others to endorse. But it also makes it hard (for Trump) to make the outsider argument. </p><span id="midArticle_11"/><p>"The best-known governor and the former chairman of the (Republican Governors Association) RGA?" Heye said in reference to Christie. "That’s not an outsider.”</p><span id="midArticle_12"/><p>Trump said on Friday that he expects his party's 2012 presidential nominee Mitt Romney to back Rubio, and that he would not accept Romney's support if offered. If elected, he said, he would "open up" libel laws to make it easier to sue the media.</p><span id="midArticle_13"/><span id="midArticle_14"/><p> (Additional reporting by Steve Holland, Clarece Polke and Susan Heavey in Washington and Melissa Fares in New York; Writing by Alistair Bell; Editing by Howard Goller)</p><span id="midArticle_15"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/D0tt0sCfO_4/story01.htm">Source </a>

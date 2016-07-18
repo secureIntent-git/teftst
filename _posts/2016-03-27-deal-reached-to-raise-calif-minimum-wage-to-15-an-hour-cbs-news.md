@@ -1,0 +1,29 @@
+---
+ID: 2227
+post_title: 'Deal reached to raise Calif. minimum wage to $15 an hour &#8211; CBS News'
+author: Staff Writer
+post_date: 2016-03-27 17:56:06
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/deal-reached-to-raise-calif-minimum-wage-to-15-an-hour-cbs-news/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Deal reached to raise Calif. minimum wage to $15 an hour - CBS News'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHLgikiOg3D5yFQpIYWjkFe4cM51g&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779070134261&#038;ei=tR74VoknxqzBAdGHsdAN&#038;url=http://www.cbsnews.com/news/deal-reached-to-raise-california-minimum-wage-to-15-an-hour/'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHLgikiOg3D5yFQpIYWjkFe4cM51g&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779070134261&#038;ei=tR74VoknxqzBAdGHsdAN&#038;url=http://www.cbsnews.com/news/deal-reached-to-raise-california-minimum-wage-to-15-an-hour/'
+---
+ [ad_1]
+<br><div itemprop="articleBody" id="article-entry" readability="158.7168">
+
+        
+        <p><strong/><strong>SACRAMENTO, Calif.</strong>- California legislators and labor unions have reached a tentative agreement that will<a href="http://www.cbsnews.com/news/california-lawmakers-vote-to-raise-minimum-wage/" target="_blank">take the state's minimum wage from $10 to $15 an hour</a>, a state senator said, a move that would make for the largest statewide minimum in the nation by far.</p><p>"This is not a done deal," Sen. Mark Leno, D-San Francisco, told The Associated Press on Saturday. "Everyone's been operating in good faith and we hope to get it through the Legislature."</p><p>Leno said if an agreement is finalized, it would go before the Legislature as part of his minimum-wage bill that stalled last year.</p><p>If the Legislature approves a minimum-wage package, it would avoid taking the issue to the ballot. One union-backed initiative has already qualified for the ballot, and a second, competing measure is also trying to qualify.</p><p>"This is an issue I've been working on for many years," Leno said. "The governor and stakeholders have all been negotiating earnestly and in good faith for some time."</p><p>Leno did not confirm specifics of the agreement, but most proposals have the wage increasing about a dollar per year until it reaches $15 per hour.</p><p>The Los Angeles Times, which first reported the deal, said the wage would rise to $10.50 in 2017, to $11 an hour in 2018, and one dollar per year to take it to $15 by 2022. Businesses with fewer than 25 employees would have an extra year to comply.</p><p>At $10 an hour, California already has one of the highest minimum wages in the nation along with Massachusetts. Only Washington, D.C., at $10.50 per hour is higher. The hike to $15 would make it the highest statewide wage in the nation by far, though raises are in the works in other states that might change by the time the plateau is reached in 2022.</p><p>Last summer, the Los Angeles City Council and Los Angeles County Board of Supervisors voted to incrementally raise the minimum wage, reaching $15 an hour by 2020, <a href="http://losangeles.cbslocal.com/2016/03/27/deal-reached-to-take-california-minimum-wage-to-15-an-hour/" target="_blank">reports CBS Los Angeles</a>.</p><p>Some in the service industry have voiced concerns that raising the minimum wage would increase expenses for employers, forcing them to raise menu prices. That, in turn, could lead to fewer customers or lower tips, some workers have said.</p><p>"I think it would be detrimental to the serving business if it was adopted statewide," said Michelle Mellon, a server at Du-Par's Restaurant in Studio City. "People rely on their tips a lot, probably moreso than their checks."</p><p>Some states have passed higher minimums for government employees and state-contracted workers, and some cities including Seattle have already passed $15 an hour increases.</p><p>And Oregon officials approved a law earlier this month that will increase that state's minimum wage to nearly $15 in urban areas over the next six years.</p><p>California union leaders, however, said they would not immediately dispense with planned ballot measures.</p><p>Sean Wherley, a spokesman for SEIU-United Healthcare Workers West, confirmed that the SEIU parent union was involved in the negotiations. He said SEIU-UHWW's leadership will decide whether to push ahead with its initiative that has already qualified for the ballot.</p><p>"Ours is on the ballot. We want to be certain of what all this is," Wherley said. "If some agreement is signed into law, then our executive board would decide what to do. They would only make that decision after any agreement is signed into law."</p><p>The union proposal that has already qualified for the ballot calls for reaching the $15 mark by 2021. The second proposed measure would reach $15 by 2020. Businesses and Democratic Gov. Jerry Brown have said such a steep wage increase would be incredibly costly.</p><p>A spokesman for Brown, Evan Westrup, did not immediately respond to a request for comment.</p><p>Kevin Liao, a spokesman for Assembly Speaker Anthony Rendon, D-Paramount, declined to comment.</p>
+    </div><p>
+                                        © 2016 CBS Interactive Inc. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed. The Associated Press contributed to this report.
+                    </p>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHLgikiOg3D5yFQpIYWjkFe4cM51g&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779070134261&#038;ei=tR74VoknxqzBAdGHsdAN&#038;url=http://www.cbsnews.com/news/deal-reached-to-raise-california-minimum-wage-to-15-an-hour/">Source </a>

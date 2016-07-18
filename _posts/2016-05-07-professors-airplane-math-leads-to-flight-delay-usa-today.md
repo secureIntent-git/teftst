@@ -1,0 +1,25 @@
+---
+ID: 3431
+post_title: 'Professor&#039;s airplane math leads to flight delay &#8211; USA TODAY'
+author: Staff Writer
+post_date: 2016-05-07 22:55:09
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/professors-airplane-math-leads-to-flight-delay-usa-today/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Professor&#039;s airplane math leads to flight delay - USA TODAY'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNGWvgMQhUxh6hCg0d_jRX7ETvH0DQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779101570585&#038;ei=SHIuV7C0E6yzwAGa972oCA&#038;url=http://www.usatoday.com/story/news/2016/05/07/professors-airplane-math-leads-flight-delay/84084914/'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNGWvgMQhUxh6hCg0d_jRX7ETvH0DQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779101570585&#038;ei=SHIuV7C0E6yzwAGa972oCA&#038;url=http://www.usatoday.com/story/news/2016/05/07/professors-airplane-math-leads-flight-delay/84084914/'
+---
+ [ad_1]
+<br><div id="module-position-PBDFzzGZnc4"><p><span class="asset-metabar-author asset-metabar-item">
+        AP
+    </span><span class="asset-metabar-time asset-metabar-item nobyline">6:01 p.m. EDT May 7, 2016</span></p></div><div role="main" itemprop="articleBody" readability="45.655344655345"><!-- cxenseparse_start --><div id="module-position-PBDFz4PWMg4" class="story-asset story-metadata-asset"><div class="article-metadata-wrap"><section id="module-position-PBDFz4OIOzE" class="storymetadata-bucket expandable-photo-module story-expandable-photo-module" readability="3.5"><aside itemprop="associatedMedia" itemscope="" itemtype="http://schema.org/ImageObject" class="single-photo expandable-collapsed" readability="7"><div class="image-wrap"><img class="expand-img-horiz" itemprop="url" src="http://www.gannett-cdn.com/-mm-/7c6c7ee22b6de6ea833f0afe94968b08ed57d55c/c=273-0-2998-2049&amp;r=x404&amp;c=534x401/local/-/media/2016/05/07/USATODAY/USATODAY/635982406930674297-Airlines-Delays-Smit.jpg" alt="635982406930674297-Airlines-Delays-Smit.jpg" data-mycapture-src="http://www.gannett-cdn.com/media/2016/05/07/USATODAY/USATODAY/635982406930674297-Airlines-Delays-Smit.jpg" data-mycapture-sm-src="http://www.whenitson.com/wp-content/uploads/2016/05/Professor039s-airplane-math-leads-to-flight-delay-USA-TODAY.jpg"/><span class="toggle"/><meta itemprop="name" content="635982406930674297-Airlines-Delays-Smit.jpg"/></div><p class="image-credit-wrap"><span class="js-caption-wrapper"><span class="cutline js-caption">A traveler is seen in Terminal C at Dallas Fort Worth International Airport as aircraft, rear, taxi along a runway in Grapevine, Texas.</span><meta itemprop="copyrightHolder" content=""/><span class="credit">(Photo: Tony Gutierrez, AP)</span></span></p></aside></section></div></div><p>An Ivy League professor said his flight was delayed because a fellow passenger thought the math equations he was writing might be a sign he was a terrorist.</p><p>American Airlines confirms that the woman expressed suspicions about University of Pennsylvania economics professor Guido Menzio. She said she was too ill to take the Air Wisconsin-operated flight.</p><p>Menzio said he was flying from Philadelphia to Syracuse on Thursday night and was solving a differential equation related to a speech he was set to give at Queen's University in Ontario, Canada. He said the woman sitting next to him passed a note to a flight attendant and the plane headed back to the gate. Menzio, who is Italian and has curly, dark hair, said the pilot then asked for a word and he was questioned by an official.</p><p>"I thought they were trying to get clues about her illness," he told The Associated Press in an email. "Instead, they tell me that the woman was concerned that I was a terrorist because I was writing strange things on a pad of paper."</p><p>Menzio said he explained what he had been doing and the flight took off soon afterward. He was treated respectfully throughout, he added. But, he said, he was concerned about a delay that a brief conversation or an Internet search could have resolved.</p><p>"Not seeking additional information after reports of 'suspicious activity' ... is going to create a lot of problems, especially as xenophobic attitudes may be emerging," he said.</p><p>American spokesman Casey Norton said the Air Wisconsin crew followed protocol to take care of an ill passenger and then to investigate her allegations. Norton wouldn't specify the details of the allegations, but said officials determined them to be non-credible. The woman was rebooked on a later flight.</p><!-- cxenseparse_end --><p>Read or Share this story: http://usat.ly/273zpEI</p></div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNGWvgMQhUxh6hCg0d_jRX7ETvH0DQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779101570585&#038;ei=SHIuV7C0E6yzwAGa972oCA&#038;url=http://www.usatoday.com/story/news/2016/05/07/professors-airplane-math-leads-flight-delay/84084914/">Source </a>

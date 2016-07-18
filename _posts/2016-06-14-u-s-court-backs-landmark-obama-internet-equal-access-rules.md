@@ -1,0 +1,38 @@
+---
+ID: 4555
+post_title: >
+  U.S. court backs landmark Obama internet
+  equal-access rules
+author: Staff Writer
+post_date: 2016-06-14 18:34:05
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/u-s-court-backs-landmark-obama-internet-equal-access-rules/
+published: true
+original_cats:
+  - technologyNews
+original_title:
+  - >
+    U.S. court backs landmark Obama internet
+    equal-access rules
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/mFGqsK_4T-g/us-usa-internet-idUSKCN0Z01RR
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/mFGqsK_4T-g/us-usa-internet-idUSKCN0Z01RR
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">WASHINGTON</span> A U.S. appeals court upheld the Obama administration's landmark rules barring internet service providers from obstructing or slowing down consumer access to web content on Tuesday, dealing a blow to big cable and mobile phone companies.</p></span><span id="midArticle_1"/><p>A three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit backed the Federal Communications Commission's so-called net neutrality rules put in place last year to make internet service providers treat all internet traffic equally.</p><span id="midArticle_2"/><p>The rules prohibited broadband providers from giving or selling access to speedy internet, essentially a "fast lane" on the web's information superhighway.</p><span id="midArticle_3"/><p>In siding with the FCC, the court treated the internet like a public utility and opened the door to further government internet regulations.</p><span id="midArticle_4"/><p>The ruling was a big victory for President Barack Obama, a strong advocate of net neutrality rules who has said the internet long has been organized around principles of openness, fairness and freedom without gatekeepers or "toll roads."</p><span id="midArticle_5"/><p>But the fight may not be over. The internet services providers that sued to block the regulations said they would appeal either to the full appellate court or to the Supreme Court, and telecommunications industry groups said they would redouble efforts to get Congress to limit the FCC's authority.</p><span id="midArticle_6"/><p>Opponents of the regulations said the FCC exceeded its authority and condemned the ruling as an endorsement of investment-chilling public-utility regulation.</p><span id="midArticle_7"/><p>Democrats in the U.S. Congress praised the ruling. But Senator John Thune, a South Dakota Republican who chairs the Commerce Committee, said the decision upholds FCC "restrictions designed for the monopoly-telephone era." He said the Republican-led Congress needs to step in to overturn a decision that results in "a highly political agency micromanaging the internet ecosystem."</p><span id="midArticle_8"/><p>The ruling boosted the FCC in its bid to complete action on major internet privacy rules before the end of the year.</p><span id="midArticle_9"/>
+        
+        <span class="first-article-divide"/><p>FCC chairman Tom Wheeler said the "ruling is a victory for consumers and innovators who deserve unfettered access to the entire web, and it ensures the internet remains a platform for unparalleled innovation, free expression and economic growth."</p><span id="midArticle_10"/><p>The telecommunications industry trade association US Telecom, which led the legal challenge, said the court failed to recognize "the significant legal failings" of the FCC rules that "we believe will replace a consumer-driven internet with a government-run internet, threatening innovation and investment in years to come."</p><span id="midArticle_11"/><p>The court also rejected legal arguments from opponents that the rules should not apply to mobile phone web use or that they violated the constitutional free-speech rights of internet service providers.</p><span id="midArticle_12"/><p>Net neutrality is a major issue for broadband providers like Verizon Communications Inc (<span id="symbol_VZ.N_0">VZ.N</span>), Comcast Corp (<span id="symbol_CMCSA.O_1">CMCSA.O</span>) and AT&amp;T (<span id="symbol_T.N_2">T.N</span>), which fear the rules may make it harder to manage internet traffic and make investment to provide additional capacity less likely.</p><span id="midArticle_13"/><p>The decision was a victory for content providers like Netflix Inc (<span id="symbol_NFLX.O_3">NFLX.O</span>) and Yelp Inc (<span id="symbol_YELP.N_4">YELP.N</span>), which have worried that access to customers could be limited without net neutrality.</p><span id="midArticle_14"/>
+        
+        <span class="second-article-divide"/><p>FCC Commissioner Mignon Clyburn, a Democrat, said the rules mean "a startup in the heartland of America can compete on equal footing with an established multinational corporation."</p><span id="midArticle_15"/><span id="midArticle_0"/><p>'HAILING A CAB'</p><span id="midArticle_1"/><p>The appeals court agreed that the FCC was right to reclassify broadband as a telecommunications service. The court noted that "over the past two decades, (website) content has transformed nearly every aspect of our lives, from profound actions like choosing a leader, building a career, and falling in love to more quotidian ones like hailing a cab and watching a movie."</p><span id="midArticle_2"/>
+        
+        <span class="third-article-divide"/><p>The FCC decided in 2015 to reclassify internet service providers as common carriers under a 1996 law. But unlike how utilities are treated, the FCC decided not to impose rate regulations or require broadband providers to file notice of pricing plans.</p><span id="midArticle_3"/><p>Lawyers for the internet service providers had argued that because they exercise some control over functions like cached pages they met the burden as an information service provider, which would limit how extensively the FCC could impose net neutrality rules.</p><span id="midArticle_4"/><p>But the FCC said broadband providers were acting merely to transport data, not making content decisions.</p><span id="midArticle_5"/><p>An open internet spurs innovation and helps improve broadband infrastructure, the FCC asserted, saying network companies plowed $230 billion into the web from 2011 to 2013, when open internet rules were in effect.</p><span id="midArticle_6"/><p>Berin Szoka, president of the TechFreedom think tank, which joined the lawsuit as an intervener challenging the rules, said a final decision "could take years. In the meantime, the FCC now has a blank check to regulate the internet however it sees fit."</p><span id="midArticle_7"/><p>Pantelis Michalopoulos, a lawyer who represented Netflix and others in the suit, noted this was the third time the court had ruled on net neutrality.</p><span id="midArticle_8"/><p>"The open internet rules are here to stay," Michalopoulos said after two prior mixed decisions. "This time there is no doubt who is the winner: the open internet. The gatekeepers may not block or throttle our information."</p><span id="midArticle_9"/><span id="midArticle_10"/><p> (Reporting by Lawrence Hurley and David Shepardson; Editing by Will Dunham)</p><span id="midArticle_11"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/technologyNews/~3/mFGqsK_4T-g/us-usa-internet-idUSKCN0Z01RR">Source </a>

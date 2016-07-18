@@ -1,0 +1,69 @@
+---
+ID: 3133
+post_title: 'WIRED Binge-Watching Guide: The Shield'
+author: Staff Writer
+post_date: 2016-04-27 21:17:03
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/wired-binge-watching-guide-the-shield/
+published: true
+original_cats:
+  - >
+    Culture,Underwire,Binge-Watching
+    Guide,The Shield,WIRED Binge Watching
+    Guide
+original_title:
+  - 'WIRED Binge-Watching Guide: The Shield'
+original_link:
+  - >
+    http://www.wired.com/2016/04/binge-guide-the-shield/
+canonical_url:
+  - >
+    http://www.wired.com/2016/04/binge-guide-the-shield/
+---
+ [ad_1]
+<br><div id=""><p>It would be easy to dismiss <em>The Shield</em>, which ran on FX from 2002 to 2008, as yet another cop-gone-wild crime show, and you wouldn’t be totally off base to do so. But it would also be a huge mistake. As much as we’ve all gotten used to the “cop who makes his own rules” trope, there’s something different about <em>The Shield</em>.</p>
+<p>Created by Shawn Ryan, who would go on to produce <em>Lie to Me</em> and <em>Terriers</em>, <em>The Shield</em> starred Michael Chiklis as Vic Mackey, the corrupt leader of the Strike Team, an experimental, anti-gang unit within the Los Angeles Police Department (that’s based on the very real, and equally controversial, Rampart division of the LAPD). Shane Vendrell (Walton Goggins), Curtis “Lem” Lemansky (Kenny Johnson), and Ronnie Gardocki (David Rees Snell) round out Mackey’s crew, who all follow their leader, no matter how far he crosses the line. </p>
+
+
+
+<p>The team’s misbehaving—which regularly includes robbery and murder—doesn’t go unnoticed by the detectives with whom they share office space. Yet even the ones who seem to want to do something about it, like Captain David Aceveda (Benito Martinez) are more interested in leveraging what they know (or, at least, suspect) about the Strike Team to climb further up the ladder. </p>
+<p>Ryan wasn’t afraid to show his characters in the worst possible light and/or make them extremely hard to root for. But he was confident enough in <em>The Shield’</em>s quality—of its writing, its acting, and its all-around filmmaking—to assume (rightly) that audiences would stick around.</p>
+<p>While some of what you’ll see in <em>The Shield</em>, like its handheld, documentary-style camerawork, may seem commonplace today, this is the series that made it so. It’s also the show that brought FX into the original programming fold in a big way. Though it wasn’t the network’s first original series, it’s the one that helped establish the channel as a home for cutting-edge television. Its success led to <em>Nip/Tuck</em>, then <em>Rescue Me</em>, which paved the way for boundary-pushing series like <em>It’s Always Sunny in Philadelphia</em>, <em>American Horror Story</em>, and <em>Fargo</em>. </p>
+<p>But <em>The Shield</em>, both visually and narratively, is a bit of an acquired taste. There’s not a lot of resolution in the show, from episode to episode or season to season. As a viewer, it all feels a bit like you’re constantly spiraling even further downward. It’s clear from the pilot episode that there’s no way these characters, or this series, could have a happy ending. Which isn’t to say that it can’t be satisfying. Or imminently fascinating. For seven seasons, <em>The Shield</em> kept audiences engaged, and guessing. Now it’s your turn. Here’s how to binge-watch your new favorite gritty cop drama.</p>
+<h3><em>The Shield</em></h3>
+<p><strong>Number of Seasons:</strong> 7 (88 episodes)</p>
+<p><strong>Time Requirements:</strong> As much as you’ll want to keep watching, the show’s rather bleak and unrelenting nature might be best kept to two episodes per night during the week, and three per day on weekends (if you feel so inclined). Keep at that regularity, and you’ll be done in less than six weeks. </p>
+<p><strong>Where to Get Your Fix:</strong> Hulu, Amazon, iTunes</p>
+<p><strong>Best Character to Follow:</strong> Without Vic Mackey, there would be no show—or at least not as compelling a show. While polarizing characters are not a new invention, it’s a bold move to put as unredeeming a character as Mackey so front and center. One has to be watching closely to catch glimpses of his humanity (if it does indeed exist), and even then you’re left wondering what it is that compels him to act in such a brazenly self-destructive manner. But there’s an authenticity to Chiklis’ performance that manages to have half the audience secretly rooting for him. </p>
+<p><strong>Seasons/Episodes You Can Skip:</strong> Any true binge-watch means that you don’t skip an episode, which isn’t to say that all episodes of <em>The Shield</em> are created equal. Whereas other modern crime shows like any in the <em>CSI</em>, <em>NCIS</em>, or <em>Law &amp; Order</em> worlds tackle a new crime story every episode, <em>The Shield’</em>s storyline is an ongoing one, so missing an episode can mean missing a lot. That said…</p>
+<p><strong>Season 2: Episode 9, “Co-Pilot”</strong> This is pretty much universally known as <em>The Shield’</em>s worst-ever episode, mostly because it changes the rules by delving into the past to show how the Strike Team was formed. But in the case of <em>The Shield</em>, it seems wholly unnecessary. Particularly midway through the second season when, if you really need an origin story, you’re clearly not paying enough attention.</p>
+<p><strong>Seasons/Episodes You Can’t Skip:</strong></p>
+<p><strong>Season 1: Episode 1, “Pilot”</strong> <em>The Shield’</em>s pilot begins with a beat-down and ends with a shooting—both incidents at the hands of the Strike Team, which sets up a clear-cut introduction to the series, in all its moral ambiguity.</p>
+<p><strong>Season 1: Episode 5, “Blowback”</strong> As dedicated a soldier as Shane is, he doesn’t always make the smartest choices—and certainly doesn’t make the same decisions that Vic might if placed in the same situations. Yet it’s Vic who’s often left to clean up after Shane, which is the case in this first season episode that sees the Strike Team steal—then lose—a ton of drugs, just when they realize that Aceveda might be on to them.</p>
+<p><strong>Season 1: Episode 13, “Circles”</strong> <em>The Shield</em> knows how to craft a great season finale. This was the first of them, which sees Mackey and Aceveda working together to put an end to a series of cop killings. What makes the dynamic particularly interesting is how even Mackey’s most ardent naysayers seem to abandon their issues with him when they need help closing a case.</p>
+<p><strong>Season 2: Episode 13, “Dominoes Falling”</strong> One of the major storylines in <em>The Shield’</em>s second season is the Strike Team’s plan to steal money that’s on its way to a group of Armenian mobsters. In the season finale, it all comes to a head and the team has to decide whether or not to push forward with the plan. Spoiler: They do—and spend the next season trying to cover it up.</p>
+<p><strong>Season 3: Episode 14, “All In”</strong> Knowing that there’s a hitman on their trail, the Strike Team has to track their would-be assailant down before he finds them (all under the watchful eye of Aceveda, who is convinced of their involvement in the heist). At the same time, Claudette Wyms (CCH Pounder) makes a discovery that could result in hundreds of overturned convictions, and needs to figure out whether the truth is more important than the potential risk to her career.</p>
+<p><strong>Season 5: Episode 2, “Enemy of Good”</strong> Lemansky is put into the hot seat by Aceveda and Internal Affairs lieutenant Jon Kavanaugh (Forest Whitaker), who are both convinced that the Strike Team is corrupt. Now they just need a way to prove it.</p>
+<p><strong>Season 5: Episode 8, “Kavanaugh”</strong> For many fans of the series, <em>The Shield’</em>s fifth season was its best—an opinion that’s often attributed to Forest Whitaker’s presence in it. Of all the people who Mackey has annoyed, Kavanaugh proves to be his fiercest adversary. After several episodes of brutal tension, it all blows up here, with Chiklis and Whitaker delivering some fine performances.</p>
+<p><strong>Season 5: Episode 11, “Postpartum”</strong> With Kavanaugh still on their trail, Mackey tries to help Lem get out of the country and find life, and peace, in Mexico. But Shane has other plans for Lem.</p>
+<p><strong>Season 6: Episode 6, “Chasing Ghosts”</strong> The events of “Postpartum” are still very much in play in Season 6, as one of the show’s strongest partnerships—between Vic and Shane—begins to crumble.</p>
+<p><strong>Season 7: Episode 1, “Coefficient of Drag”</strong> Vic and Shane still haven’t recovered or managed to save their deteriorating relationship. And it’s not a safe prospect for either of them, as the other knows too much. So, just as they’ve done so many times before to so many other people, they’re forced to turn on each other. It’s the beginning of the end, for the Strike Team and <em>The Shield</em>.</p>
+<p><strong>Season 7: Episode 6, “Animal Control”</strong> Vic and Shane are still plotting against each other, and now Vic has to deal with one of those pesky Armenians again. He hatches a plan that will take care of two problems at once.</p>
+<p><strong>Season 7: Episode 12, “Possible Kill Screen”</strong> Backed into a corner, with both his job and his pension on the line, Vic sees truth-telling as his only option. So he brokers an immunity deal and spills about all his previous evil-doings, including that wayback murder of Terry Crowley (among others).</p>
+<p><strong>Season 7: Episode 13, “Family Meeting”</strong> When the end of <em>The Shield</em> was near, viewers seemed conflicted over whether or not they wanted Vic to have to pay for his many sins. Being that the show had always been based in reality, seeing him walk away from his horrible misdeeds didn’t seem to be an option. But what Vic didn’t necessarily anticipate was the fallout from his behavior, which lead his estranged wife and kids and former BFF Shane to make their own, rather drastic decisions about the future. The series finale successfully managed to do what most finales try to accomplish, but can’t: bringing the characters full circle. </p>
+<p><strong>Why You Should Binge:</strong><br/>Because you deserve better than a <em>Law &amp; Order</em> marathon. And because it’s rare that a cop show dares to be as brazenly violent as <em>The Shield</em> was, particularly in a post-9/11 world. Though it had a tendency to show more than was necessary on occasion, the series opened the door to a host of groundbreaking shows, both on FX and beyond. </p>
+<p><strong>Best Scene—”Terry Crowley’s Murder”:</strong> </p>
+<p>It didn’t take long for <em>The Shield</em> to show its true colors, and prove that it would be unafraid to go places where other shows had not dared to tread. Vic Mackey shooting his fellow Strike Team member Terry Crowley in the face (killing No. 2 in <a href="https://www.youtube.com/watch?v=huXEpWaFri8" target="_blank">the video here</a>) pretty much said all that.</p>
+<p><strong>The Takeaway: </strong><br/>As comforting as a network crime show may be with its formulaic wisecracks and cases that can be neatly tied up within 60 minutes, there’s a certain breed of audience looking for something a bit more realistic. This is that.</p>
+<figure attachment_2008237="" class="wp-caption landscape alignnone  relative" data-js="fader"><a href="https://www.wired.com/wp-content/uploads/2016/04/TheShield1.jpg"><img src="http://www.whenitson.com/wp-content/uploads/2016/04/WIRED-Binge-Watching-Guide-The-Shield.jpg" alt="TheShield1.jpg" width="582" height="327" class="size-default-top-art wp-image-2008237"/></a><figcaption class="wp-caption-text link-underline"><span class="credit link-underline-sm"><span aria-hidden="true" class="ui ui ui-photo inline-block ui-credit relative opacity-6 marg-r-sm marg-l-sm no-caption"/>FX</span></figcaption></figure><p><strong>If You Like <em>The Shield</em>, You’ll Love:</strong> Less than three months after <em>The Shield</em> made its premiere on FX, <em>The Wire</em> debuted on HBO. Comparisons between the two shows have been made often over the years, and while the series do share some basic elements—covering the intersection of law enforcement and politics in a city that’s known for high crime areas—they approach their landscapes in totally different ways. Differences and similarities aside, both are very worth your time. </p>
+<p>Walton Goggins found himself on the other side of the law playing Boyd Crowder, a career criminal from Kentucky, in <a href="http://www.wired.com/2014/09/binge-guide-justified/" target="_blank"><em>Justified</em></a>. Based on a short story by Elmore Leonard, the series pit Crowder against Raylan Givens (Timothy Olyphant), his childhood friend turned Deputy US Marshal. This is the best follow-up to <em>The Shield</em> for Goggins fans.  </p>
+<p><em>Southland</em> might be definitive proof that <em>The Shield</em> came along at the exact right moment. Premiering in 2009, the documentary-style crime drama took a gritty look at the day-to-day life of a group of LAPD officers. Though the series debuted to plenty of critical acclaim, that wasn’t enough to keep it on the air; after one season on NBC, the show was cancelled, then picked up by TNT, which ran it for another four seasons.</p>
+
+			<a class="visually-hidden skip-to-text-link focusable bg-white" href="#start-of-content">Go Back to Top. Skip To: Start of Article.</a>
+
+			
+</div>
+<br>[ad_2]
+<br><a href="http://www.wired.com/2016/04/binge-guide-the-shield/">Source </a>

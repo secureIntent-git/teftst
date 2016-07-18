@@ -1,0 +1,26 @@
+---
+ID: 1300
+post_title: 'Family says Iran has detained another US citizen &#8211; Town Hall'
+author: Staff Writer
+post_date: 2016-02-25 09:06:12
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/family-says-iran-has-detained-another-us-citizen-town-hall/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Family says Iran has detained another US citizen - Town Hall'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHFGHgStkq0AAmUWmnnG-DzIInSbw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779052423061&#038;ei=AsTOVoCIJ6i6wAHMj4qgDw&#038;url=http://townhall.com/news/politics-elections/2016/02/25/family-says-iran-has-detained-another-us-citizen-n2124508'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHFGHgStkq0AAmUWmnnG-DzIInSbw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779052423061&#038;ei=AsTOVoCIJ6i6wAHMj4qgDw&#038;url=http://townhall.com/news/politics-elections/2016/02/25/family-says-iran-has-detained-another-us-citizen-n2124508'
+---
+ [ad_1]
+<br><div readability="115">
+
+            <p>WASHINGTON (AP) — Iranian authorities have arrested a U.S. citizen whose son has been detained in Iran for the last four months, friends and family said Wednesday, describing what would be the first such action against an American national in Iran since last month's prisoner swap between the two countries.</p><p>Baquer Namazi, whose son Siamak has been held since October, was arrested on Monday, his wife wrote in a Facebook post. She said she was told he is now in Tehran's Evin prison.</p><p>"I must share the shocking and sad news that Baquer was arrested," Effie Namazi posted. "Now both my innocent son Siamak and my Baquer are in prison for no reason. This is a nightmare I can't describe."</p><p>She said she and a lawyer have been unable to get more information or see her husband, who suffers from "serious heart and other conditions" that require medication.</p><p>Appearing at a Senate panel hearing Wednesday, Secretary of State John Kerry said he was engaged on the matter but couldn't comment because of privacy considerations.</p><p>"We are aware of reports that a U.S. citizen was detained in Iran," State Department spokesman Mark Toner said. "The U.S. Department of State has no higher priority than the protection of U.S. citizens overseas. We take our obligation to assist U.S. citizens abroad seriously."</p><p>Haleh Esfandiari, a friend of the family and a Mideast expert at the Wilson Center, said Namazi is more than 80 years old and a dual U.S.-Iranian national.</p><p>"I'm in a state of shock," said Esfandiari, who was detained herself in Iran for more than three months in 2007. Her take: "They want Siamak to make concessions that he wasn't willing to make."</p><p>Namazi, she said, worked for the United Nations and at one point as a World Bank consultant, while also being a civil society activist. She described him as a "not at all political" person who consistently spoke out against U.S.-led economic sanctions against the Islamic Republic.</p><p>The family lived outside New York for a period after the Islamic Revolution that toppled the U.S.-backed shah in 1979, though it later returned to Iran, she said.</p><p>According to a Daily Beast article last year, the family has played a key role in trying to bridge ties between the long-time foes. It said Namazi was a governor of the oil-rich province of Khuzestan under the shah who was allowed to emigrate to the U.S. in 1983.</p><p>Siamak Namazi, an Iranian-American businessman who similarly advocated a warmer U.S.-Iranian relationship, is thought to have been arrested in October.</p><p>He is the one U.S. citizen known to be detained in Iran who wasn't included in January's prisoner exchange that saw five American set free and U.S. sentences, charges or warrants were dropped against 21 Iranians. Those allowed to leave Iran included Washington Post journalist Jason Rezaian. Iran denies having any knowledge of the whereabouts of Robert Levinson, a former FBI investigator who disappeared in the country in 2007.</p><p>The younger Namazi had been specifically criticized in hardline commentary ahead of his arrest as Iranian conservatives warned against easing hostilities with the U.S.</p><p>He also had written several articles about international sanctions on Iran. In a 2013 opinion piece published by The International Herald Tribune, he described shortages of medical supplies and urged the West to "relax and rationalize" the restrictions so such goods could reach Iran.</p><p>Nations removed many oil, trade and financial sanctions on Tehran after last month's U.N. confirmation that Iran had rolled back its nuclear program in accordance with last year's seven-nation agreement.</p><p>___</p><p>AP Diplomatic Writer Matthew Lee contributed to this report.</p>
+        </div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHFGHgStkq0AAmUWmnnG-DzIInSbw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779052423061&#038;ei=AsTOVoCIJ6i6wAHMj4qgDw&#038;url=http://townhall.com/news/politics-elections/2016/02/25/family-says-iran-has-detained-another-us-citizen-n2124508">Source </a>

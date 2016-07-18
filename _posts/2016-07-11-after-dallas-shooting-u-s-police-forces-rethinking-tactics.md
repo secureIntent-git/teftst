@@ -1,0 +1,38 @@
+---
+ID: 5338
+post_title: >
+  After Dallas shooting, U.S. police
+  forces rethinking tactics
+author: Staff Writer
+post_date: 2016-07-11 08:51:05
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/after-dallas-shooting-u-s-police-forces-rethinking-tactics/
+published: true
+original_cats:
+  - domesticNews
+original_title:
+  - >
+    After Dallas shooting, U.S. police
+    forces rethinking tactics
+original_link:
+  - >
+    http://feeds.reuters.com/~r/Reuters/domesticNews/~3/jttnD7O-ucw/us-usa-police-tactics-idUSKCN0ZR0C5
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/Reuters/domesticNews/~3/jttnD7O-ucw/us-usa-police-tactics-idUSKCN0ZR0C5
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="4"><p><span class="articleLocation">CHICAGO</span> Police departments across the United States are searching for new tactics for a more difficult era of racial tension, increasingly lethal mass shootings and global terrorism.</p></span><span id="midArticle_1"/><p>After last week's killing of five officers in Dallas, the deadliest assault on U.S. law enforcement since the Sept. 11, 2001, attacks, nearly half of America's 30 biggest cities have issued directives to pair up police officers on calls to boost safety, according to a Reuters survey of police departments. </p><span id="midArticle_2"/><p>And one, Indianapolis, said it would consider the use of robots to deliberately deliver lethal force, an unprecedented tactic until Thursday when the Dallas police department used a military-grade robot to deliver and detonate explosives where the shooter was holed up.</p><span id="midArticle_3"/><p>While a wave of anti-police protests since the 2014 killing of an unarmed black teen in Ferguson, Missouri, has revived memories of 1960s protests over civil rights and the Vietnam War, Thursday's shooting marked something different: a willingness to take up arms against police.</p><span id="midArticle_4"/><p>Ambushes against police on Thursday and Friday in Tennessee, Georgia and Missouri added to a sense of being under siege and vulnerable at a time when many departments already were grappling with heightened community suspicion over the use of deadly force.</p><span id="midArticle_5"/><p>Responding to the Dallas shooting, Denver’s police union wants officers to wear riot gear for local protests and to be armed with AR-15 assault rifles while patrolling Denver International Airport, the union said in a letter to the mayor published in The Denver Post.</p><span id="midArticle_6"/><p>The most immediate change is the pairing up of officers. Thirteen of the country's 30 biggest city police department said they are pairing up officers - a change that could strain already thinly staffed police ranks in some regions.</p><span id="midArticle_7"/><p>(The 13 are New York City, Chicago, Houston, Philadelphia, Phoenix, San Diego, San Jose, San Francisco, Indianapolis, Seattle, Memphis, Boston and Portland.)</p><span id="midArticle_8"/><p>In Albuquerque, New Mexico — one of several cities dealing with an officer shortage — pairing officers could mean “possibly longer response times for lower priority calls,” said its police spokesman, Simon Drobik. And for cities with tight municipal budgets, some question whether this expensive strategy can last beyond the short term.</p><span id="midArticle_9"/><p>Doubling up officers "is a resource-intense approach and it will be a significant challenge for some police departments to sustain that strategy for very long," said Thomas Manger, president of the Major Cities Chiefs Association (MCCA), which represents police chiefs from the country's largest cities.</p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><p>He predicted over the longer term that police will increase surveillance and expand their security presence at major events across the country. "This will cause complaints about violating people's constitutional rights to free assembly, but it is the only way to guarantee safety," he said.</p><span id="midArticle_11"/><span id="midArticle_12"/><p>'TARGETS ON THEIR BACK'</p><span id="midArticle_13"/><p>The attack in Dallas came during a demonstration Thursday over the shooting by police of two black men. Alton Sterling, 37, was shot by police in Baton Rouge on Tuesday and Philando Castile, 32, was killed on Wednesday night in a St. Paul, Minnesota suburb.</p><span id="midArticle_14"/><p>The Dallas shooting also left seven officers injured.</p><span id="midArticle_15"/>
+        
+        <span class="second-article-divide"/><p>"We need to figure out a way to ensure that police officers don't get targeted, because right now they do have targets on their backs," said Andrea Edmiston, director of governmental affairs for the National Association of Police Organizations, which represents about 241,000 U.S. police officers.</p><span id="midArticle_0"/><p>Few of the police forces approached by Reuters said they could discuss specific changes in tactics beyond pairing officers on the beat. Los Angeles and Denver, for instance, declined for safety reasons to discuss tactics.</p><span id="midArticle_1"/><p>Indianapolis police spokesman Kendale Adams said his department would consider using a robot to deliver a bomb. "Our team will consider all options in (a) deadly force encounter," he said in an e-mail.</p><span id="midArticle_2"/><p>If every police department had New York City's resources, the challenges would be much less.</p><span id="midArticle_3"/><p>New York police spokesman Stephen Davis said some 1,500 of the city's 36,000 police officers have received coordinated heavy weapons training.</p><span id="midArticle_4"/>
+        
+        <span class="third-article-divide"/><p>Davis said there are officers around the clock who can respond to an active shooter situation in an estimated three to five minutes.</p><span id="midArticle_5"/><p>"As most active shooter situations last under 10 minutes, that speed is crucial," he said. "But we are well aware of the luxury that we have with so many resources available to us."</p><span id="midArticle_6"/><p>Chuck Wexler, executive director of the Police Executive Research Forum, a law enforcement policy group, said that as 90 percent of America's 18,000 police forces have under 50 officers, many simply cannot afford the kind of staff needed to respond as quickly as needed to mass shootings.</p><span id="midArticle_7"/><p>Wexler said the Boston Marathon bombing in 2013 had been a milestone for police in realizing that major public events could become targets.</p><span id="midArticle_8"/><p>"Police departments will have to deploy additional forces to what have traditionally been low-risk events," he said, "because those events now have the potential for some extremist or madman to commit violent acts."</p><span id="midArticle_9"/><p>But he said that the best way to reduce deaths from attacks with semi-automatic weapons is to gain the trust of local communities so people will come forward and help prevent attacks. Once an attack starts, there is only so much the police can do.</p><span id="midArticle_10"/><p>The MCCA's Manger said that beyond police strategy and tactics, what America needs is a change of mindset.</p><span id="midArticle_11"/><p>"Everyone on both sides needs to take a step back.”</p><span id="midArticle_12"/><span id="midArticle_13"/><p> (Additional reporting by Julia Harte in Washington; Editing by Jason Szep and Mary Milliken)</p><span id="midArticle_14"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/Reuters/domesticNews/~3/jttnD7O-ucw/us-usa-police-tactics-idUSKCN0ZR0C5">Source </a>

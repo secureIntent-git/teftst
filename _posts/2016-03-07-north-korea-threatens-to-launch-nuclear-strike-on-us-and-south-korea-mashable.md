@@ -1,0 +1,44 @@
+---
+ID: 1618
+post_title: 'North Korea threatens to launch nuclear strike on US and South Korea &#8211; Mashable'
+author: Staff Writer
+post_date: 2016-03-07 03:43:10
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/north-korea-threatens-to-launch-nuclear-strike-on-us-and-south-korea-mashable/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'North Korea threatens to launch nuclear strike on US and South Korea - Mashable'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNE2Kn7IaF-Zfr1Y3je2EUoHN1jMGw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779058395161&#038;ei=y_jcVofNEJKLhAGqjbHYDw&#038;url=http://mashable.com/2016/03/06/north-korea-preemptive/'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNE2Kn7IaF-Zfr1Y3je2EUoHN1jMGw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779058395161&#038;ei=y_jcVofNEJKLhAGqjbHYDw&#038;url=http://mashable.com/2016/03/06/north-korea-preemptive/'
+---
+ [ad_1]
+<br><div readability="101.86141304348">
+<p>SEOUL, South Korea — North Korea has warned that it might launch a "pre-emptive nuclear strike of justice" on the U.S. and Seoul.</p>
+<p>The threat came on Monday, in reaction to the start of huge U.S.-South Korean military drills that were set to start on the same day.</p>
+
+<p>Such threats have been a staple of young North Korean leader Kim Jong Un since he took power after his dictator father's death in December 2011. But they spike especially when Washington and Seoul stage what they call annual defensive springtime war games. Pyongyang says the drills, which were set to start Monday and run through the end of April, are invasion rehearsals.</p>
+<figure class="image" readability="1"><p><img class="" data-credit-name="Lee Jin-man/AP" data-credit-provider="custom type" data-caption="Soldiers from the U.S. and South Korean armies during a joint military exercise in South Korea." src="http://www.whenitson.com/wp-content/uploads/2016/03/North-Korea-threatens-to-launch-nuclear-strike-on-US-and-South-Korea-Mashable.jpg" data-width="1000" data-fragment="m!d9d9" data-image="http://www.whenitson.com/wp-content/uploads/2016/03/North-Korea-threatens-to-launch-nuclear-strike-on-US-and-South-Korea-Mashable.jpg" data-micro="1"/></p>
+<figcaption class="image-caption" readability="2"><p>Soldiers from the U.S. and South Korean armies during a joint military exercise in South Korea.</p></figcaption></figure><p>The North's powerful National Defense Commission threatened strikes against targets in the South, U.S. bases in the Pacific and the U.S. mainland, saying its enemies "are working with bloodshot eyes to infringe upon the dignity, sovereignty and vital rights" of North Korea.</p>
+<p>"If we push the buttons to annihilate the enemies even right now, all bases of provocations will be reduced to seas in flames and ashes in a moment," the North's statement said.</p>
+<blockquote class="pull-quotes" data-fragment="the-north-makes-progress" data-description="The North makes progress with each new nuclear test." data-micro="1" readability="5"><p>The North makes progress with each new nuclear test.</p></blockquote>
+<p>A pre-emptive large-scale military strike that would end the authoritarian rule of the Kim dynasty is highly unlikely. There is also considerable outside debate about whether North Korea is even capable of the kind of "strikes" it threatens. The North makes progress with each new nuclear test — it <a href="mashable.com/2016/.../north-korea-thumps-its-chest-over-rocket-launch/">staged its fourth</a> in January — but many experts say its arsenal may consist only of still-crude nuclear bombs; there's uncertainty about whether they've mastered the miniaturization process needed to mount bombs on warheads and widespread doubt about whether they have a reliable long-range missile that could deliver such a bomb to the U.S. mainland.</p>
+<figure class="image" readability="2.5"><p><img class="" data-credit-name="Lee Jin-man/AP" data-credit-provider="custom type" data-caption="U.S. Army's Blackhawk and Chinook helicopters fly during a combined arms live-fire exercise as a part of the annual joint military exercise between South Korea and the United States in Pocheon, north of Seoul." src="http://www.whenitson.com/wp-content/uploads/2016/03/1457322190_395_North-Korea-threatens-to-launch-nuclear-strike-on-US-and-South-Korea-Mashable.jpg" data-width="999" data-fragment="m!50d5" data-image="http://www.whenitson.com/wp-content/uploads/2016/03/1457322190_395_North-Korea-threatens-to-launch-nuclear-strike-on-US-and-South-Korea-Mashable.jpg" data-micro="1"/></p>
+<figcaption class="image-caption" readability="5"><p>U.S. Army's Blackhawk and Chinook helicopters fly during a combined arms live-fire exercise as a part of the annual joint military exercise between South Korea and the United States in Pocheon, north of Seoul.</p></figcaption></figure><p>But North Korea's bellicose rhetoric raises unease in Seoul and its U.S. ally, not least because of the huge number of troops and weaponry facing off along the world's most heavily armed border, which is an hour's drive from the South Korean capital of Seoul and its 10 million residents.</p>
+<p>The rival Koreas' usual animosity occasionally erupts in bloody skirmishes — 50 South Koreans were killed in attacks in 2010 that Seoul blames on the North — and there is always a worry about an escalation of violence.</p>
+<p>Always ragged relations between North Korea and its rivals Seoul and Washington have worsened following North Korea's <a href="mashable.com/2016/01/08/north-korea-nuclear-test-dancing/">nuclear test</a> in January and a <a href="mashable.com/2016/02/08/north-korea-missile-launch-space-program/">long-range rocket test</a> last month that outsiders say was a test of banned ballistic missile technology.</p>
+<figure class="image" readability="3"><p><img class="" data-credit-name="Ahn Young-joon/AP" data-credit-provider="custom type" data-caption="South Korean protesters shout slogans during a rally criticizing U.N. sanction on North Korea and joint military exercises between the U.S. and South Korea. The banners read &quot; Stop the joint military exercises between the U.S. and South Korea,&quot; and &quot;Park Geun-hye, step down.&quot;" src="http://www.whenitson.com/wp-content/uploads/2016/03/1457322190_575_North-Korea-threatens-to-launch-nuclear-strike-on-US-and-South-Korea-Mashable.jpg" data-width="1000" data-fragment="m!f60e" data-image="http://www.whenitson.com/wp-content/uploads/2016/03/1457322190_575_North-Korea-threatens-to-launch-nuclear-strike-on-US-and-South-Korea-Mashable.jpg" data-micro="1"/></p>
+<figcaption class="image-caption" readability="6"><p>South Korean protesters shout slogans during a rally criticizing U.N. sanction on North Korea and joint military exercises between the U.S. and South Korea. The banners read " Stop the joint military exercises between the U.S. and South Korea," and "Park Geun-hye, step down."</p></figcaption></figure><p>The United Nations recently slapped the North with <a href="mashable.com/2016/03/04/nkorea-nuclear-threat/">harsh sanctions</a>, and South Korea has taken a harder than usual line, with a new North Korean human rights law and the president in Seoul warning of a collapsed government in Pyongyang. South Korea says it will announce new unilateral sanctions Tuesday.</p>
+<blockquote class="pull-quotes" data-fragment="similar-nuclear-threats-by" data-description="Similar nuclear threats by the North were made in 2013." data-micro="1" readability="5"><p>Similar nuclear threats by the North were made in 2013.</p></blockquote>
+<p>Similar nuclear threats by the North were made in 2013, around the time of the springtime military drills, after the U.N. sanctioned the North over a nuclear test and long-range rocket launch.</p>
+<p>South Korea's military says this year's war games will be the largest ever staged, involving 300,000 South Korean military personnel and 17,000 from the United States. Analysts say one part of North Korea's traditional anger over the drills is that they force the impoverished country to respond with its own costly war games.</p>
+<p>Responding to the North's threat, South Korean Defense Ministry spokesman Moon Sang Gyun said Monday that North Korea must refrain from a "rash act that brings destruction upon itself."</p>
+<p contenteditable="false"><em>Have something to add to this story? Share it in the comments.</em></p>
+</div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNE2Kn7IaF-Zfr1Y3je2EUoHN1jMGw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779058395161&#038;ei=y_jcVofNEJKLhAGqjbHYDw&#038;url=http://mashable.com/2016/03/06/north-korea-preemptive/">Source </a>

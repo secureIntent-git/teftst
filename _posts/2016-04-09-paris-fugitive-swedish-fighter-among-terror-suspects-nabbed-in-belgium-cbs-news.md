@@ -1,0 +1,31 @@
+---
+ID: 2608
+post_title: 'Paris fugitive, Swedish fighter among terror suspects nabbed in Belgium &#8211; CBS News'
+author: Staff Writer
+post_date: 2016-04-09 13:12:10
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/paris-fugitive-swedish-fighter-among-terror-suspects-nabbed-in-belgium-cbs-news/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Paris fugitive, Swedish fighter among terror suspects nabbed in Belgium - CBS News'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHlEBCp1Q4tyCXodxc2VqBcIKMOyw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779077430895&#038;ei=qv8IV9g2g_DBAZTgt8gH&#038;url=http://www.cbsnews.com/news/brussels-attacks-6th-person-arrested-in-belgium-over-attacks/'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHlEBCp1Q4tyCXodxc2VqBcIKMOyw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779077430895&#038;ei=qv8IV9g2g_DBAZTgt8gH&#038;url=http://www.cbsnews.com/news/brussels-attacks-6th-person-arrested-in-belgium-over-attacks/'
+---
+ [ad_1]
+<br><div itemprop="articleBody" id="article-entry" readability="106.10911424904">
+
+        
+        <p><strong>PARIS </strong>-- Belgian authorities have detained a total of six people suspected of ties to the <a href="http://www.cbsnews.com/europe-terror/" target="_blank">Brussels bombings</a>, including the last known fugitive of last year's <a href="http://www.cbsnews.com/paris-attacks/">Paris attacks</a> and a Swedish fighter linked to the French massacre, Belgium's prosecutor's office said Saturday. The arrests could give investigators new insights into the <a href="http://www.cbsnews.com/isis/">ISIS</a> cell believed to have carried out the attacks in both countries.</p><p><a href="http://www.cbsnews.com/news/brussels-attacks-several-arrests-made-in-relation-to-terror-attacks/" target="_blank">Authorities announced the arrest of five men</a> on Friday, including Mohamed Abrini, the last identified suspect at large from the Paris attacks. Belgium's prosecutor's office said Saturday that a sixth person had been arrested, but refused to give any further details ahead of an announcement due out later in the day. Another one of the six, named only as Osama K. by authorities was identified by Swedish media as Osama Krayem, who is known to have left the Swedish city of Malmo to fight in Syria.</p><figure class="image pull-none image-large related-gallery"><a href="http://www.cbsnews.com/pictures/brussels-deadly-explosions-airport-metro-terror-attacks/"><span class="img "><img src="http://www.whenitson.com/wp-content/uploads/2016/04/Paris-fugitive-Swedish-fighter-among-terror-suspects-nabbed-in-Belgium-CBS-News.jpg" alt="abriniap234332327081.jpg" height="350" width="620" srcset="http://www.whenitson.com/wp-content/uploads/2016/04/Paris-fugitive-Swedish-fighter-among-terror-suspects-nabbed-in-Belgium-CBS-News.jpg 1x, http://cbsnews1.cbsistatic.com/hub/i/r/2016/04/08/6540b214-d39b-4d66-a438-116f6b85858d/thumbnail/1240x700/1223f3a68d5535eeedecdaba7fde1192/abriniap234332327081.jpg 2x"/></span></a><figcaption readability="0.87368421052632"><a href="http://www.cbsnews.com/pictures/brussels-deadly-explosions-airport-metro-terror-attacks/"><p><span class="label">View Gallery</span></p></a><div class="caption" readability="7"><p>This undated photograph provided by Belgian Federal Police shows Mohamed Abrini.</p></div><p>
+                                            AP
+                                        </p></figcaption></figure><p>Belgium's prosecutor's office confirmed only that Osama K. was from Sweden. Swedish officials had no immediate comment.</p><p>Abrini and Krayem are suspected of participating in the two biggest attacks carried out by the Islamic State group in Europe over the past year, killing 130 people in Paris on Nov. 13 last year and 32 people in Brussels on March 22.</p><p>Investigators are trying to determine whether Abrini is the "man in the hat" who escaped the Brussels attacks while three suicide bombers blew themselves up at the airport and in the city's subway and whose likeness has been broadcast across the media for weeks. They'll also be investigating Krayem's role in the attack: he was filmed by security cameras at a shopping mall where the bags used by the airport bombers were bought. French authorities also suspect Krayem of having links to the Paris attacks.</p><p>Abrini lived in the Brussels neighborhood of Molenbeek, a predominately Muslim community that has, in recent months, become the <a href="http://www.cbsnews.com/news/molenbeek-brussels-belgium-isis-terror-recruiting-ground/">ground zero of terror</a> in Europe.</p><p><em>CBSN goes back to Brussels to further examine what has made it such a terror hotspot in Europe. Watch the full report Monday, April 11, at 8 p.m. ET. View a trailer at left.</em></p><p>The arrests may also help investigators unravel the links between the attacks and IS, the radical Muslim group which straddles Iraq and Syria.</p><p>Krayem had earlier been identified posting photos from Syria on social media, according to Magnus Ranstorp, a counterterrorism expert at the Swedish National Defense College.</p><p>"He also tried to recruit people in Malmo," Ranstorp told The Associated Press.</p><p>The detentions were a rare success for Belgian authorities, who have been pilloried for mishandling leads in the investigation. Both the interior and justice ministers had offered to resign before the detentions.</p><p>Despite multiple arrests, Brussels remains under the second-highest terror alert, meaning an attack is considered likely.</p>
+    </div><p>
+                                        © 2016 CBS Interactive Inc. All Rights Reserved. This material may not be published, broadcast, rewritten, or redistributed. The Associated Press contributed to this report.
+                    </p>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNHlEBCp1Q4tyCXodxc2VqBcIKMOyw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779077430895&#038;ei=qv8IV9g2g_DBAZTgt8gH&#038;url=http://www.cbsnews.com/news/brussels-attacks-6th-person-arrested-in-belgium-over-attacks/">Source </a>

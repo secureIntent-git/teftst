@@ -1,0 +1,38 @@
+---
+ID: 3641
+post_title: >
+  China asks Britain for advice on
+  creating financial super-regulator
+author: Staff Writer
+post_date: 2016-05-15 03:58:16
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/china-asks-britain-for-advice-on-creating-financial-super-regulator/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    China asks Britain for advice on
+    creating financial super-regulator
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/_jm8izwrXmQ/us-china-regulator-britain-idUSKCN0Y6003
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/_jm8izwrXmQ/us-china-regulator-britain-idUSKCN0Y6003
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="6"><p><span class="articleLocation">HONG KONG/BEIJING</span> China has asked Britain for advice on plans to create a financial super-regulator, as it looks to improve financial oversight following last year's stock market crash, sources with knowledge of the talks told Reuters.</p></span><span id="midArticle_1"/><p>The discussions between representatives from China and the UK Foreign Office and Treasury highlight Britain's burgeoning relationship with Beijing on financial issues, notwithstanding this week's gaffe by Queen Elizabeth, who was caught on camera grumbling that Chinese officials accompanying President Xi Jinping on a visit to the UK last year had been "very rude to the ambassador".</p><span id="midArticle_2"/><p>The talks signal Beijing's growing willingness to seek outside help to improve regulation of its financial infrastructure, in a bid to increase transparency, reduce systemic risk, and stop companies exploiting loopholes.</p><span id="midArticle_3"/><p>Several Chinese and British sources with direct knowledge of the talks said Beijing had sent delegations to London to study the UK regulatory framework, with two sources citing a visit in the first quarter. </p><span id="midArticle_4"/><p>UK government representatives also visited Beijing last month to discuss financial, economic and regulatory issues, two sources with knowledge of the visit said.</p><span id="midArticle_5"/><p>Weaknesses in Chinese regulation were exposed last summer when China's stock markets lost a third of their value in a month, having soared 150 percent in the previous 12 months.</p><span id="midArticle_6"/><p>Government and regulators rushed out a series of measures to arrest the crash, including limiting short-selling, stopping new listings and strong-arming big funds to buy more stocks.</p><span id="midArticle_7"/><p>The interventions were widely criticized for over-riding market mechanisms, poor inter-agency coordination and creating moral hazard by implying government support.</p><span id="midArticle_8"/><span id="midArticle_9"/><p>OVERHAUL</p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><p>Reuters reported in November that China was considering consolidating supervisory powers in one regulator covering banking, mutual funds, insurance and securities, but two Chinese sources with direct knowledge of the matter said no decisions had yet been made. </p><span id="midArticle_11"/><p>The Chinese sources said any proposals would include a few options for China's cabinet, the State Council, to choose from, but it was unclear if a proposal had yet been submitted. </p><span id="midArticle_12"/><p>Britain overhauled its regulatory system after the global financial crisis of 2008-09, handing enormous power to the Bank of England, which is responsible for averting risks to the financial system as a whole.</p><span id="midArticle_13"/><p>The new structure aims to reduce blind spots by more closely aligning macro-economic policies with on-the-ground regulation and supervision of financial institutions and markets.</p><span id="midArticle_14"/><p>China can't exactly recreate Britain's regulatory structure due to differences in their political systems and potential rivalries over where such a powerful regulator would fit among senior decision makers. </p><span id="midArticle_15"/><p>"The UK model is a reference, but we can't completely copy it," said one of the sources. "The UK model is worth us studying but it would have flaws when implemented in China."</p><span id="midArticle_0"/>
+        
+        <span class="second-article-divide"/><p>This is not the first time China has sought foreign help in addressing financial problems at home. Reuters reported in March that the People's Bank of China (PBOC), the central bank, approached the U.S. Federal Reserve last July for advice on handling its tumbling stock markets.</p><span id="midArticle_1"/><p>The UK Treasury has lobbied hard to become China's partner of choice on a range of financial issues, and the two are collaborating on several economic and financial projects, including a stock trading link between London and Shanghai.</p><span id="midArticle_2"/><p>Another source briefed on the matter said Britain had "answered questions when asked" on its regulatory structure as part of this broader dialogue, but added that "Chinese regulation is a matter for the Chinese government."</p><span id="midArticle_3"/><p>The Foreign Office and Treasury declined to comment.</p><span id="midArticle_4"/><span id="midArticle_5"/>
+        
+        <span class="third-article-divide"/><p>NEW SYSTEM</p><span id="midArticle_6"/><p>In one of the options currently under discussion, China's top financial regulators - the China Securities Regulatory Commission (CSRC), the China Banking Regulatory Commission (CBRC) and the China Insurance Regulatory Commission (CIRC) - would be merged.</p><span id="midArticle_7"/><p>Currently these three agencies operate independently, reporting to the State Council, China's cabinet, and would continue to report to the cabinet if merged.</p><span id="midArticle_8"/><p>Another option under consideration would see the new super-regulator report to the PBOC, giving the central bank more power, as in Britain. The PBOC would still report to the State Council, the sources said.</p><span id="midArticle_9"/><p>One Chinese source said this proposal would partly reinstate the pre-2003 system in which the PBOC was responsible for supervising the country's banks. China's major state lenders had to be recapitalized and restructured between 1998 and 2003 following a credit binge.</p><span id="midArticle_10"/><p>"Merging the CBRC, CSRC and CIRC under the central bank would be reverting to the old system when the PBOC had too much power," this person said.</p><span id="midArticle_11"/><p>In August, the Financial Stability Board, an international watchdog, said China's current structure allows the three agencies to pursue conflicting policy objectives, potentially undermining the central bank's capacity to maintain financial stability as the country opens up its markets.</p><span id="midArticle_12"/><p>The CSRC, CBRC, CIRC, PBOC and State Council Information Office did not respond to requests for comment.</p><span id="midArticle_13"/><span id="midArticle_14"/><p> (Reporting by Michelle Price and Benjamin Lim; additional reporting by Beijing Newsroom; Editing by Lisa Jucca and Will Waterman)</p><span id="midArticle_15"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/_jm8izwrXmQ/us-china-regulator-britain-idUSKCN0Y6003">Source </a>

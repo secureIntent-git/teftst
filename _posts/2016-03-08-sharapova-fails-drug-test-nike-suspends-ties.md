@@ -1,0 +1,38 @@
+---
+ID: 1654
+post_title: >
+  Sharapova fails drug test, Nike suspends
+  ties
+author: Staff Writer
+post_date: 2016-03-08 11:20:08
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/sharapova-fails-drug-test-nike-suspends-ties/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    Sharapova fails drug test, Nike suspends
+    ties
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/9g4M1DOpTwM/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/9g4M1DOpTwM/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">LOS ANGELES</span> Russian tennis star Maria Sharapova said on Monday she had failed a drug test at the Australian Open due to a substance she was taking for health issues, leading longtime sponsor Nike to announce it was suspending ties during the investigation.</p></span><span id="midArticle_1"/><p>The 28-year-old Sharapova, a five-time grand slam champion and the highest paid woman in sports, will be provisionally suspended starting March 12, the International Tennis Federation (ITF) said. </p><span id="midArticle_2"/><p>She is the seventh athlete in a month to test positive for meldonium, which is used to treat diabetes and low magnesium, and was only banned by the World Anti-Doping Agency (WADA) as of Jan. 1.</p><span id="midArticle_3"/><p>"I made a huge mistake. I let my fans down and I let the sport down," said Sharapova, a teenage tennis prodigy who became the third-youngest Wimbledon champion. "I take full responsibility for it."</p><span id="midArticle_4"/><p>"I know that with this I face consequences and I don't want to end my career this way. I really hope that I will be given another chance to play this game," former world number one Sharapova told a news conference in a downtown Los Angeles hotel.</p><span id="midArticle_5"/><p>Nike (<span id="symbol_NKE.N_0">NKE.N</span>), the world's largest sportswear maker, said it was "saddened and surprised" by the news and released a statement saying it was putting ties on hold with the player. </p><span id="midArticle_6"/><p>"We have decided to suspend our relationship with Maria while the investigation continues," it said. </p><span id="midArticle_7"/><p>The ITF's anti-doping program calls for a four-year suspension for a positive test, but that ban can be reduced in various circumstances, such as for first-time offences or if the player shows no significant fault or negligence. </p><span id="midArticle_8"/><p>If a player bears no fault or negligence, there is no suspension.    </p><span id="midArticle_9"/><span id="midArticle_10"/><p>TAKEN MELDONIUM FOR 10 YEARS</p><span id="midArticle_11"/><p>According to Forbes, she earned $29.5 million in 2015, mostly from endorsements.</p><span id="midArticle_12"/>
+        
+        <span class="first-article-divide"/><p>Sharapova said her family doctor had been giving her mildronate, which is also called meldonium, for 10 years after she frequently became sick, had irregular EKG results, a magnesium deficiency and a family history of diabetes.</p><span id="midArticle_13"/><p>"It is very important for you to understand that for 10 years this medicine was not on WADA's banned list and I had been legally taking the medicine. But on January the first, the rules have changed and meldonium became a prohibited substance."</p><span id="midArticle_14"/><p>WADA declined to comment until ITF issues a final decision.</p><span id="midArticle_15"/><p>Meldonium is used to treat chest pain and heart attacks among other conditions, but some researchers have linked it to increased athletic performance and endurance. It is listed by WADA among its prohibited metabolic modulators, along with insulin, and some researchers say it can also help recovery.</p><span id="midArticle_0"/><p>It is not approved in the United States but is available in Russia, Latvia and other countries in that region. </p><span id="midArticle_1"/><p>Over the past month, Russian cyclist Eduard Vorganov, Russian figure skater Ekaterina Bobrova, Ethiopia-born athletes Endeshaw Negesse and Abeba Aregawi, and Ukraine biathletes Olga Abramova and Artem Tyshchenko have all tested positive for meldonium.</p><span id="midArticle_2"/>
+        
+        <span class="second-article-divide"/><p>Sharapova is the most prominent tennis player to test positive for a banned substance in recent years.</p><span id="midArticle_3"/><p>Croatia's Marin Cilic was banned for nine months in 2013 after testing positive for a prohibited stimulant, though the suspension was cut to four months on appeal.</p><span id="midArticle_4"/><p>Former world number one Martina Hingis retired after receiving a two-year suspension for a positive cocaine test in 2007, though the Swiss denied taking the drug.</p><span id="midArticle_5"/><span id="midArticle_6"/><p>WTA SADDENED BY NEWS</p><span id="midArticle_7"/><p>Last year, the sport banned U.S. player Wayne Odesnik for 15 years after his second doping violation, testing positive for steroids and other banned substances.</p><span id="midArticle_8"/>
+        
+        <span class="third-article-divide"/><p>Sharapova is the biggest name in sport to test positive since New York Yankees baseball slugger Alex Rodriguez was banned for a year in 2013 after using performance-enhancing drugs and American cyclist Lance Armstrong was banned for life from racing in 2012 after a U.S. Anti-Doping investigation.</p><span id="midArticle_9"/><p>Sharapova, one of the most popular figures in global sports, has long been a favorite with her sponsors. Cosmetics maker Avon Products Inc (<span id="symbol_AVP.N_1">AVP.N</span>) declined to comment on its endorsements.     </p><span id="midArticle_10"/><p>Steve Simon, CEO of the Women's Tennis Association, said in a statement he was saddened to hear the news.</p><span id="midArticle_11"/><p>"Maria (Sharapova) is a leader and I have always known her to be a woman of great integrity," he said. </p><span id="midArticle_12"/><p>"Nevertheless, as Maria acknowledged, it is every player's responsibility to know what they put in their body and to know if it is permissible. The WTA will support the decisions reached through this process."    </p><span id="midArticle_13"/><p>The news came a day after Sharapova's management team said she was going to make a "major announcement," which had many speculating that she was going to announce her retirement from professional tennis.</p><span id="midArticle_14"/><p>Sharapova, who has struggled with a series of injuries in recent years, has not competed since she lost to Serena Williams in the quarter-finals of the Australian Open in January.</p><span id="midArticle_15"/><p>Renowned for her never-say-die approach, a gritty baseline game and high-decibel shrieking, Sharapova at 17 became the first Russian woman to win Wimbledon when she beat Serena Williams 6-1 6-4 in the 2004 final.</p><span id="midArticle_0"/><p>That victory also made her the third-youngest Wimbledon champion, behind only Lottie Dod and Hingis, and the fourth-youngest grand slam winner in the open era after Hingis, Monica Seles and Tracy Austin.</p><span id="midArticle_1"/><span id="midArticle_2"/><p> (Additional reporting by Joseph Ax, Jon Herskovitz and Victoria Cavaliere; Editing by Lisa Shumaker/Peter Rutherford/John O'Brien)</p><span id="midArticle_3"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/9g4M1DOpTwM/story01.htm">Source </a>

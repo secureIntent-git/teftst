@@ -1,0 +1,38 @@
+---
+ID: 3407
+post_title: >
+  Convoy leads Canada fire evacuees
+  through burning city to safety
+author: Staff Writer
+post_date: 2016-05-07 03:29:08
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/convoy-leads-canada-fire-evacuees-through-burning-city-to-safety/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    Convoy leads Canada fire evacuees
+    through burning city to safety
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/MZtOYgwuG5M/us-canada-wildfire-fortmcmurray-idUSKCN0XX16S
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/MZtOYgwuG5M/us-canada-wildfire-fortmcmurray-idUSKCN0XX16S
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="6"><p><span class="articleLocation">WANDERING RIVER, Alberta</span> Convoys of evacuees stranded by a wildfire raging in and around the Canadian oil town of Fort McMurray made their way on Friday through the heart of the devastation on the only highway out of the region, as officials warned that the blaze could soon double in size.</p></span><span id="midArticle_1"/><p>Wind-whipped flames roaring through forests and brush parched by a spring heat wave have engulfed nearly 250,000 acres (101,000 hectares) in western Canada's energy heartland since erupting on Sunday.</p><span id="midArticle_2"/><p>The blaze, the largest of 40 wildfires burning across the province of Alberta, has forced some 88,000 residents, the entire population of Fort McMurray, to flee for safety, and has threatened two oil sands production sites south of the city.</p><span id="midArticle_3"/><p>At least 10 oil sand operators have cut production due to evacuations and other emergency measures that complicated delivery of petroleum by rail, pipeline and highway.</p><span id="midArticle_4"/><p>With winds on Friday pushing the fire's leading edge to the northeast, away from town and into open timber, authorities said the blaze was expected to rapidly expand its footprint even as the threat to populated areas waned.</p><span id="midArticle_5"/><p>Chad Morrison, an official with the Alberta government wildfire unit, told reporters in the provincial capital Edmonton, about 270 miles (430 km) to the south, the blaze was likely to double in size by late on Saturday, the end of its first week.</p><span id="midArticle_6"/><p>The full extent of property losses in Fort McMurray, has yet to be determined, but authorities said some 1,600 structures were believed to have been destroyed. One analyst estimated insurance losses could exceed C$9 billion ($7 billion).</p><span id="midArticle_7"/><p>Earlier in the week most evacuees headed south by car on Alberta Highway 63, the only land route out of the area, in a slow-moving exodus that left many temporarily stranded on the roadside as they ran out of gasoline. </p><span id="midArticle_8"/><p>But other residents who initially sought shelter in oil camps and settlements north of the city found themselves cut off in overcrowded conditions. They were forced on Friday to retrace their route back through Fort McMurray on Highway 63 as flames continued to spread.</p><span id="midArticle_9"/><p>With parts of the city still in flames, evacuees in some 1,500 vehicles began making the 30-mile (50-km) trip at 4 a.m. in groups of 50 cars.</p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><p>"It reminded us of a war zone," said Marisa Heath, who spent 36 hours in her truck on the side of the highway with her husband, two dogs, a cat and seven kittens. "Eerie. All you could see was cement foundations of houses."</p><span id="midArticle_11"/><p>Helicopters hovered overhead watching for flames, and police set up emergency fuel stations along the highway to keep the line of cars moving. They headed toward safety south of Fort McMurray in towns including Lac La Biche, 180 miles (290 km) away, and Edmonton farther on.</p><span id="midArticle_12"/><p>The convoys were halted briefly around midday due to heavy smoke, but officials said the majority of vehicles had already passed through town by then. </p><span id="midArticle_13"/><p>Authorities planned to airlift about 8,000 of the 25,000 evacuees who were initially chased north of Fort McMurray.</p><span id="midArticle_14"/><span id="midArticle_15"/>
+        
+        <span class="second-article-divide"/><p>OIL PRODUCTION CUT</p><span id="midArticle_0"/><p>About a third of Canada's oil production has been shut by the conflagration, according to a Reuters estimate. </p><span id="midArticle_1"/><p>South of Fort McMurray, CNOOC Nexen's Long Lake oil sands facility and Athabasca Oil's Hangingstone project were in danger of being overrun by flames, emergency officials reported. Both facilities have been evacuated.</p><span id="midArticle_2"/><p>Morrison said fire was "at the gates" of the Long Lake installation, but shifting winds would likely spare the facility. He added that many oil facilities in the region had private firefighting forces in place.</p><span id="midArticle_3"/><p>BP Plc's Canadian unit has declared a force majeure resulting in the reduction of available Western Canadian Select crude, among other Canadian grades, according to two trading sources familiar with the matter.</p><span id="midArticle_4"/>
+        
+        <span class="third-article-divide"/><p>There have been no known casualties from the fire itself, but fatalities were reported earlier this week in at least one car crash among the evacuees.</p><span id="midArticle_5"/><p>As of Friday, more than 1,200 firefighters were arrayed against blazes across Alberta, backed by more than 100 helicopters and over two dozen airplane tankers equipped to drop water and fire-retardant chemicals on the flames.</p><span id="midArticle_6"/><p>But the sheer magnitude and intensity of the Fort McMurray fire mostly defied all efforts to contain it.</p><span id="midArticle_7"/><p>Cecil Dickason, a Fort McMurray resident who was part of the convoy, said the battered city looked "awful." Others described the city as dark and smoke-filled, pockmarked with charred and abandoned vehicles and roadside spot fires.</p><span id="midArticle_8"/><p>Entire neighborhoods were reduced to ruins, but most evacuees fled without knowing the fate of their own homes. The majority got away with few possessions, some forced to leave pets behind.</p><span id="midArticle_9"/><p>In a press briefing on Friday, Alberta Premier Rachel Notley said damage to Fort McMurray was extensive.</p><span id="midArticle_10"/><p>"The city of Fort McMurray is not safe to return to, and this will be true for a significant period of time," she said, adding that officers of the Royal Canadian Mounted Police would secure and protect what was left of the town.</p><span id="midArticle_11"/><p>The Alberta government has approved emergency funding for wildfire evacuees and will be giving out C$1,250 ($966) per adult and C$500 ($387) per dependent. </p><span id="midArticle_12"/><span id="midArticle_13"/><p> (Additional reporting by Ethan Lou, Allison Martell in Toronto, Nia Williams in Calgary, Catherine Ngai, David Gaffen in New York, David Ljunngren, Leah Schnurr in Ottawa; Writing by Amran Abocar and Steve Gorman; Editing by Cynthia Osterman and Diane Craft)</p><span id="midArticle_14"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/MZtOYgwuG5M/us-canada-wildfire-fortmcmurray-idUSKCN0XX16S">Source </a>

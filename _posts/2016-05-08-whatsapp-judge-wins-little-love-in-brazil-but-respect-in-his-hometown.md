@@ -1,0 +1,38 @@
+---
+ID: 3459
+post_title: >
+  WhatsApp judge wins little love in
+  Brazil; but respect in his hometown
+author: Staff Writer
+post_date: 2016-05-08 21:23:25
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/whatsapp-judge-wins-little-love-in-brazil-but-respect-in-his-hometown/
+published: true
+original_cats:
+  - technologyNews
+original_title:
+  - >
+    WhatsApp judge wins little love in
+    Brazil; but respect in his hometown
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/gOTyT_lnDFw/us-brazil-whatsapp-judge-idUSKCN0XX23C
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/technologyNews/~3/gOTyT_lnDFw/us-brazil-whatsapp-judge-idUSKCN0XX23C
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="6"><p><span class="articleLocation">LAGARTO, Brazil</span> Judge Marcel Montalvão joined some of Brazil's top politicians as one of the country's most-hated public figures when he ordered a 72-hour shutdown of WhatsApp this week, abruptly cutting off the messaging service for some 100 million users.</p></span><span id="midArticle_1"/><p>But none of the young women staring at their cell phones and tapping away on the now-restored WhatsApp in a patch of shade outside Montalvão's courthouse in the small city of Lagarto were among the haters. </p><span id="midArticle_2"/><p>Even as the judge prepared to rule on cases involving their loved ones in a courthouse compound that is heavily guarded and sits behind a high, electrified fence, the women expressed understanding for a man known locally as fiercely dedicated to fighting crime.</p><span id="midArticle_3"/><p>"It was a pain at first. We use zap-zap all the time," said Marcielle Santana, 26, using the universal slang term in Brazil for Facebook-owned WhatsApp.</p><span id="midArticle_4"/><p>"But you have to respect him. He's going after drug gangs, pedophiles. That's more important than a little time without zap-zap."</p><span id="midArticle_5"/><p>Montalvão ordered Brazil's main telecom operators to block WhatsApp on Monday for 72 hours after it failed to produce for the court messages supposedly traded between members of Brazil's most powerful drug gang.</p><span id="midArticle_6"/><p>In March, he ordered the imprisonment of a Brazil-based Facebook executive for failing to comply with a previously attempted block on WhatsApp. The executive was jailed and freed after a day.</p><span id="midArticle_7"/><p>This week, Montalvão's order was lifted by a higher court about 24 hours after it went into effect. A similar temporary block of the messaging service occurred last December after a judge in Sao Paulo state ordered it shut for failing to share information in a criminal case.</p><span id="midArticle_8"/><p>WhatsApp officials have repeatedly argued they cannot turn over to judges material that they do not possess. Their encrypted messaging service does not store user-generated content on any servers, they say.   </p><span id="midArticle_9"/><p>The block of WhatsApp ignited such an outcry in Brazil that a congressional commission on Wednesday recommended a bill that would bar authorities from blocking popular messaging applications.   </p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><p>Facebook Inc's Chief Executive Mark Zuckerberg also weighed in, calling on Brazilians to demand that WhatsApp never be blocked again. </p><span id="midArticle_11"/><p>Nancy Andrighi, a minister at Brazil's National Council of Justice, a federal watchdog over judges, on Tuesday gave Montalvão two weeks to explain his decision to block WhatsApp. If the council finds the judge abused his power, it could take disciplinary action against him.  </p><span id="midArticle_12"/><p>Despite all that, Montalvão's reputation in Lagarto and the surrounding area remains positive even after his nearly year-long battle with WhatsApp and Facebook - principally because of his hard-line stance against surging crime, often linked to drug gangs, in the city.</p><span id="midArticle_13"/><span id="midArticle_14"/><p>FROM CLASSROOM TO POLICE PROTECTION</p><span id="midArticle_15"/>
+        
+        <span class="second-article-divide"/><p>Montalvão, the son of shoe shiner, spent 20 years as a schoolteacher in the Sergipe state capital Aracaju, Montalvão. He told a Lagarto radio station last year that he became a judge in 2004 after deciding that teaching was not doing enough to help young people.    </p><span id="midArticle_0"/><p>Montalvão declined on Thursday to give an interview to Reuters about the WhatsApp case, citing judicial secrecy and the delicate security situation surrounding the arrival that day of eight gang suspects to his court.     </p><span id="midArticle_1"/><p>The area, part of Brazil's impoverished Northeast, grew rapidly during the two terms of former President Luiz Inacio Lula da Silva, thanks to a commodities boom and surging government spending during his eight years in office that began in 2003. </p><span id="midArticle_2"/><p>But crime grew along with the population, as the rural poor flocked to jobs at expanding food processing plants and with the opening of a large medical faculty of the Federal University of Sergipe. Lagarto is now home to 103,000 people, a jump of 25 percent over the 2000 Census.</p><span id="midArticle_3"/><p>Not all has changed, though. </p><span id="midArticle_4"/>
+        
+        <span class="third-article-divide"/><p>Despite the glittering medical campus and neat downtown shops, churches and government buildings, horses graze on roads near the courthouse, which sits beside manioc and coconut fields and overgrown empty lots. Vultures circle overhead in the strong tropical sun. </p><span id="midArticle_5"/><p>"We're still in the country, but we aren't the little, dusty northeastern town that everybody has in their mind," said Rilley Guimarães, Lagarto's municipal secretary of Industry, Commerce and Tourism. "The attacks on Lagarto have been offensive."</p><span id="midArticle_6"/><p>Montalvão's willingness to take on criminals, including the PCC, the notorious São Paulo-based drugs, guns and extortion cartel, has earned him death threats. </p><span id="midArticle_7"/><p>He lives under 24-hour police protection and spends much of his time wearing a bullet-resistant vest, said Eduardo Maia, president of the Lagarto chapter of Brazil's bar association, the OAB. </p><span id="midArticle_8"/><p>Maia was partly supportive of Montalvão, saying that the judge was facing the same challenge raised by Apple Corp's refusal to help the U.S. Federal Bureau of Investigation access encrypted messages on an iPhone used by one of the shooters in an attack in San Bernardino, California.  </p><span id="midArticle_9"/><p>"Under Brazilian law, Montalvão's order was perfectly legal," Maia said. "WhatsApp and Facebook weren't providing or storing information that our Internet laws require them to keep, and for them to criticize the judge for that is rather arrogant." </p><span id="midArticle_10"/><p>The problem, Maia said, is whether that law can be "met by any company, and was the order proportional to the problem the judge was trying to solve?"</p><span id="midArticle_11"/><p>"I don't think so," he said. "But that debate is going on everywhere." </p><span id="midArticle_12"/><span id="midArticle_13"/><p> (Reporting by Jeb Blount; Additional reporting by Brad Brooks in Rio de Janeiro; Editing by Brad Brooks and Frances Kerry)</p><span id="midArticle_14"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/technologyNews/~3/gOTyT_lnDFw/us-brazil-whatsapp-judge-idUSKCN0XX23C">Source </a>

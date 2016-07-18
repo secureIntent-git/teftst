@@ -1,0 +1,51 @@
+---
+ID: 389
+post_title: 'Security News This Week: Now California Wants to Ban Encrypted Phones, Too'
+author: Staff Writer
+post_date: 2016-01-24 07:31:25
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/security-news-this-week-now-california-wants-to-ban-encrypted-phones-too/
+published: true
+original_cats:
+  - >
+    Threat Level,encryption,security this
+    week,Tor,Security,FBI
+original_title:
+  - 'Security News This Week: Now California Wants to Ban Encrypted Phones, Too'
+original_link:
+  - >
+    http://feeds.wired.com/c/35185/f/661370/s/4d1392c7/sc/28/l/0L0Swired0N0C20A160C0A10Csecurity0Enews0Ethis0Eweek0Enow0Ecalifornia0Ewants0Eto0Eban0Eencrypted0Ephones0Etoo0C/story01.htm
+canonical_url:
+  - >
+    http://feeds.wired.com/c/35185/f/661370/s/4d1392c7/sc/28/l/0L0Swired0N0C20A160C0A10Csecurity0Enews0Ethis0Eweek0Enow0Ecalifornia0Ewants0Eto0Eban0Eencrypted0Ephones0Etoo0C/story01.htm
+---
+ [ad_1]
+<br><div id=""><p>This week, 16 states got tired of waiting for the Feds to do something and <a href="http://www.wired.com/2016/01/five-things-new-state-privacy-bills-could-teach-congress/">introduced their own legislation</a> that would provide new privacy protections for student data, employee social media accounts, location tracking, and more. Zcash, an untraceable Bitcoin alternative,<a href="http://www.wired.com/2016/01/zcash-an-untraceable-bitcoin-alternative-launches-in-alpha/"> launched its first public alpha release</a>. An Israeli research firm<a href="http://www.wired.com/2016/01/hack-brief-years-old-linux-bug/"> found an old Linux bug</a> that left millions of devices vulnerable. Kim Zetter explained everything we know so far about<a href="http://www.wired.com/2016/01/everything-we-know-about-ukraines-power-plant-hack/"> Ukraine’s power plant hack</a>. We learned that the toy drones we use for fun can also be <a href="http://www.wired.com/2016/01/when-good-drones-go-bad/">used by ISIS</a>. The <a href="http://www.wired.com/2016/01/worst-passwords-list/">annual list of the 25 worst passwords</a> <a href="http://www.wired.com/2016/01/worst-passwords-list/">made us all look dumb, but was actually a bit of hopeful news</a>. We also explained why, and how, you should <a href="http://www.wired.com/2016/01/secure-messaging-apps/">encrypt your selfies</a>.</p>
+<p>But that’s not all. Each Saturday we round up the news stories that we didn’t break or cover in depth at WIRED, but which deserve your attention nonetheless. As always, click on the headlines to read the full story in each link posted. And stay safe out there!</p>
+<h3><a href="http://arstechnica.com/tech-policy/2016/01/yet-another-bill-seeks-to-weaken-encryption-by-default-on-smartphones/">California Assemblymember Seeks to Ban the Sale of Encrypted Phones</a></h3>
+<p>Et tu, California? Not long after a New York lawmaker introducing a bill to prohibit the sale of smartphones with unbreakable encryption, California Assemblymember Jim Cooper has, well, introduced a bill to prohibit the sale of smartphones with unbreakable encryption. The only real difference is that New York has cited the fight against terrorism as its rationale, while the Golden State is going with human trafficking. The bill may be illegal under the Dormant Commerce Clause, lawyers speculated. Meanwhile, Senator Dianne Feinstein’s office told the Daily Dot that the Senate bill that would grant law enforcement access to encrypted communications,<a href="http://www.dailydot.com/politics/feinstein-encryption-bill-on-track/"> remains on track, despite rumors of a delay</a>.</p>
+<h3><a href="http://www.usatoday.com/story/news/2016/01/21/fbi-ran-website-sharing-thousands-child-porn-images/79108346/">The FBI Ran a Child Porn Site for Close to Two Weeks</a></h3>
+<p>After the FBI took control of Playpen, one of the largest child porn websites online, it didn’t shut it down. Instead, it spent 13 days early last year running the site in order to catch users. It left sexually explicit images of children online and did not block users from uploading new ones during that time period. The feds injected the site, hosted on Tor Hidden Services, with malware to crack the anonymity of its users. More than 100,000 registered users visited the site while it was controlled by the FBI. Of those, 137 have been charged with a crime. In the past, the government has instructed agents not to allow explicit images of children to become public.</p>
+<h3><a href="https://motherboard.vice.com/read/teens-who-hacked-cia-director-also-hit-white-house-official">Teen Hacker Hits Another White House Official</a></h3>
+<p>John Holdren, President Obama’s senior advisor on science and technology, is the latest victim of a hacker associated with the now-disbanded group Crackas With Attitude. A teen going by the moniker “Fearz” apparently used a spear phishing attack to break into Holdren’s email account and home phone number, and forwarded calls to the Free Palestine Movement. (Crackas With Attitude hacked Director of National Intelligence James Clapper just last week). The White House confirmed the hack.</p>
+<h3><a href="https://theintercept.com/2016/01/19/miranda-appeal-uk-terrorism-fundamental-rights-violated/">In David Miranda Case, UK Court Rules that the Terrorism Act Violates Rights of Free Press</a></h3>
+<p>UK counterterrorism laws violate the right to a free press, a British appeals court ruled in a case involving the seizure of encrypted documents from David Miranda in August 2013. Miranda, the partner of journalist Glenn Greenwald, faced a nine-hour interrogation at Heathrow airport while transporting Snowden documents from Laura Poitras to Greenwald. British authorities had previously argued that disclosing (or threatening to disclose) the Snowden files was itself a terrorist act. The court determined that detention of Miranda was lawful under Schedule 7 of the Terrorism Act, but also stated that the statute itself is incompatible with Article 10 of the European Convention of Human Rights, which provides the right to freedom of expression and information. This ruling will require government ministers to reexamine the Terrorism Act.</p>
+<h3><a href="http://arstechnica.com/tech-policy/2016/01/phone-crypto-scheme-facilitates-undetectable-mass-surveillance/">GCHQ-Built Phone Voice Encryption Has a Massive Backdoor</a></h3>
+<p>MIKEY-SAKKE, the voice encryption protocol promoted by the British intelligence agency GCHQ, has a massive backdoor that would allow for undetectable mass surveillance, according to Steven Murdoch, a research fellow at University College in London. The backdoor would allow anyone with access to a master private key to decrypt communications in bulk, including past calls. Key escrow, an arrangement where everyone’s keys are stored by a third party—such as the government—who can use the key to decrypt communications as needed, is the motivation for the broken protocol,<a href="https://www.benthamsgaze.org/2016/01/19/insecure-by-design-protocols-for-encrypted-phone-calls/"> Murdoch wrote</a>.</p>
+<h3><a href="http://www.pewinternet.org/2016/01/14/privacy-and-information-sharing/">Pew Study: Americans Will Sometimes Trade Privacy for Discounts</a></h3>
+<p>Americans are sometimes willing to give up their privacy in exchange for sweet deals, a new Pew Research Center study indicates. However, when assessing various hypothetical scenarios, the vast majority of people surveyed found certain tradeoffs unacceptable. Many also expressed concern about the security of the information they did share, and anger about negative consequences of data sharing, like third party advertising, invasive customer profiling, and the gathering of location data.</p>
+<h3><a href="http://www.reuters.com/article/us-netherlands-crime-bitcoin-idUSKCN0UY0V8">10 Arrested in the Netherlands for Deep Web Drug Deals and Bitcoin Laundering</a></h3>
+<p>After raiding 15 addresses across the Netherlands, Dutch police arrested 10 men they suspected of using Bitcoin to launder as much as $22 million from online drug deals on the deep web. The men were caught after numerous bank deposits and withdrawals of large sums of cash, De Telegraaf reports.</p>
+<h3><a href="http://www.dailydot.com/politics/anonymity-homeland-security-erik-barnett/">Homeland Security Official Wants to Kill Online Anonymity</a></h3>
+<p>Add Erik Barnett to the list of government officials looking to outlaw anonymity. The US Immigration and Customs Enforcement assistant deputy director, who also serves as an attaché to the EU at the Department of Homeland Security, argued that everyone should be required to display a digital license plate while browsing online<a href="http://www.observatoire-fic.com/whose-privacy-are-we-protecting-balancing-rights-to-anonymity-with-rights-to-public-safety/#sthash.flICCBfj.dpuf"> in an article</a> published in FIC Observatory.</p>
+<h3><a href="http://www.huffingtonpost.com/entry/fake-politico-reporter-facebook_us_569d58a9e4b04c8137612c37">Prominent Journalists and Editors Keep Friending These Two Fake Reporters</a></h3>
+<p>Verifying information may be old hat to journalists, but apparently that doesn’t extend to cross-referencing Facebook friend requests from people claiming to be journalists with the mastheads of publications they claim to write for. “Emma Parker,” a Facebook user pretending to be a Politico reporter, has managed to friend reporters and editors at prominent publications including the New York Times, the Washington Post, Bloomberg, and even Politico itself—in spite of the fact that there is no Politico reporter by that name. Meanwhile, “Anna Goldberg,” a Facebook user claiming to be a journalist at the Atlantic, has made friends with unsuspecting journalists at ABC News, IBTimes, and Politico. Reverse image searches for both so-called journalists lead to Russian LinkedIn accounts.</p>
+
+			<a class="visually-hidden skip-to-text-link focusable bg-white" href="#start-of-content">Go Back to Top. Skip To: Start of Article.</a>
+
+			
+</div>
+<br>[ad_2]
+<br><a href="http://feeds.wired.com/c/35185/f/661370/s/4d1392c7/sc/28/l/0L0Swired0N0C20A160C0A10Csecurity0Enews0Ethis0Eweek0Enow0Ecalifornia0Ewants0Eto0Eban0Eencrypted0Ephones0Etoo0C/story01.htm">Source </a>

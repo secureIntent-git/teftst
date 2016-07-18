@@ -1,0 +1,23 @@
+---
+ID: 3825
+post_title: 'Airlines say Congress is contributing to long airport lines &#8211; Las Vegas Review-Journal'
+author: Staff Writer
+post_date: 2016-05-21 08:43:07
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/airlines-say-congress-is-contributing-to-long-airport-lines-las-vegas-review-journal/
+published: true
+original_cats:
+  - Top Stories
+original_title:
+  - 'Airlines say Congress is contributing to long airport lines - Las Vegas Review-Journal'
+original_link:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFj4nFqZx4VOfE6eU1SHw8lH48-gQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779111454555&#038;ei=mh9AV-iYJJzLhAGRsqjwCQ&#038;url=http://www.reviewjournal.com/business/aviation/airlines-say-congress-contributing-long-airport-lines'
+canonical_url:
+  - 'http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFj4nFqZx4VOfE6eU1SHw8lH48-gQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779111454555&#038;ei=mh9AV-iYJJzLhAGRsqjwCQ&#038;url=http://www.reviewjournal.com/business/aviation/airlines-say-congress-contributing-long-airport-lines'
+---
+ [ad_1]
+<br><div readability="101"><p>DALLAS — As airport security lines get longer, the finger-pointing over blame is growing too.</p><p>The nation’s leading airlines, already feuding with the Transportation Security Administration, are now taking on Congress.</p><p>The trade group Airlines for America on Thursday said Congress should reverse a 2013 decision that diverted $12.6 billion in passenger-security fees to reducing the federal budget deficit. The airlines want that money to pay for airport security screening.</p><p>Meanwhile, Homeland Security Secretary Jeh Johnson has joined a handful of senators in asking airlines to waive fees on checked bags. They say that would lead to fewer carry-on bags for TSA to screen.</p><p>Neither side is giving ground, and passengers are stuck in the middle.</p><p>Airlines say lines are long because TSA is understaffed while travel is expected to hit a record high this summer. Congress has advanced TSA money to hire 768 more screeners and pay overtime this summer, but airlines say that won’t be good enough.</p><p>They have zeroed in on a 2013 budget bill in which Congress raised security fees on airline tickets and ordered the Homeland Security Department to set aside $12.6 billion over 10 years to reduce the deficit, including $1.25 billion this year.</p><p>“That decision has come home to roost,” said Nick Calio, president of the airline trade group. He said in a letter to senators that Congress should immediately put that money into screening passengers, “where it belongs.”</p><p>Earlier, Johnson asked the airlines to suspend fees on checked bags, which encourage passengers to take more carry-on luggage through TSA checkpoints.</p><p>“Inspecting carry-on luggage has a lot to do with the wait time,” Johnson told reporters in Washington on Tuesday night. “We have asked the airlines to consider possibly eliminating the checked-baggage fee to encourage people to check their luggage rather than putting it in the carry on.”</p><p>Airlines are resisting. They say that bag fees have been common since 2008 and that long lines were not a big problem until this year. They also note that some of the longest lines have been at Chicago’s Midway Airport, where the dominant carrier, Southwest Airlines, charges only for three or more bags.</p><p>U.S. airlines raised $3.8 billion from bag fees last year, according to the government.</p><p>Airlines and TSA agree that lines would be shorter if more passengers paid for expedited screening. The airline trade group says TSA should make that happen by waiving the $85 fee for “PreCheck,” which speeds things up because passengers don’t have to remove shoes, belts and light jackets and can leave laptops in their bags.</p><p>The TSA says that about $35 of the fee — which is good for five years — goes to the cost of vetting passengers and the rest is paid to the vendor who signs up passengers, MorphoTrust USA, so there is nothing to waive.</p></div>
+<br>[ad_2]
+<br><a href="http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFj4nFqZx4VOfE6eU1SHw8lH48-gQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;cid=52779111454555&#038;ei=mh9AV-iYJJzLhAGRsqjwCQ&#038;url=http://www.reviewjournal.com/business/aviation/airlines-say-congress-contributing-long-airport-lines">Source </a>

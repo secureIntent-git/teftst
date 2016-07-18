@@ -1,0 +1,38 @@
+---
+ID: 1620
+post_title: >
+  Clinton, Sanders clash over trade and
+  auto bailout in Michigan debate
+author: Staff Writer
+post_date: 2016-03-07 04:44:09
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/clinton-sanders-clash-over-trade-and-auto-bailout-in-michigan-debate/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    Clinton, Sanders clash over trade and
+    auto bailout in Michigan debate
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/8wOJ1_2gxkg/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/8wOJ1_2gxkg/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="7"><p><span class="articleLocation">FLINT, Mich.</span> Democratic presidential contenders Bernie Sanders and Hillary Clinton clashed angrily over trade, the auto industry bailout and Wall Street in a Michigan debate on Sunday, with Sanders accusing Clinton of backing trade deals that robbed the state of jobs.</p></span><span id="midArticle_1"/><p>In a debate in Flint, Michigan, Sanders said Clinton supported "disastrous" trade policies that moved manufacturing jobs out of cities like Flint and Detroit and shifted them overseas.</p><span id="midArticle_2"/><p>But Clinton said Sanders' opposition to the 2009 auto bailout, a crucial issue in a state that is home to the U.S. auto industry, would have cost the state millions of jobs. The bailout, which Clinton supported, passed Congress and has been credited with helping save the U.S. industry.</p><span id="midArticle_3"/><p>"If everybody had voted the way he did, I believe the auto industry would have collapsed, taking 4 million jobs with it," Clinton, the former secretary of state, said of Sanders.</p><span id="midArticle_4"/><p>The debate came as Sanders, a U.S. senator from Vermont,  struggled to slow Clinton's march to the nomination to face the Republican candidate in the Nov. 8 general election to succeed Democratic President Barack Obama. Media organizations predicted that Sanders would win Sunday's Maine caucus.</p><span id="midArticle_5"/><p>Sanders also questioned the sincerity of Clinton's conversion to opposing the Trans-Pacific Partnership, a proposed 12-nation Pacific Rim trade deal.</p><span id="midArticle_6"/><p>Clinton "has discovered religion on this issue, but it’s a little too late," he said. "Secretary Clinton supported virtually every one of these disastrous trade agreements written by corporate America."</p><span id="midArticle_7"/><p>The two contenders cut each other off on several occasions, a rare occurrence in a race that has been much more polite than the raucous Republican presidential campaign.</p><span id="midArticle_8"/><p>"Excuse me, I'm talking," Sanders said to Clinton when she tried to interrupt. "If you're going to talk, tell the whole story," Clinton responded.</p><span id="midArticle_9"/><p>Sanders repeated his charge that Clinton is too close to Wall Street and demanded again that she release the transcript of paid speeches she has given to Wall Street firms. Clinton said she would release them when all the candidates, including Republicans, also release transcripts of similar talks.</p><span id="midArticle_10"/><span id="midArticle_11"/>
+        
+        <span class="first-article-divide"/><p>'THERE AIN'T NOTHING'</p><span id="midArticle_12"/><p>Throwing up his hands, Sanders said: "I'll release it. Here it is. There ain't nothing! I don’t give speeches to Wall Street!"</p><span id="midArticle_13"/><p>Both candidates said they would beat Republican front-runner Donald Trump if they face the brash billionaire businessman in the November presidential election.</p><span id="midArticle_14"/><p>"I think Donald Trump's bigotry, his bullying, his bluster, are not going to wear well on the American people," Clinton said. "We have to end the divisiveness."</p><span id="midArticle_15"/><p>The debate was held in Flint to highlight the city's water contamination crisis, and both candidates expressed outrage at Flint's plight and demanded state and federal money begin to flow immediately to begin relief and rebuilding efforts.</p><span id="midArticle_0"/><p>Both candidates condemned local officials who they said abetted the crisis in Flint, and demanded the resignation of Republican Governor Rick Snyder of Michigan.</p><span id="midArticle_1"/>
+        
+        <span class="second-article-divide"/><p>"People should be held accountable, wherever that leads," Clinton said, adding an investigation should determine who in state and federal government was responsible. "There has to be absolute accountability."</p><span id="midArticle_2"/><p>"What is going on is a disgrace beyond belief," Sanders said, plugging his plan to spend $1 trillion to rebuild crumbling infrastructure across the United States.</p><span id="midArticle_3"/><p>The crisis in Flint, a predominantly black city of 100,000, was triggered when an emergency city manager installed by Snyder switched the city's water supply to the nearby Flint River from Lake Michigan to save money.</p><span id="midArticle_4"/><p>The change corroded Flint's aging pipes and released lead and other toxins into the water supply, exposing thousands of residents including children to high lead levels that have sparked serious health problems.</p><span id="midArticle_5"/><span id="midArticle_6"/>
+        
+        <span class="third-article-divide"/><p>CLINTON LEADS IN POLLS</p><span id="midArticle_7"/><p>Opinion polls show Clinton, 68, leading in Michigan and Mississippi, which vote on Tuesday. She also leads in polls in several big states that vote on March 15, including Ohio and Florida.</p><span id="midArticle_8"/><p>Sanders, 74, faces a tough challenge erasing Clinton's lead of about 200 bound delegates who will choose the nominee at the July convention. Since the Democratic race awards delegates in each state  proportionally, she will keep gathering delegates even in those states she loses.</p><span id="midArticle_9"/><p>The Democratic debate occurred one day after Sanders won nominating contests in Kansas and Nebraska, and Clinton won the bigger prize of Louisiana, a win that allowed her to slightly expand her delegate lead.</p><span id="midArticle_10"/><p>On the Republican side, Trump and U.S. Senator Ted Cruz of Texas were angling on Sunday for a two-man race for the party's presidential nomination after splitting four state nominating contests at the weekend.</p><span id="midArticle_11"/><p>The wins for Trump, 69, and Cruz, 45, on Saturday were a setback for party leaders, who have largely opposed Trump and hinted they prefer Rubio, 44, who took third or fourth in Saturday's four Republican contests.</p><span id="midArticle_12"/><p>Cruz has been predicting a two-man race with Trump for several weeks. </p><span id="midArticle_13"/><p>On Sunday, Rubio was projected to win in Puerto Rico, his second victory to date in nominating contests across U.S. states and territories. Ohio Governor John Kasich, 63, the only other candidate remaining from a starting field of 17, has yet to win any state.</p><span id="midArticle_14"/><p>The Republican competition moves on Tuesday to Michigan, Mississippi, Idaho and Hawaii, where Trump hopes to expand his lead in delegates ahead of a party convention in July.</p><span id="midArticle_15"/><span id="midArticle_16"/><p> (Additional reporting by Alana Wise, Luciana Lopez and Jonathan Allen; Editing by Howard Goller and Peter Cooney)</p><span id="midArticle_17"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/8wOJ1_2gxkg/story01.htm">Source </a>

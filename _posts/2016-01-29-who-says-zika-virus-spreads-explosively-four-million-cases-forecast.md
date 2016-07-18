@@ -1,0 +1,38 @@
+---
+ID: 539
+post_title: >
+  WHO says Zika virus spreads explosively,
+  four million cases forecast
+author: Staff Writer
+post_date: 2016-01-29 14:26:23
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/who-says-zika-virus-spreads-explosively-four-million-cases-forecast/
+published: true
+original_cats:
+  - topNews,WHO
+original_title:
+  - >
+    WHO says Zika virus spreads explosively,
+    four million cases forecast
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/D1xxX9ado8s/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/D1xxX9ado8s/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="7"><p><span class="articleLocation">GENEVA</span> The Zika virus, linked to severe birth defects in thousands of babies in Brazil, is "spreading explosively" and could infect as many as 4 million people in the Americas, the World Health Organization (WHO) said on Thursday.</p></span><span id="midArticle_1"/><p>Director-General Margaret Chan told members of the U.N. health agency's executive board the spread of the mosquito-borne disease had gone from a mild threat to one of alarming proportions. The WHO would convene an emergency meeting on Monday to help determine its response, she said.</p><span id="midArticle_2"/><p>"The level of alarm is extremely high," Chan told the Geneva gathering.</p><span id="midArticle_3"/><p>"Last year, the virus was detected in the Americas, where it is now spreading explosively. As of today, cases have been reported in 23 countries and territories in the region," Chan said, promising quick action from the WHO.</p><span id="midArticle_4"/><p>The agency was criticized last year for reacting too slowly to West Africa's Ebola epidemic, which killed more than 10,000 people, and it promised to cut its response time.     </p><span id="midArticle_5"/><p>"We are not going to wait for the science to tell us there is a link (with birth defects). We need to take actions now," Chan said, referring to the condition called microcephaly in which babies are born with abnormally small heads and brains that have not developed properly.</p><span id="midArticle_6"/><p>There is no vaccine or treatment for Zika, which is like dengue and causes mild fever, rash and red eyes. An estimated 80 percent of people infected have no symptoms. Much of the effort against the illness focuses on protecting people from mosquitoes and reducing mosquito populations.</p><span id="midArticle_7"/><p>Developing a safe and effective vaccine could take a year, WHO Assistant Director Bruce Aylward said, and it would take six to nine months just to confirm whether Zika is the actual cause of the birth defects, or if the two are just associated. </p><span id="midArticle_8"/><p>"In the area of vaccines, I do know that there has been some work done by some groups looking at the feasibility of a Zika virus vaccine. Now something like that, as people know, is going to be a 12-month-plus time frame," he said. </p><span id="midArticle_9"/>
+        
+        <span class="first-article-divide"/><p>U.S. health officials said the United States has two potential candidates for a Zika vaccine and may begin human clinical trials by the end of this year, but there will not be a widely available vaccine for several years.</p><span id="midArticle_10"/><p>Marcos Espinal, head of communicable diseases at the Pan American Health Organization, the WHO's Americas arm, forecast 3 to 4 million Zika cases in the Americas.</p><span id="midArticle_11"/><p>As the virus spreads from Brazil, other countries in the Americas are likely to see cases of babies with Zika-linked birth defects, according to Carissa Etienne, regional director for the Pan American Health Organization.</p><span id="midArticle_12"/><p>Brazil has reported around 4,000 suspected cases of microcephaly, vastly more than in an average year and equivalent to 1 to 2 percent of all newborns in the state of Pernambuco, one of the worst-hit areas.</p><span id="midArticle_13"/><p>The WHO's Chan said that while a direct causal relationship between Zika virus infection and birth malformations has not yet been established, it is strongly suspected. </p><span id="midArticle_14"/>
+        
+        <span class="second-article-divide"/><p>"The possible links, only recently suspected, have rapidly changed the risk profile of Zika from a mild threat to one of alarming proportions," she said. </p><span id="midArticle_15"/><p>Health and law expert Lawrence Gostin of Georgetown University in Washington, who had urged the WHO to act, welcomed Chan's decision to convene an expert meeting, calling it "a critical first step in recognizing the seriousness of an emerging epidemic." </p><span id="midArticle_0"/><span id="midArticle_1"/><p>OLYMPICS CONCERNS</p><span id="midArticle_2"/><p>With Rio de Janeiro set to host the Olympics from Aug. 5 to Aug. 21, International Olympic Committee President Thomas Bach said the IOC will issue guidelines this week concerning Zika.</p><span id="midArticle_3"/>
+        
+        <span class="third-article-divide"/><p>"We will do everything to ensure the health of the athletes and all the visitors," Bach told reporters in Athens.</p><span id="midArticle_4"/><p>Dr. Anne Schuchat of the U.S. Centers for Disease Control and Prevention, said there have been 31 cases of Zika infection among U.S. citizens who traveled to areas affected by the virus.     </p><span id="midArticle_5"/><p>"It's possible and even likely that we will see limited outbreaks in the United States," Schuchat said.</p><span id="midArticle_6"/><p>In Washington, U.S. Senator Edward Markey of Massachusetts called on the WHO and the U.S. Department of Health and Human Services to explain how they were tackling the virus because many Americans visit the affected region and more are expected to attend the Olympics.</p><span id="midArticle_7"/><p>White House spokesman Josh Earnest said President Barack Obama's administration's concern was focused mostly on pregnant women or women who could become pregnant, given the link to microcephaly.</p><span id="midArticle_8"/><p>Lufthansa (<span id="symbol_LHAG.DE_0">LHAG.DE</span>), British Airways (<span id="symbol_ICAG.L_1">ICAG.L</span>) and JetBlue (<span id="symbol_JBLU.O_2">JBLU.O</span>) became the latest international carriers to offer rebookings or refunds for tickets to areas impacted by the virus.</p><span id="midArticle_9"/><p>Lufthansa and British Airways said they would offer pregnant women the opportunity to change their reservations to another destination or delay travel. They stopped short of offering complete refunds as several U.S. airlines have. </p><span id="midArticle_10"/><span id="midArticle_11"/><p> (Additional reporting by <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=kate.kelland&amp;"/><a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=kate.kelland&amp;">Kate Kelland</a> in London; Additional reporting by Susan Heavey in Washington and Julie Steenhuysen in Chicago; Writing by Kate Kelland and <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=will.dunham&amp;">Will Dunham</a>; Editing by <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=mark.heinrich&amp;">Mark Heinrich</a> and <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=frances.kerry&amp;">Frances Kerry</a>)</p><span id="midArticle_12"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/D1xxX9ado8s/story01.htm">Source </a>

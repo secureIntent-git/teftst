@@ -1,0 +1,38 @@
+---
+ID: 519
+post_title: >
+  Syria peace talks derailed as opposition
+  stays away
+author: Staff Writer
+post_date: 2016-01-28 21:47:55
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.whenitson.com/syria-peace-talks-derailed-as-opposition-stays-away/
+published: true
+original_cats:
+  - topNews
+original_title:
+  - >
+    Syria peace talks derailed as opposition
+    stays away
+original_link:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/duMwrFk44FA/story01.htm
+canonical_url:
+  - >
+    http://feeds.reuters.com/~r/reuters/topNews/~3/duMwrFk44FA/story01.htm
+---
+ [ad_1]
+<br><div id="articleText">
+<span id="midArticle_start"/>
+
+<span id="midArticle_0"/><span class="focusParagraph" readability="5"><p><span class="articleLocation">AMMAN/BEIRUT/GENEVA</span> The Syrian opposition said it will not attend peace talks due to begin in Geneva on Friday, derailing the first attempt in two years to hold negotiations aimed at ending the five-year-long war.</p></span><span id="midArticle_1"/><p>An opposition council convening in Riyadh said its delegation would "certainly" not be in Geneva on Friday, saying it had not received convincing answers to its demands for goodwill steps including an end to air strikes and blockades.</p><span id="midArticle_2"/><p>The failure to get talks off the ground on time reflects the challenges facing peace-making as the conflict rages unabated on the ground.</p><span id="midArticle_3"/><p>The Syrian government is clawing back territory from rebels with military help from Iran and Russia. It has said it is ready to attend the negotiations, which U.N. envoy Staffan de Mistura plans to hold in an indirect format.</p><span id="midArticle_4"/><p>Another opposition representative said the delegation might turn up if their demands were met in a day or two, but the chances of that appeared vanishingly slim. </p><span id="midArticle_5"/><p>The turn of events is a bitter blow to De Mistura, whose office had issued a video message that he had sent to the Syrian people, in which he said the talks were expected to happen "in the next few days".</p><span id="midArticle_6"/><p>A spokeswoman for his office, speaking before the opposition statement, said the talks would begin on Friday as scheduled.</p><span id="midArticle_7"/><p>George Sabra, a member of the opposition High Negotiations Committee (HNC), said: "For certain we will not head to Geneva and there will not be a delegation from the High Negotiations Committee tomorrow in Geneva."</p><span id="midArticle_8"/><span id="midArticle_9"/><p>GUARANTEES</p><span id="midArticle_10"/>
+        
+        <span class="first-article-divide"/><p>Before agreeing to talks, the HNC had been seeking U.N. guarantees of steps including a halt to attacks on civilian areas, a release of detainees, and a lifting of blockades. The measures were mentioned in a Security Council resolution approved last month that endorsed the peace process for Syria.</p><span id="midArticle_11"/><p>Sabra said a response from de Mistura was "unfortunately still ink on paper". "We are not certain that the opportunity is historic," he told Arabic news channel Arabiya al-Hadath.</p><span id="midArticle_12"/><p>Riad Hijab, who heads the Syrian opposition council, told Arabiya TV members might be in the city of Geneva, but would not attend the talks. He demanded immediate steps to alleviate the plight of Syrians under siege and bombardment.</p><span id="midArticle_13"/><p>Another HNC official said the opposition could attend if their demands were met "within two, three or four days."</p><span id="midArticle_14"/><p>"Tomorrow will probably the start will be with those who attend but it has no value," Monzer Makhous told Al-Hadath.</p><span id="midArticle_15"/>
+        
+        <span class="second-article-divide"/><p>The talks were meant to start in Geneva on Monday but the United Nations has pushed them back to Friday to allow more time to resolve problems including a dispute over which groups should be invited to negotiate with the government.</p><span id="midArticle_0"/><p>The exclusion of a powerful Kurdish faction that controls wide areas of northern Syria has triggered a boycott by some of the invitees. Turkey had opposed the PYD's participation on the ground it views it as a terrorist group. </p><span id="midArticle_1"/><p>The United States, whose Secretary of State John Kerry is among those pushing for negotiations to start on Friday, urged the opposition to seize the "historic opportunity" and enter talks without preconditions to end the war, which has also displaced more than 11 million people.</p><span id="midArticle_2"/><p>Diplomacy has so far had little impact on the conflict, which has spawned a refugee crisis in neighboring states and Europe. De Mistura is the third international envoy for Syria. His two predecessors - Kofi Annan and Lakhdar Brahimi - both quit.</p><span id="midArticle_3"/><span id="midArticle_4"/>
+        
+        <span class="third-article-divide"/><p>"TERRORISTS IN A NEW MASK"</p><span id="midArticle_5"/><p>Enormous challenge include tension between Saudi Arabia and Iran, which are vying for influence across the region, and the underlying dispute over the future of Syrian President Bashar al-Assad.</p><span id="midArticle_6"/><p>With backing from Iranian fighters and Lebanon's Hezbollah on the ground, and Russian air raids, the government has recaptured areas in the west, northwest and south of Syria since Moscow intervened last September, reversing rebel gains.</p><span id="midArticle_7"/><p>The HNC groups political and armed groups fighting Assad. It includes some of the main armed groups fighting in western Syria, including the Islamist Jaysh al-Islam, which is deemed a terrorist group by Russia, and Free Syrian Army factions that have received military support from states including the Saudi Arabia and the United States.</p><span id="midArticle_8"/><p>Earlier this week the Syrian army took a strategic town in the southern province of Deraa, securing its supply routes from the capital to the south, days after retaking more territory in Latakia province.    </p><span id="midArticle_9"/><p>Damascus, Tehran and Moscow have objected to the inclusion of groups they consider terrorists in any peace talks.</p><span id="midArticle_10"/><p>Deputy Iranian Foreign Minister Hossein Amirabdollahian said on Thursday his country strongly opposed moves by Saudi Arabia to allow "terrorists in a new mask" to sit down for talks.   </p><span id="midArticle_11"/><p>Syria's opposition has said it has come under pressure from Kerry to attend the talks in order to negotiate over the very steps which it says must be implemented beforehand.</p><span id="midArticle_12"/><span id="midArticle_13"/><p> (Additional reporting by <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=thomas.perry&amp;"/><a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=thomas.perry&amp;">Tom Perry</a> and <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=mariam.karouny&amp;">Mariam Karouny</a> in Beirut, <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=john.irish&amp;">John Irish</a> in Paris, Ali Abdelatti in Cairo,; Tom Miles in Geneva and Alexander Winning in Moscow; writing by Tom Perry; editing by <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=mark.trevelyan&amp;">Mark Trevelyan</a> and <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=philippa.fletcher&amp;">Philippa Fletcher</a>)</p><span id="midArticle_14"/></div>
+<br>[ad_2]
+<br><a href="http://feeds.reuters.com/~r/reuters/topNews/~3/duMwrFk44FA/story01.htm">Source </a>
